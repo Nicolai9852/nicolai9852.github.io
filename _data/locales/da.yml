@@ -37,13 +37,13 @@ copyright:
   # Displayed in the footer
   brief: Nogle rettigheder reserveret.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Medmindre andet er angivet, er blogopslag på denne side beskyttet
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) licens af forfatteren.
 
 # meta: Using the :THEME theme for :PLATFORM.
 
 not_found:
-  statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statement: Beklager, vi har peget denne URL på et forkert sted, eller opslaget findes ikke mere.
 
 notification:
   update_found: En ny version af indholdet er fundet!
