@@ -3,6 +3,8 @@ title: Webtilgængelighed
 date: 2025-04-27 20:05:00 +/-0
 categories: [Browser, Webtilgængelighed]
 tags: [google,browser,wcag]     # TAG names should always be lowercase
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg
 ---
 
 ## Hvorfor webtilgængelighed?

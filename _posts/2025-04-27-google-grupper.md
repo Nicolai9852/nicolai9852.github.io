@@ -3,6 +3,8 @@ title: Google Grupper
 date: 2025-04-27 18:16:45 +/-0
 categories: [Browser, Administration]
 tags: [google,groups,browser,administration]     # TAG names should always be lowercase
+image:
+ path: https://upload.wikimedia.org/wikipedia/commons/d/d5/Google_Groups_icon.png
 ---
 
 ## Kort om Google Grupper
