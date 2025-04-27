@@ -19,6 +19,8 @@ Jeg har selv brugt dem til
 * Administration af adgang til Drev
 * Invitation til Kalenderbegivenheder
 
+Det bedste af det hele - Google Grupper er gratis at bruge.
+
 ## Mailliste
 Hvis du har en gruppe af mennesker, som alle skal have den samme besked, er det oftest lettere at skrive til en gruppe end alle mailadresser individuelt.
 
