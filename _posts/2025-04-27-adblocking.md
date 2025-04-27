@@ -2,7 +2,7 @@
 title: Adblocking
 date: 2025-04-27 19:43:00 +/-0
 categories: [Browser, Udvidelser]
-tags: [ublock origin,adblock]     # TAG names should always be lowercase
+tags: [ublock origin,adblock,google]     # TAG names should always be lowercase
 ---
 
 ## Adblocking generelt
