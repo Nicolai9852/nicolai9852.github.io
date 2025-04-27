@@ -14,3 +14,6 @@ Vil du opdatere flere overskrifter på en gang?
 
 ## Referencehåndtering
 [Se min artikel om Zotero](/posts/zotero)
+
+---
+*Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*

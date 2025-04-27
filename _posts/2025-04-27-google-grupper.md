@@ -35,3 +35,6 @@ Samtidigt er det også muligt at de kan melde sig ud af Google Gruppen og miste 
 ## Kalenderbegivenheder
 Det er muligt at invitere en gruppe til en kalenderbegivenhed.
 På den må får alle let og hurtigt invitationen
+
+---
+*Billedkredditering: Google, Public domain, via Wikimedia Commons*
