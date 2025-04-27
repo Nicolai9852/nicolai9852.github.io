@@ -7,6 +7,7 @@ tags: [ublock origin,adblock,google]     # TAG names should always be lowercase
 
 ## Adblocking generelt
 Alle hader reklamer...
+Men kan vi slippe for dem?
 
 ## Min anbefaling
 Jeg har været en kæmpe fan af UBlock Origin i længere tid.
