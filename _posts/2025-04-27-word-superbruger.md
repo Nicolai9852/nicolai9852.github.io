@@ -10,7 +10,23 @@ image:
 ## Opdatering af overskrifter
 Vil du opdatere flere overskrifter på en gang?
 
+1. Vælg en af dine typografier i toppen af dit Word-dokument. Det kunne fx være Overskrift 2.
+2. Højreklik og trk *Rediger*
+3. Lav nu om i overskriften som du har lyst til
+   1. Du kan ændre ting som font, skriftstørrelse, farve m.m.
+4. Sæt flueben i *Opdater automatisk*
+5. Overvej om dette skal være generelt for dine dokumenter eller kun dette. Du kan enten vælge *Kun i dette dokument* eller *Nye dokumenter baseret på skabelonen*
+6. Tryk OK
 
+Hvis vi følger eksemplet, vil alle dine Overskrift 2'er bliver opdateret med den nye formattering
+
+## Hvilken overskrift skal jeg vælge?
+Jeg skrev i 2025 en artikel omkring overskrifter på hjemmesider, som også er brugbar for dokumenter i den akademiske skrivning: <https://support.kirkenettet.dk/hc/da/articles/25972341258130-Overskrifter-p%C3%A5-hjemmesider>
+<br>Om man laver en hjemmeside eller et dokument, følger den samme struktur for opsætningen af overskrifter.
+Nogle hovedpunkter er:
+* Der må ikke være mere end en Header 1 (Overskrift 1) på en side/dokument
+* Du må aldrig gå mere end et trin ned, fx fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
+* Du må gerne gå mere end et trin op hver gang, fx må du gerne gå fra Header 4 til Header 2
 
 ## Referencehåndtering
 [Se min artikel om Zotero](/posts/zotero)
