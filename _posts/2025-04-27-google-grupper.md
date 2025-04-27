@@ -10,6 +10,7 @@ I længere tid har jeg været facineret af, hvordan administrationen af mange br
 
 Jeg har ikke været det største fan af Microsoft, fordi jeg ofte synes, at det bliver ret bøvlet og synkroniseringer ofte tager lang tid.
 Derfor arbejder jeg mest i Google-miljøer, når jeg skal samarbejde med andre mennesker.
+*Jeg gider ikke komme ind på dataindsamling og den slags. Her tænker jeg kun på, hvad der virker...*
 
 En af de fede ting, som Google tilbyder, er [Google Grupper](https://groups.google.com).
 Google Grupper har mange forskellige funktioner.
