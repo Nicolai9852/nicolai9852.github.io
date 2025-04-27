@@ -12,6 +12,7 @@ Jeg bliver nogle gange spurgt om hjælp til teknik og ville nu prøve at gemme d
 
 ## Formålet
 Formålet med denne side er, at jeg bliver klogere på programmering og brugen af GitHub. Men ved samme lejlighed ønsker jeg at gøre dig klogere på nogle af de ting, jeg har lært gennem årene.
+Jeg laver som udgangspunkt kun et post, hvis det er noget, jeg har hjulpet andre med før.
 
 ## Sociale links
 Find mig på
