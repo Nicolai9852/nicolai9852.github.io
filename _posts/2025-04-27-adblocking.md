@@ -6,7 +6,7 @@ tags: [ublock origin,adblock,google]     # TAG names should always be lowercase
 ---
 
 ## Adblocking generelt
-Alle hader reklamer...
+Alle hader reklamer...<br>Det kræver ekstra energi at indlæse en side, hvis der også skal indlæses reklamer
 Men kan vi slippe for dem?
 
 ## Min anbefaling
