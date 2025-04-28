@@ -8,4 +8,4 @@ tags: [windows]     # TAG names should always be lowercase
 Brug Klippeværktøj på Windows til at tage skærmbilleder.
 
 Du kan desuden aktivere knappen *Print Scrn* på dit tastatur til at aktivere knappen.
-Det gør du i Windows Indstillinger --> Tilgængelighed --> Tastatur --> *Brug tasten PrintScrn til at åbne skærmbillede*
+<br>Åben [Windows Indstillinger --> Tilgængelighed --> Tastatur](ms-settings:easeofaccess-keyboard) --> *Brug tasten PrintScrn til at åbne skærmbillede*
