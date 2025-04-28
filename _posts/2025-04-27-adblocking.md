@@ -8,7 +8,7 @@ image:
 ---
 
 ## Min anbefaling
-Jeg har været en kæmpe fan af UBlock Origin i længere tid.
+Jeg har været en kæmpe fan af [UBlock Origin](https://ublockorigin.com/) i længere tid.
 <br>Hvorfor? Det er open-source, hvilket betyder at alle kan kigge og ændre i kildekoden. Derfor har udvikleren bag det heller ikke noget kommicielt formål.
 
 Flere browsere, som er bygget på webteknologien Chromium har dog forsøgt at lukke ned for denne og flere.<br>
