@@ -7,9 +7,6 @@ image:
   path: https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg
 ---
 
-## Adblocking generelt
-Nævn et menneske, som ikke hader reklamer...
-
 ## Min anbefaling
 Jeg har været en kæmpe fan af UBlock Origin i længere tid.
 <br>Hvorfor? Det er open-source, hvilket betyder at alle kan kigge og ændre i kildekoden. Derfor har udvikleren bag det heller ikke noget kommicielt formål.
