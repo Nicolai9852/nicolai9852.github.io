@@ -3,6 +3,8 @@ title: Accordance Bible Software - Dansk manual
 date: 2025-04-27 21:50:00 +/-0
 categories: [Teologen, Bibelen]
 tags: [bibelen,accordance,quick guide,software]     # TAG names should always be lowercase
+image:
+  path: https://yt3.googleusercontent.com/RU87t6zNZq5LLWFkzaLbVUO_fx57fIMqmK4WiUME-Jdn1kX4Sz67gqsxTwuBGSV1eCfJaTUpzQ=s900-c-k-c0x00ffffff-no-rj
 ---
 
 *Denne vejledning er oprindeligt udarbejdet af Morten Hørning Jensen med mine egne tilføjelser.*
@@ -217,7 +219,7 @@ Info Pane: Grammars. Giver oplysninger om det pågældende vers, hvis der er nog
  
 ### Næste skridt
 * eAcademy: [https://accordancebible.com/e-academy-main-page/](https://accordancebible.com/e-academy-main-page/)
-* Manualen: [http://www.accordancefiles1.com/products/Accordance11Manual-print.pdf](http://www.accordancefiles1.com/products/Accordance11Manual-print.pdf)
+* Manualen: [https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf](http://www.accordancefiles1.com/products/Accordance11Manual-print.pdf)
  
 ### Øvelser
 #### "Daglig eksegese"-ting
