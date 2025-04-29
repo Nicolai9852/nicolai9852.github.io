@@ -15,6 +15,7 @@ Udvalgte genvejstaster
 |Genvejstast|Hvad gør den?|
 |---|---|
 |Ctrl + A|Marker alt|
+|Ctrl + B|Søge-funktion|
 |Ctrl + S|Gem dokument|
 |Ctrl + Shift + piletast|Marker hele ord|
 
