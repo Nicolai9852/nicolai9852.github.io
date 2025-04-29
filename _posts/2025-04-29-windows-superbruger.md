@@ -10,11 +10,14 @@ image:
 Her er nogle tips til Windows 11.
 
 ## Genvejstaster
-|Genvejstast|Hvad gør den?
-|---|---|
-|Win + L|Lås computeren|
-|Win + V|Åben udklipsholder|
-|Prnt Scrn eller Prt Sc|Tag skærmbillede|
+
+Udvalgte genvejstaster
+
+|Genvejstast|Hvad gør den?|Kommentar|
+|---|---|---|
+|Win + L|Lås computeren|Efterlad din computer sikkert|
+|Win + V|Åben udklipsholder|Se tekst og billeder, som du har kopieret over den seneste tid|
+|Prnt Scrn eller Prt Sc|Tag skærmbillede|Se overskriften [Klippeværktøj](#klippeværktøj)|
 
 ## Klippeværktøj
 Brug Klippeværktøj på Windows til at tage skærmbilleder/screenshots.
