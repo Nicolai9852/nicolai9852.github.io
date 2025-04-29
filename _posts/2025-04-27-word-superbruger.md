@@ -7,6 +7,17 @@ image:
   path: https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg
 ---
 
+*Denne guide gælder i princippet også for Google Docs. Der kan dog være afvigelser ift. genvejstaster*
+
+## Genvejstaster
+Udvalgte gen
+
+|Genvejstast|Hvad gør den?|
+|---|---|
+|Ctrl + A|Marker alt|
+|Ctrl + S|Gem dokument|
+|Ctrl + Shift + piletast|Marker hele ord|
+
 ## Overskrifter
 Overskrifter kan være svære at finde ud af.<br>
 Vælger jeg den rigtige? Synes jeg, at den skal se anderledes ud?<br>
