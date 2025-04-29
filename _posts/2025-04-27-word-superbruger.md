@@ -10,7 +10,7 @@ image:
 *Denne guide gælder i princippet også for Google Docs. Der kan dog være afvigelser ift. genvejstaster*
 
 ## Genvejstaster
-Udvalgte gen
+Udvalgte genvejstaster
 
 |Genvejstast|Hvad gør den?|
 |---|---|
