@@ -8,11 +8,11 @@ image:
 ---
 
 ## Genvejstaster
-|Genvejstast|Hvad gør den?|Beskrivelse|
-|---|---|---|
-|Win + L|Lås computeren|Efterlad din computer sikkert|
-|Win + V|Åben udklipsholder|Giver dig en liste over de seneste ting du har kopieret. Både tekst og billeder|
-|Prnt Scrn eller Prt Sc|Tag skærmbillede|Se guiden herunder til aktivering af Klippeværktøj|
+|Genvejstast|Hvad gør den?
+|---|---|
+|Win + L|Lås computeren|
+|Win + V|Åben udklipsholder|
+|Prnt Scrn eller Prt Sc|Tag skærmbillede|
 
 ## Klippeværktøj
 Brug Klippeværktøj på Windows til at tage skærmbilleder/screenshots.
