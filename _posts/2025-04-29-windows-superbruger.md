@@ -12,13 +12,7 @@ image:
 |---|---|---|
 |Win + L|Lås computeren|Efterlad din computer sikkert...|
 |Win + V|Åben udklipsholder|Giver dig en liste over de seneste ting du har kopieret. Både tekst og billeder.|
-|Prnt Scrn/Prt Sc|Tag skærmbillede|[Se evt. seperat guide herunder](#klippeværktøj)|
-
-|Genvejstast|Hvad gør den?|Beskrivelse|
-|---|---|---|
-|Ctrl + A|Marker alt|x|
-|Ctrl + S|Gem dokument|x|
-|Ctrl + Shift + piletast|Marker hele ord|x|
+|Prnt Scrn/Prt Sc|Tag skærmbillede|Se guiden herunder til aktivering af Klippeværktøj|
 
 ## Klippeværktøj
 Brug Klippeværktøj på Windows til at tage skærmbilleder/screenshots.
