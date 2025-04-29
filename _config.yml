@@ -14,12 +14,12 @@ timezone: Europe/Copenhagen
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tech, du burde vide # the main title
+title: TeoTechTips # the main title
 
-tagline: Programmer og tips, som jeg gerne vil dele med andre # it will display as the subtitle
+tagline: Tekniske tips til teologistudet # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Programmer og tips, som jeg gerne vil dele med andre.
+  Tekniske tips og tricks til teologistudiet
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Nicolai Skødt Holmgaard
-  email: noreply@github.com # change to your email address
+  email: nicolai.s.holmgaard@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
