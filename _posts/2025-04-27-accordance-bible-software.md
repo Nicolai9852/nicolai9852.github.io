@@ -8,7 +8,7 @@ tags: [bibelen,accordance,quick guide,software]     # TAG names should always be
 *Denne vejledning er oprindeligt udarbejdet af Morten Hørning Jensen med mine egne tilføjelser.*
 *Bemærk at der fremgår Mac-genvejstaster i guiden. Windows-genvejstaster vil blive indskrevet senere.*
 
-[Click me](http://www.google.com){: .btn}
+Hent guiden i Word format her: *Link kommer senere*
 
 Manglende emner:
 * Eksport af reference
