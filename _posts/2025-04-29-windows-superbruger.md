@@ -7,6 +7,8 @@ image:
   path: https://upload.wikimedia.org/wikipedia/commons/e/e5/Windows11abstract.webp
 ---
 
+Her er nogle tips til Windows 11.
+
 ## Genvejstaster
 |Genvejstast|Hvad gør den?
 |---|---|
