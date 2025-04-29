@@ -16,6 +16,9 @@ Formålet med denne side er, at jeg bliver klogere på programmering og brugen a
 Men ved samme lejlighed ønsker jeg at gøre dig klogere på nogle af de ting, jeg har lært gennem årene.<br>
 Side skal også fungere som en [Eksamen-hotline](/posts/eksamen), så det er muligt at få svar på spørgsmål, selvom jeg er optaget.
 
+## Konkurrence
+Hvis nogen kan overbevise mig om et bedre navn end "TeoTechTips" og sender det til mig inden 31. juli 2025, kl 23:59:59, giver jeg en onsdagssnegl i det nye semester...
+
 ## Sociale links
 Find mig på
 * [Facebook](https://facebook.com/nicolai.s.holmgaard)
