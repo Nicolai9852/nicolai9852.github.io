@@ -7,6 +7,10 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://linkedin.com/in/nicolaish'                  # Fill with your Linkedin homepage
 
+- type: facebook
+  icon: 'fab fa-facebook'
+  url:  https://facebook.com/nicolai.s.holmgaard
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
