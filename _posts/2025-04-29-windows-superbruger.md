@@ -12,7 +12,15 @@ image:
 |---|---|---|
 |Win + L|Lås computeren| |
 |Win + V|Åben udklipsholder|Giver dig en liste over de seneste ting du har kopieret. Både tekst og billeder.|
-|Prnt Scrn/Prt Sc|Tag skærmbillede|[Se evt. seperat guide til at slå denne knap til](/posts/screenshot)|
+|Prnt Scrn/Prt Sc|Tag skærmbillede|[Se evt. seperat guide herunder](#klippeværktøj)|
+
+## Klippeværktøj
+Brug Klippeværktøj på Windows til at tage skærmbilleder/screenshots.
+
+Du kan desuden aktivere knappen *Print Scrn* på dit tastatur til at aktivere knappen.
+<br>Åben [Windows Indstillinger --> Tilgængelighed --> Tastatur](ms-settings:easeofaccess-keyboard) --> *Brug tasten PrintScrn til at åbne skærmbillede*
+
+![](/assets/img/windows-indstillinger-printscrn.png)
 
 ---
 *Billedkreditering: MikoSushi000, Public domain, via Wikimedia Commons*
