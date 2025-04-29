@@ -219,7 +219,7 @@ Info Pane: Grammars. Giver oplysninger om det pågældende vers, hvis der er nog
  
 ### Næste skridt
 * eAcademy: [https://accordancebible.com/e-academy-main-page/](https://accordancebible.com/e-academy-main-page/)
-* Manualen: [https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf](http://www.accordancefiles1.com/products/Accordance11Manual-print.pdf)
+* Manualen: [https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf](https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf)
  
 ### Øvelser
 #### "Daglig eksegese"-ting
