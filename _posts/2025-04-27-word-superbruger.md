@@ -22,14 +22,14 @@ Udvalgte genvejstaster
 ## Overskrifter
 Overskrifter kan være svære at finde ud af.<br>
 Vælger jeg den rigtige? Synes jeg, at den skal se anderledes ud?<br>
-Denne guide kan være med til at give svar på det
+Denne guide kan være med til at give svar på det. Bemærk, at jeg undervejs bruger ordet "Header", som er det englske term for overskrift og bruges ifm. hjemmesider.
 
 ### Hvilken overskrift skal jeg vælge?
-Jeg skrev i 2025 en artikel omkring overskrifter på hjemmesider, som også er brugbar for dokumenter i den akademiske skrivning: <https://support.kirkenettet.dk/hc/da/articles/25972341258130-Overskrifter-p%C3%A5-hjemmesider>
-<br>Om man laver en hjemmeside eller et dokument, følger den samme struktur for opsætningen af overskrifter.
+Jeg skrev i 2025 en artikel omkring overskrifter på hjemmesider, som også er brugbar for dokumenter i den akademiske skrivning: <https://support.kirkenettet.dk/hc/da/articles/25972341258130-Overskrifter-p%C3%A5-hjemmesider><br>
+Om man laver en hjemmeside eller et dokument, følger den samme struktur for opsætningen af overskrifter.
 Nogle hovedpunkter er:
 * Der må ikke være mere end en Header 1 (Overskrift 1) på en side/dokument
-* Du må aldrig gå mere end et trin ned, fx fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
+* Du må aldrig gå mere end et trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
 * Du må gerne gå mere end et trin op hver gang, fx må du gerne gå fra Header 4 til Header 2
 
 ### Opdatering af overskrifter
