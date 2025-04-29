@@ -10,7 +10,7 @@ image:
 ## Genvejstaster
 |Genvejstast|Hvad gør den?|Beskrivelse|
 |---|---|---|
-|Win + L|Lås computeren| |
+|Win + L|Lås computeren|Efterlad din computer sikkert...|
 |Win + V|Åben udklipsholder|Giver dig en liste over de seneste ting du har kopieret. Både tekst og billeder.|
 |Prnt Scrn/Prt Sc|Tag skærmbillede|[Se evt. seperat guide herunder](#klippeværktøj)|
 
