@@ -29,7 +29,7 @@ Følg instruktionerne her: [Accordance--First Run (Lighting the Lamp Video Podca
 Installering af tilkøb mv.:
 * Købte: File/Easy Install.
  
-Lidt om opsætning
+### Lidt om opsætning
 Dette kan der gøres mere ud af - her blot lige nævne til senere fordybelse:
 1.	Settings (Accordance/Setting: Genvej: "cmd ," (ctrl , windows).
   1. General: valg af start up.
@@ -54,13 +54,54 @@ Dette kan der gøres mere ud af - her blot lige nævne til senere fordybelse:
   1. To typer tilpasninger: (a) Accordances ikoner, (b) moduler og tekster. 
 
 ## Workspaces - vejen til en lykkelig hverdag
+### Accordances' brugergrænseflade
+Se introduktionsmanual s3 (version 11 <https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf>)
+1. Toolbar: Øverste linje, ikoner kan tilpasses + workspaces/bøger kan indsættes fra library. 
+2. Library: Liste over bøger til venstre (kan klikkes til/fra).
+3. Zones: Hovedgrupper af tekster (tabs og panes). (s8)
+4. Tabs: Faneblade i Zones.
+5. Panes: Parallelle tekster ved siden af hinanden i Tabs. (s20)
+6. Search Tab Vigtigste linje til søgninger og opslag (genvej: 'Tab'-knappen).
+7. Instant Details (s11): Morfologi (genvej: cmd/ctrl viser udvidet information). 
+8. Info panel: klikkes til under Add Parallel i Zone med bibeltekst. 
 
-Overblik
+### Overblik
+Worspaces er gemte opsætninger af bestemte tekster mv., der gør det nemt at finde et layout frem, man gerne vil bruge. Til eksegese vil det typisk være:
+* Tekstzonen:
+  * Grundteksten i en pane yderst til venstre.
+  * Dernæst 1-2 oversættelser.
+  * Infopane.
+* Instant Details. 
+
+### Øvelse
+Design af "GT-eksegese" og "NT-eksegese"-workspaces:
+1. Åben nyt workspace: File/New Workspace.
+2. Tilføj: Hebraisk/græsk tekst, én valgt oversættelse, info pane, instant details. 
+3. Gem: File/Save (genvej: cmd + s).
+4. Lav en genvej til den øverst på ikonlinjen
+
+### Konkrete forslag
+Laves ved at vælge File/New Workspace + lukke hvad der er + vælge Library og så vælge teksterne/modulerne eller New Tab, hvor ressourcerne er ordnede i kategorier. 
+1. NT-eksegese:
+    1. Eksegese: NA28-T, NET, NRSV, Dansk bibel + Infopane.
+    2. Søgninger: NA28-T + favoritbibelen.
+    3. Diagram: NA28-T, Diagram.
+    4. Tekstkritik: NA28-T, NA28-app, Metzger, NET-app, Comprehensive NT Notes (findes under Translator Notes, der kan også være andre gode).
+    5. Krydsref: Diverse krydsreferencer: Treasury, Comprhensive crossrefs, AF crossrefs, Comprehensive mv.
+2. GT-eksegese: HMT, NET, LXX, Infopane. Eller lign. Favoritbibler: NET, NRSV, Treasury mv.
+3. Favoritbibler: NET, NRSV, Treasury mv. 
+4. Alle danske bibler. 
+5. Synopsis: Vælg New Tab og Parallels.
+6. Atlas: Atlas module + Satellite Atlas. 
+
+## Hverdagsmusebrug - vejen til hvilens vande
+
+### Overblik
 Langt det mest i Accordance kan klares med musen og højreklik. Der er i udgangspunktet ingen grund til at spekulere over at huske på genveje og andet. Det er ikke så svært - når man lige får det lært …
  
-De vigtigste eksegetiske dansemusemoves
-1.	Hvordan slå et skriftsted op? Seach Tab, introduktion (s12):
-i.	Genvej: "Tab" (når den pågældende Zone er aktiv). 
+### De vigtigste eksegetiske dansemusemoves
+1. Hvordan slå et skriftsted op? Seach Tab, introduktion (s12):
+    2. Genvej: "Tab" (når den pågældende Zone er aktiv). 
 1.	Engelske forkortelser skal bruges, men også enkelte danske virker: Fx Rev og ikke Åb - mens Joh og John 3,16 begge virker. 
 2.	Skriver man kun et vers, slås teksten om + de følgende vers. Skriver man flere, slås de op efter hinanden (fx: Matt 1,1; Mark 1,1; Luk 1,1; Joh 1,1).
 ii.	Der er TRE grundlæggende oplsagstyper: Verses og Words: genvej "Toogle search": cmd shift ,
@@ -146,11 +187,6 @@ i.	Bladr efterfølgende igennem de græske ordbøger.
 7.	Lav et Workspace med følgende græske ordbøger: CWSD NT, Louw Nida, Spicq, TDNT, Thayer (enten som faner eller zones). Søg nu på euaggelion via Research. 
 8.	Kopier ordbogsformen af ἐκήρυσσεν i Mark 1,7 til Word.
 9.	Kopier en Location url til IVP New Bible Commentary Mark 3,6 til Word og slå stedet op igen i Accordance via en browser. 
-
-
-
-
-## Hverdagsmusebrug - vejen til hvilens vande
 
 
 
