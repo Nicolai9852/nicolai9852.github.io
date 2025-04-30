@@ -3,6 +3,7 @@ title: Accordance Bible Software - Dansk manual
 date: 2025-04-27 21:50:00 +/-0
 categories: [Teologen, Bibelen]
 tags: [bibelen,accordance,quick guide,software]     # TAG names should always be lowercase
+authors: [MH, NSH]
 image:
   path: https://yt3.googleusercontent.com/RU87t6zNZq5LLWFkzaLbVUO_fx57fIMqmK4WiUME-Jdn1kX4Sz67gqsxTwuBGSV1eCfJaTUpzQ=s900-c-k-c0x00ffffff-no-rj
 ---
