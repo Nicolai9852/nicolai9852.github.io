@@ -9,12 +9,7 @@ image:
 
 *Denne vejledning er oprindeligt udarbejdet af [Morten Hørning Jensen](https://teologi.dk/kontakt/akademiske-medarbejdere/morten-hoerning-jensen/) i 2024 med mine egne tilføjelser. Morten har givet tilladelse til at udgive hans vejlening på denne hjemmeside.*
 
-Hent guiden i Word format her: *Link kommer senere*
-
-Manglende emner:
-* Word-dokument link
-* Eksport af reference
-* Søgning med citationstegn?
+[Hent guiden i Word format her](/assets/Accordance%202024%20-%20Dansk%20manual%20online.docx)
 
 ## Installation og opsætning
 ### Generelt
@@ -160,7 +155,7 @@ Langt det mest i Accordance kan klares med musen og højreklik. Der er i udgangs
     2. Man kan yderligere indstille Text Browser i Preferences (cmd ,) under Web & Text Browser (fx størrelse på teksten og standard samling af bibler). 
     3. Amplify: Her kan man vælge, om hyperlinks skal åbne i Text Tab (en almindelig tab) eller denne nye Text Browser Tab. Det sidste kan også fås med shift-click. 
         * Fordelen ved dette er, at man kan åbne alle hyperlinkede tekst-referencer i en Text Browser, hvis man fx læser en ordbogsartikel igennem og se denne i mange varianter. 
- 
+
 ### Øvelser
 1. Opslag bibelsteder: 
     1. Slå Mark 1,1 op.
@@ -198,7 +193,7 @@ Der findes grundlæggende fire kategorier af modificeringer til simple søgninge
 * Tags: Grammatiske søgninger, hvor ordet modificeres med `@`.
  
 ### Søg efter en kombination af ord med "forbindende kommandoer"(s15): `<>`
-1. Man kan kombinere ord med "forbindende" kommandoer, der er markeret med <>. Der er syv i alt. Disse forbinder altså ord med en søgebetingelse: Se s15 for oversigt. Disse skrives ind via (a) højreklik på Search Tab/Enter Command/en af de syv øverste - (b) eller bruge genveje (fx cmd-shift a for `<AND>`. Eks:
+1. Man kan kombinere ord med "forbindende" kommandoer, der er markeret med `<>`. Der er syv i alt. Disse forbinder altså ord med en søgebetingelse: Se s15 for oversigt. Disse skrives ind via (a) højreklik på Search Tab/Enter Command/en af de syv øverste - (b) eller bruge genveje (fx cmd-shift a for `<AND>`. Eks:
     1. `ιησους Χριστός` - finder de to ord lige efter hinanden (= frase-søgning). Nb.: hvis ikke man bruger lexeme-former (grundformer), skal man bruge citationstegn - fx "καὶ ἐγένετοι".
     2. `ιησους <AND> Χριστός` - finder steder, hvor de to ord er i samme vers (scope = Verse).
     3. `ιησους <NOT> Χριστός` - finder vers med iesous, ikke xristos.
@@ -215,28 +210,29 @@ Der findes grundlæggende fire kategorier af modificeringer til simple søgninge
 
 ### Søgninger med selvstændige kommandoer (s18): []
 1. Selvstændige kommandoer er markeret med [] og står som selvstændige led i en søgestreng (hvor de forbindende binder to led sammen). De vigtigste er:
-    1. [RANGE] - afgrænser søgningen til fx en bestemt bog. Bruges ofte (e.g. [RANGE Mark]). 
-    2. [LINK] - laver samme søgning i de linkede faner. Fx kan man åbne LXX i en zone og åbne GNT i en anden zone/fane og indtaste [LINK] (genvej: shift cmd l) og vælge LXX-fanen. Så søges der samtidig i de to zoner/faner. 
-    3. [CONTENT] - laver en søgning i de vers, der er fundet i en tidligere søgning. Man kan dermed søge videre på den versliste, en tidligere søgning har produceret.
-        1. Eksempel: For at finde ud af, hvordan en bibeloversættelse oversætter et bestemt ord (og hvis Bibelen ikke allerede er tagged med Strong's, se nedenfor), kan man lave en søgning på ordet (fx zoizo). Dernæst åbner man en ny fane (genvej: cmd d). I den åbner man oversættelsen og skriver nu: frels* <AND> [CONTENT vindue1]. Derved findes alle vers med "frels*" i bunken af vers fra det første vindue. Derefter kan man prøve med helbred*.
-    4. [HITS] - svarer lidt til content, men her søger man alene på de ord, man har fundet (markeret med rød). Kan fx bruges til at sammenligne præcis ordbrug. Eks: markering af alle ord i Matthæus' dåbsberetning, der ikke er i Marks:
+    1. `[RANGE]` - afgrænser søgningen til fx en bestemt bog. Bruges ofte (e.g. [RANGE Mark]). 
+    2. `[LINK]` - laver samme søgning i de linkede faner. Fx kan man åbne LXX i en zone og åbne GNT i en anden zone/fane og indtaste [LINK] (genvej: shift cmd l) og vælge LXX-fanen. Så søges der samtidig i de to zoner/faner. 
+    3. `[CONTENT]` - laver en søgning i de vers, der er fundet i en tidligere søgning. Man kan dermed søge videre på den versliste, en tidligere søgning har produceret.
+        1. Eksempel: For at finde ud af, hvordan en bibeloversættelse oversætter et bestemt ord (og hvis Bibelen ikke allerede er tagged med Strong's, se nedenfor), kan man lave en søgning på ordet (fx zoizo). Dernæst åbner man en ny fane (genvej: cmd d). I den åbner man oversættelsen og skriver nu: `frels* <AND> [CONTENT vindue1]`. Derved findes alle vers med "frels*" i bunken af vers fra det første vindue. Derefter kan man prøve med helbred*.
+    4. `[HITS]` - svarer lidt til content, men her søger man alene på de ord, man har fundet (markeret med rød). Kan fx bruges til at sammenligne præcis ordbrug. Eks: markering af alle ord i Matthæus' dåbsberetning, der ikke er i Marks:
         1. Lav en søgning, der markerer alle ord i Mark 1,9-11: * <AND> [RANGE Mark 1,9-11]
         2. Dupliker fanen, genvej: cmd d.
         3. Lav en søgning, der finder alle ord i Matt 3,13-17 men som er modificeret (@) med den betingelse, at disse ord ikke må forekomme (-) i forgående søgning (HITS):
-            1. *@ -[HITS GNT)] <AND> [RANGE Matt 3,13-17]  
-    5. [COUNT] - søger ord på antal forekomster. Fx finder en simpel [COUNT 1] alle hapax legominoi.
+            1. `*@ -[HITS GNT)] <AND> [RANGE Matt 3,13-17]`
+    5. `[COUNT]` - søger ord på antal forekomster. Fx finder en simpel [COUNT 1] alle hapax legominoi.
  
 ### Grammatiske søgninger - TAGS (s31): 
 1. Hebraiske og græske bibler er kodet dybt med morfologiske TAGS. Det gør det muligt at søge på verber i bestemte former. TAGS indføjes nemmest ved at højreklikke på søgelinjen, vælge tags.
 2. Der er grundlæggende to måder at bruge disse på:
     1. Modificering af ord med @. Fx søger αγαπαω @ [VERB imperative] på alle imperativer dette ord.
     2. Søgning på alle ord af en bestemet form/bøjning. Fx finder [VERB imperative] alle imperativer. 
-3. Eksempler på grammatiske søgninger: 
-    1. [VERB infinitive]: finder alle infinitiver. Oversigt fås med Analytics (se nedenfor).
-    2. [NOUN]: finder alle nomimer. 
-    3. Find alle finitte verber: [VERB] @- [VERB infinitive] @- [VERB participle].
-    4. Find alle imperativiske brug afαγαπαω : αγαπαω @ [VERB imperative].
-    5. Finde alle artikulerede brug af xristos (hvor det så skal oversættes som titel, messias): χριστος <PRECEDED BY><WITHIN 3 Words> [ARTICLE masculine singular]. Within-kommandoen gør, at der ikke kigges i hele verset. 
+3. Eksempler på grammatiske søgninger:
+    1. `"εἰμί"`: Søgning med anførselstegn finder alle former, hvor εἰμί er eksakt i denne bøjning.
+    2. `[VERB infinitive]`: finder alle infinitiver. Oversigt fås med Analytics (se nedenfor).
+    3. `[NOUN]`: finder alle nomimer. 
+    4. `[VERB] @- [VERB infinitive] @- [VERB participle]`: Find alle finitte verber: 
+    5. `αγαπαω @ [VERB imperative]`: Find alle imperativiske brug afαγαπαω
+    6. `χριστος <PRECEDED BY><WITHIN 3 Words> [ARTICLE masculine singular]`: Finder alle artikulerede brug af xristos (hvor det så skal oversættes som titel, messias). Within-kommandoen gør, at der ikke kigges i hele verset. 
  
 ### Øvelser
 Søgninger i Search Tab + Analytics
@@ -245,7 +241,7 @@ Søgninger i Search Tab + Analytics
 3.	List de vers og antal steder en form af ἁμαρτία eller ἁμαρτωλός forekommer i Mark.
 4.	Hvor mange imperativer er der i Markus?
 5.	Find alle menneskesønsudsagn i Markus.
-6.	Find alle steder "υιος " bruges, hvor det ikke er menneskesøn. 
+6.	Find alle steder "υιος" bruges, hvor det ikke er menneskesøn. 
 7.	Find alle steder, hvor Xristos er artikuleret.
 8.	Find alle steder, hvor Xristos ikke er artikuleret.
 9.	Find hvor mange gange agapaw forekommer i de forskellige moods (indikativ, imperativ mv.). 
@@ -273,9 +269,14 @@ Alle søgninger giver "ost" i øverste højre hjørne - samt et tal på antal ve
       3. Triple-click på disse, og de slås op. 
 3. Concordance: Laver en komplet liste over forekomster. 
  
-#### Eksport af søgeresultater
+#### Eksport af søgeresultater og referencer
   1. Alle søgeresultater i Analytics kan eskporteres. Fx Concordance.
-  2. En liste med ens søgeresultater kan også genereres ved at markere alle søgeresultater (genvej: cmd a), højreklikke og vælge "copy as/references" (genvej: alt cmd r). 
+  2. En liste med ens søgeresultater kan også genereres ved at markere alle søgeresultater (genvej: cmd a), højreklikke og vælge "copy as/references" (genvej: alt cmd r).
+  3. Hvis du bruger Accordance i en opgave, kan du eksportere dine moduler til fx [Zotero](/posts/zotero).
+      1. Åben dit Library
+      2. Vælg et eller flere moduler - NB: Bibler understøttes ikke til eksport
+      3. Højreklik på modulet og vælg "Export selected data".
+      4. Du har nu en RIS-fil, som du kan bruge i dit referencehåndteringsprogram.
 
 ## Smart eksegese - vejen til teologiens AHA-oplevelser
 ### Syntaktiske undersøgelser (Diagrams)
