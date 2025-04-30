@@ -32,17 +32,17 @@ Installering af tilkøb mv.:
 ### Lidt om opsætning
 Dette kan der gøres mere ud af - her blot lige nævne til senere fordybelse:
 1.	Settings (Accordance/Setting: Genvej: "cmd ," (ctrl , windows).
-  1. General: valg af start up.
-  2. Amplify: valg af ordbøger, når man "triple click"er. Tilvælg også "Include reference …" (nederst). Gør at man samtidig får en søgning efter om det vers, man er i, er nævnt i artiklen (angives med rødt og med hits). 
-  3. Appearance: vælg European verse notation + SBL.
-  4. Tool Display: Under hyperlink vælges de tekster, der vises i Instant details, når man fører musen over en reference. Vælg fx en engelsk/dansk bibel til nr. 1 og græsk til Alternate. Sidstnævnte vises ved at trykke cmd (ctrl). 
-  5. Short cuts: overblik + mulighed for at lave egne. 
-  6. Fonts:
-     1. Hent SBL's fonte her: [https://www.sbl-site.org/educational/biblicalfonts.aspx](https://www.sbl-site.org/educational/biblicalfonts.aspx).
-     2. Vælg SBL BibLit for Greek og Hebrew + Use these fonts for Unicode export.
-  7. Instant details: Forskellige muligheder for præcis info.
-  8. Timeline layers: Mulighed for at at vælge conservative eller critical :). 
-     1. Update: Tre typer af update: (a) App = programmet, (b) Content = bøger installerede, (c) Easy install: nye indkøb. 
+    1. General: valg af start up.
+    2. Amplify: valg af ordbøger, når man "triple click"er. Tilvælg også "Include reference …" (nederst). Gør at man samtidig får en søgning efter om det vers, man er i, er nævnt i artiklen (angives med rødt og med hits).
+    3. Appearance: vælg European verse notation + SBL.
+    4. Tool Display: Under hyperlink vælges de tekster, der vises i Instant details, når man fører musen over en reference. Vælg fx en engelsk/dansk bibel til nr. 1 og græsk til Alternate. Sidstnævnte vises ved at trykke cmd (ctrl).
+    5. Short cuts: overblik + mulighed for at lave egne.
+    6. Fonts:
+        1. Hent SBL's fonte her: [https://www.sbl-site.org/educational/biblicalfonts.aspx](https://www.sbl-site.org/educational/biblicalfonts.aspx).
+        2. Vælg SBL BibLit for Greek og Hebrew + Use these fonts for Unicode export.
+    7. Instant details: Forskellige muligheder for præcis info.
+    8. Timeline layers: Mulighed for at at vælge conservative eller critical :).
+        1. Update: Tre typer af update: (a) App = programmet, (b) Content = bøger installerede, (c) Easy install: nye indkøb. 
 2. Library (s5-7): Genvej: cmd  alt  1.
    1. Her er det en fordel at sortere ens bøger, især oversættelserne. Det gøres ved at trække i bøgernes ikoner op og ned. 
    2. Rækkefølgen afgør nemlig følgende:
