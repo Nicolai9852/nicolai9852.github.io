@@ -17,6 +17,7 @@ Udvalgte genvejstaster
 |Ctrl + A|Marker alt|
 |Ctrl + B|Søge-funktion|
 |Ctrl + S|Gem dokument|
+|Ctrl + Enter|Lav ny side|
 |Ctrl + Shift + piletast|Marker hele ord|
 
 ## Overskrifter
