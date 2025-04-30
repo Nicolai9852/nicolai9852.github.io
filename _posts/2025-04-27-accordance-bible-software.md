@@ -7,7 +7,7 @@ image:
   path: https://yt3.googleusercontent.com/RU87t6zNZq5LLWFkzaLbVUO_fx57fIMqmK4WiUME-Jdn1kX4Sz67gqsxTwuBGSV1eCfJaTUpzQ=s900-c-k-c0x00ffffff-no-rj
 ---
 
-*Denne vejledning er oprindeligt udarbejdet af [Morten Hørning Jensen](https://teologi.dk/kontakt/akademiske-medarbejdere/morten-hoerning-jensen/) i 2024 med mine egne tilføjelser.*
+*Denne vejledning er oprindeligt udarbejdet af [Morten Hørning Jensen](https://teologi.dk/kontakt/akademiske-medarbejdere/morten-hoerning-jensen/) i 2024 med mine egne tilføjelser. Morten har givet tilladelse til at udgive hans vejlening på denne hjemmeside.*
 
 Hent guiden i Word format her: *Link kommer senere*
 
@@ -161,38 +161,100 @@ Langt det mest i Accordance kan klares med musen og højreklik. Der er i udgangs
     3. Amplify: Her kan man vælge, om hyperlinks skal åbne i Text Tab (en almindelig tab) eller denne nye Text Browser Tab. Det sidste kan også fås med shift-click. 
         * Fordelen ved dette er, at man kan åbne alle hyperlinkede tekst-referencer i en Text Browser, hvis man fx læser en ordbogsartikel igennem og se denne i mange varianter. 
  
-Øvelser
-1.	Opslag bibelsteder: 
-1.	Slå Mark 1,1 op.
-2.	Brug Live Click til at tjekke forekomster af euaggelion. 
-3.	Brug Text Browser til at se forskellige oversættelser. 
-4.	Åbn 2 Mos 20,1-5 og 5 Mos 5,6-10.
-2.	Kopier indhold af Instant Details til Word (etc.).
-3.	Amplify/slå op:
-1.	Triple-click "euaggelion" i Mark 1,1.
-i.	Bladr efterfølgende igennem de græske ordbøger. 
-2.	Triple-click "gospel" i Mark 1,1.
-3.	Triple-click Mark 1,1. 
-4.	Info-pane:
-1.	Åbn en kommentar til Mark 1,1 på de fire forskellige måder (Instant details, pop-over, Pane, separat Zone). 
-2.	Åbn alle krydsreferencer til Mark 1,9.
-3.	Find de synoptiske paralleller til Johannes Døberen.
-5.	"Højreklik":
-1.	Søg på ordbogsformen af euaggelion i Mark 1,1.
-2.	Søg på Root af euaggelion. 
-3.	Find Nazaret på Atlas (Mark 1,9) - find "Shunem" på Atlas (2 Sam 28,4).
-4.	Søg alle Dictionaries for "Jesus".
-5.	Søg alle Greek Lexicons for βαπτίζων (Mark 1,4).
-6.	Søg alle Hebrew Lexicons for bara (Gen 1,1).
-7.	Lav et Workspace med følgende græske ordbøger: CWSD NT, Louw Nida, Spicq, TDNT, Thayer (enten som faner eller zones). Søg nu på euaggelion via Research. 
-8.	Kopier ordbogsformen af ἐκήρυσσεν i Mark 1,7 til Word.
-9.	Kopier en Location url til IVP New Bible Commentary Mark 3,6 til Word og slå stedet op igen i Accordance via en browser. 
-
-
-
+### Øvelser
+1. Opslag bibelsteder: 
+    1. Slå Mark 1,1 op.
+    2. Brug Live Click til at tjekke forekomster af euaggelion. 
+    3. Brug Text Browser til at se forskellige oversættelser. 
+    4. Åbn 2 Mos 20,1-5 og 5 Mos 5,6-10.
+2. Kopier indhold af Instant Details til Word (etc.).
+3. Amplify/slå op:
+    1. Triple-click "euaggelion" i Mark 1,1.
+        1. Bladr efterfølgende igennem de græske ordbøger. 
+    2. Triple-click "gospel" i Mark 1,1.
+    3. Triple-click Mark 1,1. 
+4. Info-pane:
+    1. Åbn en kommentar til Mark 1,1 på de fire forskellige måder (Instant details, pop-over, Pane, separat Zone). 
+    2. Åbn alle krydsreferencer til Mark 1,9.
+    3. Find de synoptiske paralleller til Johannes Døberen.
+5. "Højreklik":
+   1. Søg på ordbogsformen af euaggelion i Mark 1,1.
+   2. Søg på Root af euaggelion. 
+   3. Find Nazaret på Atlas (Mark 1,9) - find "Shunem" på Atlas (2 Sam 28,4).
+   4. Søg alle Dictionaries for "Jesus".
+   5. Søg alle Greek Lexicons for βαπτίζων (Mark 1,4).
+   6. Søg alle Hebrew Lexicons for bara (Gen 1,1).
+   7. Lav et Workspace med følgende græske ordbøger: CWSD NT, Louw Nida, Spicq, TDNT, Thayer (enten som faner eller zones). Søg nu på euaggelion via Research. 
+   8. Kopier ordbogsformen af ἐκήρυσσεν i Mark 1,7 til Word.
+   9. Kopier en Location url til IVP New Bible Commentary Mark 3,6 til Word og slå stedet op igen i Accordance via en browser.
 
 ## Søgninger i Search Tab - vejen til templets forgårde
+### Overblik
+Accordance har en V8-motor lige under huden - og den hedder Search Tab. Vi bruger til at lave simple opslag i Bibelens bøger, men den kan også bruges til at lave avancerede søgninger i. Her er det ligesom at tage kørekort: Vi begynder i kravlegården og undgår kun kørelærerens hårde opbremsninger, hvis vi får timer nok bag rattet. 
+Der findes grundlæggende fire kategorier af modificeringer til simple søgninger:
+* Commands 1: kombination af ord med "forbindende kommandoer"(s15): `<>`
+* Commands 2: Selvstændige kommandoer (s18): `[]`. 
+* Symbols: Forfin søgningen med Symbols (s16).
+* Tags: Grammatiske søgninger, hvor ordet modificeres med `@`.
+ 
+### Søg efter en kombination af ord med "forbindende kommandoer"(s15): `<>`
+1. Man kan kombinere ord med "forbindende" kommandoer, der er markeret med <>. Der er syv i alt. Disse forbinder altså ord med en søgebetingelse: Se s15 for oversigt. Disse skrives ind via (a) højreklik på Search Tab/Enter Command/en af de syv øverste - (b) eller bruge genveje (fx cmd-shift a for `<AND>`. Eks:
+    1. `ιησους Χριστός` - finder de to ord lige efter hinanden (= frase-søgning). Nb.: hvis ikke man bruger lexeme-former (grundformer), skal man bruge citationstegn - fx "καὶ ἐγένετοι".
+    2. `ιησους <AND> Χριστός` - finder steder, hvor de to ord er i samme vers (scope = Verse).
+    3. `ιησους <NOT> Χριστός` - finder vers med iesous, ikke xristos.
+    4. `ιησους <WITHIN 6 Words> Χριστός` - finder vers, hvor der højest er seks ord mellem.  
+    5. `υιος <WITHIN 2 Words> ἄνθρωπος` - finder menneskesønsudsagn. Modsat, hvis man vil have søn-udsagn uden menneske, skal et NOT indføjes: `υιος <NOT>  <WITHIN 2 Words> ἄνθρωπος`.
+2. Bemærk: Ved forbindende kommandoer tæller hver kommando som et hit. Dvs. søgning på to ord giver ikke "1 hit", når disse forekommer i samme vers, men "2 hits" (et for hvert ord). 
+3. Forfin søgningen med Symbols (s16): 
+    1. Gøres ved at tilføje et symbol (= en betingelse) til søgningen. 
+    2. Wild card: `*` - står for flere karakterer - mens ? kun dækker en karakter/bogstav. 
+    3. `=` søger på præcis det man skriver, hvis det er i en engelsk eller dansk tekst. Er det i en tagged text, finder man ordbogsformen. Brug i stedet "ιησους". 
+    4. `+` søger på Root, finder alle former af et ord, som Accordance har tagged.
+    5. `@`: add-symbolet er specielt vigtigt, fordi det tilføjer betingelsen "TAG". Se mere nedenfor.
+ 
 
+### Søgninger med selvstændige kommandoer (s18): []
+1. Selvstændige kommandoer er markeret med [] og står som selvstændige led i en søgestreng (hvor de forbindende binder to led sammen). De vigtigste er:
+    1. [RANGE] - afgrænser søgningen til fx en bestemt bog. Bruges ofte (e.g. [RANGE Mark]). 
+    2. [LINK] - laver samme søgning i de linkede faner. Fx kan man åbne LXX i en zone og åbne GNT i en anden zone/fane og indtaste [LINK] (genvej: shift cmd l) og vælge LXX-fanen. Så søges der samtidig i de to zoner/faner. 
+    3. [CONTENT] - laver en søgning i de vers, der er fundet i en tidligere søgning. Man kan dermed søge videre på den versliste, en tidligere søgning har produceret.
+        1. Eksempel: For at finde ud af, hvordan en bibeloversættelse oversætter et bestemt ord (og hvis Bibelen ikke allerede er tagged med Strong's, se nedenfor), kan man lave en søgning på ordet (fx zoizo). Dernæst åbner man en ny fane (genvej: cmd d). I den åbner man oversættelsen og skriver nu: frels* <AND> [CONTENT vindue1]. Derved findes alle vers med "frels*" i bunken af vers fra det første vindue. Derefter kan man prøve med helbred*.
+    4. [HITS] - svarer lidt til content, men her søger man alene på de ord, man har fundet (markeret med rød). Kan fx bruges til at sammenligne præcis ordbrug. Eks: markering af alle ord i Matthæus' dåbsberetning, der ikke er i Marks:
+        1. Lav en søgning, der markerer alle ord i Mark 1,9-11: * <AND> [RANGE Mark 1,9-11]
+        2. Dupliker fanen, genvej: cmd d.
+        3. Lav en søgning, der finder alle ord i Matt 3,13-17 men som er modificeret (@) med den betingelse, at disse ord ikke må forekomme (-) i forgående søgning (HITS):
+            1. *@ -[HITS GNT)] <AND> [RANGE Matt 3,13-17]  
+    5. [COUNT] - søger ord på antal forekomster. Fx finder en simpel [COUNT 1] alle hapax legominoi.
+ 
+### Grammatiske søgninger - TAGS (s31): 
+1. Hebraiske og græske bibler er kodet dybt med morfologiske TAGS. Det gør det muligt at søge på verber i bestemte former. TAGS indføjes nemmest ved at højreklikke på søgelinjen, vælge tags.
+2. Der er grundlæggende to måder at bruge disse på:
+    1. Modificering af ord med @. Fx søger αγαπαω @ [VERB imperative] på alle imperativer dette ord.
+    2. Søgning på alle ord af en bestemet form/bøjning. Fx finder [VERB imperative] alle imperativer. 
+3. Eksempler på grammatiske søgninger: 
+    1. [VERB infinitive]: finder alle infinitiver. Oversigt fås med Analytics (se nedenfor).
+    2. [NOUN]: finder alle nomimer. 
+    3. Find alle finitte verber: [VERB] @- [VERB infinitive] @- [VERB participle].
+    4. Find alle imperativiske brug afαγαπαω : αγαπαω @ [VERB imperative].
+    5. Finde alle artikulerede brug af xristos (hvor det så skal oversættes som titel, messias): χριστος <PRECEDED BY><WITHIN 3 Words> [ARTICLE masculine singular]. Within-kommandoen gør, at der ikke kigges i hele verset. 
+ 
+### Øvelser
+Søgninger i Search Tab + Analytics
+1.	Find alle forekomster af ἐξουσία i Mark.
+2.	Søg på frasen Καθὼς γέγραπται - hvor mange gange forekommer den? - i Markus, alle fire evangelier, Paulus, LXX.
+3.	List de vers og antal steder en form af ἁμαρτία eller ἁμαρτωλός forekommer i Mark.
+4.	Hvor mange imperativer er der i Markus?
+5.	Find alle menneskesønsudsagn i Markus.
+6.	Find alle steder "υιος " bruges, hvor det ikke er menneskesøn. 
+7.	Find alle steder, hvor Xristos er artikuleret.
+8.	Find alle steder, hvor Xristos ikke er artikuleret.
+9.	Find hvor mange gange agapaw forekommer i de forskellige moods (indikativ, imperativ mv.). 
+10.	Hvilke tre verber forekommer hyppigst i Markus.
+11.	Hvilke tre præpositioner bruges hyppigst i Markus?
+12.	Hvilke tre ord forekommer hyppigst i Markus?
+13.	Søg på Strong's: gentag søgningen på chæsæd:
+    1. Hvordan oversætter ESV chæsæd? Lav en Analysis-oversigt. Sammenlign med KJV og gerne NRSV.
+    2. Lav en sammenligning med D1871 vha. af en [CONTENT]-søgning. 
 
 
 ## Analytics - vejen til løsningen på teologiens ligning
@@ -219,7 +281,7 @@ Alle søgninger giver "ost" i øverste højre hjørne - samt et tal på antal ve
 ### Syntaktiske undersøgelser (Diagrams)
 Info Pane: Grammars. Giver oplysninger om det pågældende vers, hvis der er nogen. 
 * Diagrams: Giver en grafisk oversigt over et vers' opbygning (eller en mulighed). 
-  * Forklaring: https://www.thoughtco.com/how-to-diagram-a-sentence-1856964
+  * Forklaring: <https://www.thoughtco.com/how-to-diagram-a-sentence-1856964>
   * Lav en "tab" til Diagrams i dit "NT-eksegese" workspace med NA28-teksten til venstre. Tilføj under Add Parallel "Diagram". Dernæst: Rename Tab øverst i fanebladet + lav en Tab Tie til Eksegese-fanen. Så er diagrammet altid synkroniseret med det sted, du undersøger i den første fane. 
  
 ### Eksegetisk dybdeboringer
@@ -242,24 +304,34 @@ Info Pane: Grammars. Giver oplysninger om det pågældende vers, hvis der er nog
  
 ### Genveje!
 #### Navigation rundt i interfacet
-* Tab: flytter til Command Line. 
-* Ctrl tab: flytter til næste Tab/fane. 
-* Cmd alt tab: skifter mellem Zones. 
-* Cmd shift ,: Skifter mellem Verse og Words i Search Tab. 
+
+|Genvejstast|Hvad gør den?|
+|---|---|
+|Tab|Flytter til Command Line.|
+|Ctrl tab|Flytter til næste Tab/fane.|
+|Cmd alt tab|Skifter mellem Zones.|
+|Cmd shift ,|Skifter mellem Verse og Words i Search Tab.|
+
 #### Udseende
-* Gøre teksten større/mindre: cmd +/-
-* Åbne full screen/magnify:
-  * Option-Alt M: magnify.
-  * Ctlr-r: reading mode. 
-* Cmd T: Indstillinger for visning. 
+
+|Genvejstast|Hvad gør den?|
+|---|---|
+|cmd +/-|Gøre teksten større/mindre|
+|Option-Alt M|Åben Magnify|
+|Ctrl-r|Åben Reading mode|
+|Cmd T|Indstillinger for visning|
+
 #### Andre gode
-* Ctrl N: nyt workspace alene med en bibel. 
-* Skifte mellem bibler/kommentarer: ctrl +/-. 
-* Cmd D: duplicate, åbner ny fane med samme indhold, hvis man vil gentage søgningen på noget andet
+
+|Genvejstast|Hvad gør den?|
+|---|---|
+|Ctrl N|Nyt workspace alene med en Bibel.|
+|Ctrl +/-|Skifte mellem bibler/kommentarer|
+|Cmd D| Duplicate, åbner ny fane med samme indhold, hvis man vil gentage søgningen på noget andet|
  
 ### Næste skridt
-* eAcademy: [https://accordancebible.com/e-academy-main-page/](https://accordancebible.com/e-academy-main-page/)
-* Manualen: [https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf](https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf)
+* eAcademy: <https://accordancebible.com/e-academy-main-page/>
+* Manualen: <https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf>
  
 ### Øvelser
 #### "Daglig eksegese"-ting
