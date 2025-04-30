@@ -7,13 +7,17 @@ image:
   path: https://yt3.googleusercontent.com/RU87t6zNZq5LLWFkzaLbVUO_fx57fIMqmK4WiUME-Jdn1kX4Sz67gqsxTwuBGSV1eCfJaTUpzQ=s900-c-k-c0x00ffffff-no-rj
 ---
 
-*Denne vejledning er oprindeligt udarbejdet af Morten Hørning Jensen med mine egne tilføjelser.*
+*Denne vejledning er endnu ikke færdig.*
+
+*Denne vejledning er oprindeligt udarbejdet af [Morten Hørning Jensen](https://teologi.dk/kontakt/akademiske-medarbejdere/morten-hoerning-jensen/) med mine egne tilføjelser.*
 *Bemærk at der fremgår Mac-genvejstaster i guiden. Windows-genvejstaster vil blive indskrevet senere.*
 
 Hent guiden i Word format her: *Link kommer senere*
 
 Manglende emner:
+* Word-dokument link
 * Eksport af reference
+* Søgning med citationstegn?
 
 ## Installation og opsætning
 ### Generelt
