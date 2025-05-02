@@ -25,5 +25,12 @@ Find mig på
 * [GitHub](https://github.com/nicolai9852)
 * [LinkedIn](https://linkedin.com/in/nicolaish)
 
+---
+
+## Cookies og privatlivspolitik
+Jeg kommer ikke aktivt til at lægge cookies, tracking, statistik eller lignende ind på denne hjemmeside.
+Men hjemmesiden kan være omfattet af det indirekte, hvis du tilgår en side, hvor jeg har indlejret en video fra YouTube.
+Det gælder fx siden om [Zotero](/posts/zotero)
+
 <!-- >> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
