@@ -13,7 +13,7 @@ image:
 Udvalgte genvejstaster på Windows og Mac
 
 [Se den fuilde vejledning til genvejstaster for Windows](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=windows)
-[Se den fulde vejledning til genvejstaster for Mac](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=macos)
+<br>[Se den fulde vejledning til genvejstaster for Mac](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=macos)
 
 |Windows|Mac|Hvad gør den?|
 |---|---|---|
