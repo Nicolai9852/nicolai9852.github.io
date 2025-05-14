@@ -57,7 +57,7 @@ Du må som udgangspunkt ikke ændre formateringen på en overskrift uden at gør
 Det vil sige, at hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, bør du følge denne guide.
 
 1. Vælg en af dine typografier i toppen af dit Word-dokument. Det kunne fx være Overskrift 2.
-2. Højreklik og trk *Rediger*
+2. Højreklik og tryk *Rediger*
    ![](/assets/img/word-overskrift2-rediger.png)
 3. Lav nu om i overskriften som du har lyst til
    1. Du kan ændre ting som font, skriftstørrelse, farve m.m.
