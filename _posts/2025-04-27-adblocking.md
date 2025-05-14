@@ -9,14 +9,17 @@ image:
 
 ## Min anbefaling
 Jeg har været en kæmpe fan af [UBlock Origin](https://ublockorigin.com/) i længere tid.
-<br>Hvorfor? Det er open-source, hvilket betyder at alle kan kigge og ændre i kildekoden. Derfor har udvikleren bag det heller ikke noget kommicielt formål.
+<br>Hvorfor lige UBlock Origin? Der er flere grunde. Men den væsenligste er, at det er open-source. Det betyder, at alle kan kigge og ændre i kildekoden. Derfor har udvikleren bag det heller ikke noget kommicielt formål.
 
-Flere browsere, som er bygget på webteknologien Chromium har dog forsøgt at lukke ned for denne og flere.<br>
-Det er Google, som står bag projektet Chromium, som Google Chrome er bygget på
-UBlock Origin er bygget på en teknologi, som skal bruge Manifest V2.
-Google har ufaset Manifest V2 og forsøger aktivt at få alt over på Manifest V3, som gør adblocking sværere.
-
+### Hent UBlock Origin
 UBlock Origin findes i sin fulde udgave i [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) og i en Lite-udgave (som kan bruges i Manifest V3) i [Chrome](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) og [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
+
+### Forklaringen bag
+Her er forklaringen i punktform
+* Flere browsere, som er bygget på webteknologien Chromium, har dog forsøgt at lukke ned for denne udvidelse og flere lignende.
+* Det er Google, som står bag projektet Chromium, som Google Chrome også er bygget på. Microsoft Edge er også bygget på Chromium.
+* Ulock Origin er bygget på en teknologi, som skal bruge Manifest V2.
+* Google har ufaset Manifest V2 i Chromium og forsøger aktivt at få alt over på Manifest V3, som gør adblocking sværere - i nogle tilælde umuligt.
 
 ## I still don't care about cookies
 Jeg vil desuden understrege udvidelsen *I still don't care about cookies*, som siger nej til alle statistiske, analytiske, promoverende (indsæt selv flere ord) cookies. Den accepterer kun de cookies, som er nødvendig for at siden fungerer.
