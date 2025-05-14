@@ -31,7 +31,7 @@ Udvalgte genvejstaster på Windows og Mac
 |Ctrl + 0|Cmd + 0|Sæt zoom til 100%|
 |Ctrl + Enter|Cmd + Enter|Lav ny side|
 |Ctrl + Tilbage-tasten|Cmd + Tilbage-tasten|Slet hele ord bagud|
-|Ctrl + Del|Cmd
+|Ctrl + Del|Mangler på Mac|Slet hele ord foran|
 |Ctrl + Enter|Cmd + Enter|Indsæt sideskift
 |Shift + Enter|Shift + Enter|Indsæt mindre linjeskift|
 |Enter|Enter|Indsæt nyt afsnit (større linjeskift)|
