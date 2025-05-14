@@ -10,15 +10,33 @@ image:
 *Denne guide gælder i princippet også for Google Docs. Der kan dog være afvigelser ift. genvejstaster*
 
 ## Genvejstaster
-Udvalgte genvejstaster
+Udvalgte genvejstaster på Windows og Mac
 
-|Genvejstast|Hvad gør den?|
-|---|---|
-|Ctrl + A|Marker alt|
-|Ctrl + B|Søge-funktion|
-|Ctrl + S|Gem dokument|
-|Ctrl + Enter|Lav ny side|
-|Ctrl + Shift + piletast|Marker hele ord|
+[Se den fuilde vejledning til genvejstaster for Windows](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=windows)
+[Se den fulde vejledning til genvejstaster for Mac](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=macos)
+
+|Windows|Mac|Hvad gør den?|
+|---|---|---|
+|Ctrl + A|Cmd + A|Marker alt|
+|Ctrl + B|Cmd + B|Søge-funktion|
+|Ctrl + C|Cmd + C|Kopier indhold|
+|Ctrl + F|Cmd + F|Fed skrift|
+|Ctrl + K|Cmd + K|Kursiv skrift|
+|Ctrl + S|Cmd + S|Gem dokument|
+|Ctrl + V|Cmd + V|Indsæt indhold|
+|Ctrl + Shift + V|Cmd + Shift + V|Indsæt kun tekst (især brugbar hvis du kopier indhold fra en hjemmeside)|
+|Ctrl + X|Cmd + X|Klip indhold|
+|Ctrl + Z|Cmd + Z|Fortryd|
+|Ctrl + Y|Cmd + Y|Fortryd fortryd|
+|Ctrl + 0|Cmd + 0|Sæt zoom til 100%|
+|Ctrl + Enter|Cmd + Enter|Lav ny side|
+|Ctrl + Tilbage-tasten|Cmd + Tilbage-tasten|Slet hele ord bagud|
+|Ctrl + Del|Cmd
+|Ctrl + Enter|Cmd + Enter|Indsæt sideskift
+|Shift + Enter|Shift + Enter|Indsæt mindre linjeskift|
+|Enter|Enter|Indsæt nyt afsnit (større linjeskift)|
+|Ctrl + piletast|Cmd + piletast|Flyt hop frem og tilbage mellem hele ord|
+|Ctrl + Shift + piletast|Cmd + Shift + piletast|Marker hele ord|
 
 ## Overskrifter
 Overskrifter kan være svære at finde ud af.<br>
@@ -50,7 +68,7 @@ Det vil sige, at hvis du synes, at en overskrift skal have en anden størelse, f
 Hvis vi følger eksemplet, vil alle dine Overskrift 2'er bliver opdateret med den nye formattering
 
 ## Referencehåndtering
-[Se min artikel om Zotero](/posts/zotero)
+[Se min vejledning om Zotero](/posts/zotero)
 
 ---
 *Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*
