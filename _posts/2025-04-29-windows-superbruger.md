@@ -11,14 +11,31 @@ Her er nogle tips til Windows 11.
 
 ## Genvejstaster
 
-Udvalgte genvejstaster
+### Udvalgte genvejstaster i Windows
 
 |Genvejstast|Hvad gør den?|Kommentar|
 |---|---|---|
 |Ctrl + Shift + Esc|Åben jobliste|Det er også muligt at højreklikke på processlinjen og vælge joblisten herfra, så man ikke skal bruge Ctrl + Alt + Delete|
+|Win + E|Åben Stifinder||
+|Win + I|Åben Indstillinger||
 |Win + L|Lås computeren|Efterlad din computer sikkert|
+|Win + P|Skift præsentationsvisning|Brugbart hvis du har flere skærme tilkoblet|
+|Win + S|Åben Windows Søgning|Alternativt kan du også trykke på Win-tasten og begynde at skrive.|
 |Win + V|Åben udklipsholder|Se tekst og billeder, som du har kopieret over den seneste tid|
+|Win + .|Åben emoji-vælger||
+|Win + Mellemrum|Skrift tastatursprog|Hvis du har flere sprog installeret på dit tastatur, fx Dansk, Engelsk og Græsk, kan du hurtigt skifte mellem dem|
+|Win + piletast|Flyt et vindue rundt||
 |Prnt Scrn eller Prt Sc|Tag skærmbillede|Se overskriften [Klippeværktøj](#klippeværktøj)|
+
+### Udvalgte genvejstaster i Stifinder
+
+|Genvejstast|Hvad gør den?|Kommentar|
+|---|---|---|
+|F2|Omdøb fil|Marker en fil og tryk på knappen|
+|F5|Opdater vinduet|Kan også bruges i browsere, hvor den især er brugbar som Ctrl + F5|
+|Alt + pil op|Gå en mappeniveau op (tilbage)||
+|Ctrl + Alt + N|Opret ny mappe||
+|Ctrl + T|Åben ny fane i Stifinder|Kun for Windows 11|
 
 ## Klippeværktøj
 Brug Klippeværktøj på Windows til at tage skærmbilleder/screenshots.
