@@ -1,6 +1,7 @@
 ---
 title: Adblocking
 date: 2025-04-27 19:43:00 +/-0
+description: Jeg kender ikke et menneske, som er glad for reklamer, når de besøger en hjemmeside. Derfor foreslår jeg, at man bruger en adblocker.
 categories: [Browser, Udvidelser]
 tags: [ublock origin,adblock,google,browser]     # TAG names should always be lowercase
 image:
