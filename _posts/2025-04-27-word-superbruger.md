@@ -48,7 +48,7 @@ Jeg skrev i 2025 en artikel [omkring overskrifter på hjemmesider](https://suppo
 Stukturen af overskrifter i et dokument og en hjemmeside er den samme.
 Nogle hovedpunkter er:
 * En tommelfingerregel vedr. overskrifter: Hvis du har flere Header 1 (Overskrift 1) end Header 2 (Overskrift 2), har du for mange Header 1.
-    * Forklaringen bag: På hjemmesider må man ikke brugere mere end en Header 1 på samme side. I dokumenter må man gerne bruge Header 1 mere end en gang så længe man er varsom med brugen af den. Den må kun bruges, hvis den laver voldsomme skel i teksten. Det gælder fx mellem kapitler. Hvis man bruger overskrifter i et kapitel, skal dette være Overskrift 2 eller en af lavere grad.
+    * Forklaringen bag: På hjemmesider må man ikke brugere mere end en Header 1 på samme side. Det skyldes optimering af søgningen (SEO) og dels skærmlæsere. I dokumenter må man gerne bruge Header 1 mere end en gang, så længe man er varsom med brugen af den. Den må kun bruges, hvis den laver voldsomme skel i teksten. Det gælder fx kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
 * Du må aldrig gå mere end et trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
 * Du må gerne gå mere end et trin op hver gang, fx må du gerne gå fra Header 4 til Header 2
 
