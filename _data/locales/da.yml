@@ -14,7 +14,7 @@ tabs:
   categories: Kategorier
   tags: Tags
   archives: Arkiv
-  about: About
+  about: Om siden
 
 # the text displayed in the search bar & search results
 search:
@@ -24,7 +24,7 @@ search:
 
 panel:
   lastmod: Senest opdateret
-  trending_tags: Trending Tags
+  trending_tags: Populære tags
   toc: Indhold
 
 copyright:
@@ -35,15 +35,15 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Nogle rettigheder reserveret.
+  brief: Nogle rettigheder forbeholdes.
   verbose: >-
-    Medmindre andet er angivet, er blogopslag på denne side beskyttet
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) licens af forfatteren.
+    Medmindre andet er angivet, er opslag på denne side beskyttet
+    under Creative Commons Attribution 4.0 International (CC BY 4.0) licensen af forfatteren.
 
 # meta: Using the :THEME theme for :PLATFORM.
 
 not_found:
-  statement: Beklager, denne URL peger på et forkert sted, eller opslaget findes ikke mere.
+  statement: Beklager, vi har malpaceret denne URL, eller den peger på et sted, som ikke findes.
 
 notification:
   update_found: En ny version af indholdet er fundet!
@@ -59,8 +59,8 @@ post:
   pageview_measure: visninger
   read_time:
     unit: min
-    prompt: læsning
-  relate_posts: Læs mere
+    prompt: læsetid
+  relate_posts: Læs videre
   share: Del
   button:
     next: Nyere
