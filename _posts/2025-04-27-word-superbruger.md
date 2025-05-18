@@ -47,7 +47,8 @@ Denne guide kan være med til at give svar på det. Bemærk, at jeg undervejs br
 Jeg skrev i 2025 en artikel [omkring overskrifter på hjemmesider](https://support.kirkenettet.dk/hc/da/articles/25972341258130-Overskrifter-p%C3%A5-hjemmesider), som også er brugbar for dokumenter i den akademiske skrivning <br>
 Stukturen af overskrifter i et dokument og en hjemmeside er den samme.
 Nogle hovedpunkter er:
-* Der må ikke være mere end en Header 1 (Overskrift 1) på en side/dokument
+* En tommelfingerregel vedr. overskrifter: Hvis du har flere Header 1 (Overskrift 1) end Header 2 (Overskrift 2), har du for mange Header 1.
+    * Forklaringen bag: På hjemmesider må man ikke brugere mere end en Header 1 på samme side. I dokumenter må man gerne bruge Header 1 mere end en gang så længe man er varsom med brugen af den. Den må kun bruges, hvis den laver voldsomme skel i teksten. Det gælder fx mellem kapitler. Hvis man bruger overskrifter i et kapitel, skal dette være Overskrift 2 eller en af lavere grad.
 * Du må aldrig gå mere end et trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
 * Du må gerne gå mere end et trin op hver gang, fx må du gerne gå fra Header 4 til Header 2
 
@@ -70,6 +71,26 @@ Hvis vi følger eksemplet, vil alle dine Overskrift 2'er bliver opdateret med de
 
 ## Referencehåndtering
 [Se min vejledning om Zotero](/posts/zotero)
+
+## Når du er færdig
+Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigtigt.
+
+1. Åben Filer --> Eksporter --> Opret PDF-XPS-dokument. Her trykker du på knappen "Opret PDF/XPS"
+2. Som standard er indstillingerne for "Åben fil efter publicering" og "Standard (online publicering og udskrivning)" valgt. Det er fint.
+3. Tryk nu på knappen til højre i dialogboksen, hvor der står "Indstillinger"
+![](/assets/img/word-pdf-export-diagbox.png)
+4. Her skal du være opmærksom på følgende indstillinger
+    1. Sideområde: Som udgangspunkt skal den være sat til "Alle"
+    2. Hvad skal udgives: "Dokument"
+    3. Medtag oplysninger, der ikke udgives
+        1. Sæt flueben i "Opret bogmærker ved hjælp af: Overskrifter"
+        2. Sæt flueben i "Dokumentegenskaber"
+        3. Sæt flueben i "Koder til dokumentstruktur for tilgængelighed"
+    4. PDF-indstillinger:
+        1. Sæt flueben i "Bitmaptekst, når skrifttyper ikke er integreret"
+![](/assets/img/word-pdf-export-settings.png)
+
+
 
 ---
 *Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*
