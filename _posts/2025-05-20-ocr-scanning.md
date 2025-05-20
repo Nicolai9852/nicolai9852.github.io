@@ -20,7 +20,7 @@ Gratis online program til genbehandling af PDF'er<br>
 Gratis online program til genbehandling af PDF'er<br>
 <https://www.ilovepdf.com/ocr-pdf>
 
-## Offline værktøjer
+## Offline værktøjer (mere advanceret)
 ### OCRmyPDF
 OCRmyPDF kræver lidt mere teknisk viden, men jeg har virkelig brugt det meget og nydt det.
 Samtidigt er det offline og kan derfor bruges, selv hvis du ikke har internet.
