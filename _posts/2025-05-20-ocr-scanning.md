@@ -12,12 +12,20 @@ Men hvad gør du, hvis dette ikke er tilfældet?
 Her er nogle værktøjer, som kan hjælpe dig med at gøre dine indscannede dokumenter søgbare.
 
 ## Online værktøjer
+For langt de fleste vil det være tilstrækkeligt at bruge et online værktøj.
+Disse værktøjer kræver ikke installation og kan bruges direkte i din browser.
+
 ### PDF24
-Gratis online program til genbehandling af PDF'er<br>
+PDF24 er mit go-to værktøj, hvis jeg er på farten og skal have lavet en hurtig OCR-scanning.
 <https://tools.pdf24.org/en/ocr-pdf>
 
+Husk at vælge sprog, når du uploader din fil og outputtype som PDF.
+
+*Umiddelbart ligner det, at PDF24 bygger deres motor på [OCRmyPDF](#ocrmypdf). Det kan du også installere på din egen computer.*
+
 ### iLovePDF
-Gratis online program til genbehandling af PDF'er<br>
+iLovePDF er et andet godt alternativ til OCR-scanning af PDF'er. Men indstillingerne er mere begrænsede ift. PDF24.
+Du kan dog stadig vælge sprog.
 <https://www.ilovepdf.com/ocr-pdf>
 
 ## Offline værktøjer (mere advanceret)
@@ -30,7 +38,8 @@ Jeg anbefaler at følge denne installationsguide: <https://ocrmypdf.readthedocs.
 Herunder har jeg renskrevet på dansk til de vigtigste punkter.
 
 #### Installation af Tesseract og OCRmyPDF
-1. Hvis du ikke allerede har, installer winget. Det kan gøres ved at følge denne guide: <https://docs.microsoft.com/en-us/windows/package-manager/winget/>
+1. Start med at installere Appinstallation. Du kan hente den fra <https://apps.microsoft.com/detail/9NBLGGH4NNS1?hl=da-dk&gl=DK&ocid=pdpshare>
+   1. Når du installerer Appinstallation, vil den installere Winget (Windows Package Manager) automatisk. (Winget er et helt fantastisk værktøj til at installere programmer på Windows super let!)
 2. Herefter kan du installere Python med kommandoen `winget install -e --id Python.Python.3.11`
 3. Herefter kan du installere Tesseract med kommandoen `winget install -e --id UB-Mannheim.TesseractOCR`
 4. Nu skal du installere Ghostscript fra deres hjemmeside <https://ghostscript.com/releases/gsdnld.html>
