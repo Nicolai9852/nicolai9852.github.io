@@ -47,3 +47,10 @@ Nu er du klar til at bruge OCRmyPDF.
 
 #### Brug af OCRmyPDF
 1. Åben en kommandoprompt (cmd, PowerShell eller Windows Terminal)
+2. Skriv `ocrmypdf -l SPROG --output-type pdf LOKATION_INPUT_FIL LOKATION_OUTPUT_FIL`
+   1. Eksempel: `ocrmypdf -l dan --output-type pdf "C:\Users\Bruger\Downloads\Dokument.pdf" "C:\Users\Bruger\Downloads\Dokument.pdf"`
+      1. Hvis du bruger det samme navn til input og output, vil det overskrive det gamle dokument.
+   2. Angiv flere sprog ved bruge af -l dan+eng
+   3. Tilføj evt. --force-ocr for at tvinge OCR på alle sider
+   4. Tilføj evt. --deskew for at rette skæve sider
+   5. Tilføj evt. --rotate-pages for at rette forkerte indscannede rotationer
