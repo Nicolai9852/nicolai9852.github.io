@@ -3,11 +3,9 @@ title: NotebookLM
 date: 2025-05-22 14:16:45 +/-0
 categories: [Software, Skrivning]
 tags: [browser,referencer,software,universitet]     # TAG names should always be lowercase
-image:
-  path: https://upload.wikimedia.org/wikipedia/commons/5/57/NotebookLM_logo.svg
 ---
 
-_Dette opslag handler om AI. Du skal altid være opmærksom, når det kommer til brugen af AI, da den kan være mangelfuld._
+_Dette opslag handler om AI. Du skal altid være opmærksom, når det kommer til brugen af AI, da den kan være mangelfuld eller forkert._
 
 ## Hvad er NotebookLM?
 NotebookLM er et gratis værktøj lavet af Google til at holde styr på noter og danne overblik over dine dokumenter.
@@ -29,8 +27,6 @@ I NotebookLM får du 100 notesbøger, med mulighed for upload af op til 50 kilde
 3. Upload dine PDF'er. Det kunne være indscannede tekster
 4. Giv den en promt - fx "Lav et overblik over Tekst A, B og C"
 5. Tjek altid kilderne for at være sikker på, at de er rigtig.
+6. Gem evt. svaret som en note, så du kan vende tilbage til de senere
 
-Min anbefaling er derfor kun at bruge værktøjet til at skabe overblik.
-
----
-_Billedkreditering: Google, Public domain, via Wikimedia Commons_
+Min anbefaling er derfor kun at bruge værktøjet til at skabe et hurtigt overblik.
