@@ -4,7 +4,7 @@ date: 2025-05-22 14:16:45 +/-0
 categories: [Software, Skrivning]
 tags: [browser,referencer,software,universitet]     # TAG names should always be lowercase
 image:
-  link: https://upload.wikimedia.org/wikipedia/commons/5/57/NotebookLM_logo.svg
+  path: https://upload.wikimedia.org/wikipedia/commons/5/57/NotebookLM_logo.svg
 ---
 
 _Dette opslag handler om AI. Du skal altid være opmærksom, når det kommer til brugen af AI, da den kan være mangelfuld._
