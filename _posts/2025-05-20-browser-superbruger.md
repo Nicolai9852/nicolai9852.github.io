@@ -13,7 +13,7 @@ Jeg har været en kæmpe fan af [UBlock Origin](https://ublockorigin.com/) i læ
 UBlock Origin findes i sin fulde udgave i [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) og i en Lite-udgave (som kan bruges i Manifest V3) i [Chrome](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) og [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
 
 #### Forklaringen bag
-Her er forklaringen i punktform
+Hvorfor skrev jeg Manifest V3 før? Og hvad er Chromium?
 * Flere browsere, som er bygget på webteknologien Chromium, har dog forsøgt at lukke ned for denne udvidelse og flere lignende.
 * Det er Google, som står bag projektet Chromium, som Google Chrome også er bygget på. Microsoft Edge er også bygget på Chromium.
 * UBlock Origin er bygget på en teknologi, som kræver Manifest V2.
@@ -51,3 +51,54 @@ Der kan være forskel på genvejstasterne i de forskellige browsere. Herunder er
 | Ctrl + Shift + W | Cmd + Shift + W | Luk vinduet |
 | Ctrl + [tal] | Cmd + [tal] | Åbn den fane, som svarer til tallet (fx Ctrl/Cmd + 1 åbner den første fane) |
 | Ctrl + Tab / Ctrl + Shift + Tab | Ctrl + Tab / Ctrl + Shift + Tab | Skift til næste/forrige fane (også Safari) |
+
+## Valg af browser
+Hvornår har du sidst skiftet browser? Det er ikke lige noget, man gør hver dag.<br>
+De mest kendte browsere er Chrome, Edge, Firefox og Safari. Der findes også mange andre browsere, som er bygget på [Chromium](#forklaringen-bag), som fx Brave og Vivaldi.
+
+Generelt for browserne gælder det, at det er hurtige og brugervenlige. Derfor vil jeg kun fokusere forskelle herunder.
+
+Jeg har prøvet både Chrome, Edge og Firefox på forskellige tidspunkter.<br>
+<b>Personligt anbefaler jeg Firefox</b>, da den er open source og fokuserer på privatliv og sikkerhed. Den er også hurtig og har mange nyttige funktioner.
+
+### Chrome
+Google Chrome er nok den mest udbredte og kendte browser. Men Google er kendt for at opsnappe så meget data som muligt, og derfor er det ikke den mest privatlivsvenlige browser.
+
+|Fordele|Ulemper|
+|---|---|
+|Godt integreret med Googles økosystem|Google opsnapper meget data|
+|Mange udvidelser|Kan være svært at navigere i indstillingerne|
+
+<em>Hvis man bruger forskellige Micorsoft konti, kan man med fordel installere udvidelsen [Microsoft Single Sign On](https://chromewebstore.google.com/detail/microsoft-single-sign-on/ppnbnpeolgkicgegkbkbjmhlideopiji). Dog understøtter [Firefox](#firefox) denne funktion som standard.</em>
+
+### Edge
+Microsoft Edge er den indbyggede browser i Windows 10 og 11. Den er bygget på Chromium og har derfor mange af de samme funktioner som Google Chrome.
+
+|Fordele|Ulemper|
+|---|---|
+|Godt integreret med Microsofts økosystem|Microsoft opsnapper meget data|
+|Mange udvidelser|Kan være svært at navigere i indstillingerne|
+
+*Eftersom Chrome og Edge er bygget på Chromium, er fordele og ulemper meget ens.*
+
+### Firefox
+Mozilla Firefox er en populær open source-browser, der fokuserer på privatliv og sikkerhed. Den har mange nyttige funktioner og et stort udvalg af udvidelser.
+
+|Fordele|Ulemper|
+|---|---|
+|Privatlivsvenlig, understøtter bl.a. [UBlock Origin](#adblocking)|Ikke integreret med noget økosystem|
+|Mange udvidelser|Kan være svære at navigere i indstillingerne|
+|[Mulighed for at være logget ind med Microsoft konti gennem Windows](https://support.mozilla.org/da/kb/windows-sso)|Nogle hjemmesider kan give fejl|
+
+<em>Jeg elsker virkelig denne funktion med Microsoft konti gennem Windows. Så slipper man for at taste sin Microsoft-kode ind hver gang man fx skal ind på Aarhus Universitets systemer. Det er bare super hurtigt.</em>
+![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2023-03-15-05-18-46-bb89d8.png)
+
+### Safari
+Apple Safari er standardbrowseren på macOS og iOS. Den er hurtig og energieffektiv, men har færre udvidelser end de andre browsere.
+
+|Fordele|Ulemper|
+|Virkelig godt integreret med Apples økosystem|Færre udvidelser end de andre browsere|
+||Kan give fejl på flere hjemmesider|
+
+### Andre browsere
+Der findes også mange andre browsere, som er bygget på Chromium, som fx Brave, DuckDuckGo og Vivaldi. De har deres egne fordele og ulemper, men generelt set tilbyder de et højere niveau af privatliv og sikkerhed sammenlignet med de mere etablerede browsere.
