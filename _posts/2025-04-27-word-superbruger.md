@@ -39,8 +39,6 @@ Udvalgte genvejstaster på Windows og Mac
 |Ctrl + Shift + piletast|Cmd + Shift + piletast|Marker hele ord|
 
 ## Overskrifter
-_Flere elementer er generelt inspireret af denne artikel: <https://webaim.org/techniques/word/>_
-
 Overskrifter kan være svære at finde ud af.<br>
 Vælger jeg den rigtige? Synes jeg, at den skal se anderledes ud?<br>
 Denne guide kan være med til at give svar på det. Bemærk, at jeg undervejs bruger ordet "Header", som er det englske term for overskrift og bruges ifm. hjemmesider.
