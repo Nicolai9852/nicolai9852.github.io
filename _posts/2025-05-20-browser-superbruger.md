@@ -78,6 +78,7 @@ Microsoft Edge er den indbyggede browser i Windows 10 og 11. Den er bygget på C
 |---|---|
 |Godt integreret med Microsofts økosystem|Microsoft opsnapper meget data|
 |Mange udvidelser|Kan være svært at navigere i indstillingerne|
+|God downloads-menu||
 
 *Eftersom Chrome og Edge er bygget på Chromium, er fordele og ulemper meget ens.*
 
@@ -89,6 +90,7 @@ Mozilla Firefox er en populær open source-browser, der fokuserer på privatliv 
 |Privatlivsvenlig, understøtter bl.a. [UBlock Origin](#adblocking)|Ikke integreret med noget økosystem|
 |Mange udvidelser|Kan være svære at navigere i indstillingerne|
 |[Mulighed for at være logget ind med Microsoft konti gennem Windows](https://support.mozilla.org/da/kb/windows-sso)|Nogle hjemmesider kan give fejl|
+|Fantastisk downloads-menu||
 
 <em>Jeg elsker virkelig denne funktion med Microsoft konti gennem Windows. Så slipper man for at taste sin Microsoft-kode ind hver gang man fx skal ind på Aarhus Universitets systemer. Det er bare super hurtigt.</em>
 ![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2023-03-15-05-18-46-bb89d8.png)
