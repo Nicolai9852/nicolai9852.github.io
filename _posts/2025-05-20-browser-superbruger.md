@@ -99,6 +99,7 @@ Mozilla Firefox er en populær open source-browser, der fokuserer på privatliv 
 Apple Safari er standardbrowseren på macOS og iOS. Den er hurtig og energieffektiv, men har færre udvidelser end de andre browsere.
 
 |Fordele|Ulemper|
+|---|---|
 |Virkelig godt integreret med Apples økosystem|Færre udvidelser end de andre browsere|
 |Indbygget filter til privatliv|Kan give fejl på flere hjemmesider|
 
