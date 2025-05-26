@@ -100,7 +100,7 @@ Apple Safari er standardbrowseren på macOS og iOS. Den er hurtig og energieffek
 
 |Fordele|Ulemper|
 |Virkelig godt integreret med Apples økosystem|Færre udvidelser end de andre browsere|
-||Kan give fejl på flere hjemmesider|
+|Indbygget filter til privatliv|Kan give fejl på flere hjemmesider|
 
 ### Andre browsere
 Der findes også mange andre browsere, som er bygget på Chromium, som fx Brave, DuckDuckGo og Vivaldi. De har deres egne fordele og ulemper, men generelt set tilbyder de et højere niveau af privatliv og sikkerhed sammenlignet med de mere etablerede browsere.
