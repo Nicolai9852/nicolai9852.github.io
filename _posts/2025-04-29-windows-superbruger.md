@@ -2,7 +2,7 @@
 title: Windows Superbruger-tips
 date: 2025-04-29 12:56:00 +/-0
 categories: [Software, Værktøj]
-tags: [windows,microsoft]     # TAG names should always be lowercase
+tags: [windows,microsoft,superbruger]     # TAG names should always be lowercase
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/e/e5/Windows11abstract.webp
 ---

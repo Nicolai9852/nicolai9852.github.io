@@ -2,7 +2,7 @@
 title: Word Superbruger-tips
 date: 2025-04-27 18:16:45 +/-0
 categories: [Software, Skrivning]
-tags: [word,microsoft,office,zotero]     # TAG names should always be lowercase
+tags: [word,microsoft,office,zotero,superbruger]     # TAG names should always be lowercase
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg
 ---
@@ -48,7 +48,8 @@ Jeg skrev i 2025 en artikel [omkring overskrifter på hjemmesider](https://suppo
 Stukturen af overskrifter i et dokument og en hjemmeside er den samme.
 Nogle hovedpunkter er:
 * En tommelfingerregel vedr. overskrifter: Hvis du har flere Header 1 (Overskrift 1) end Header 2 (Overskrift 2), har du for mange Header 1.
-    * Forklaringen bag: På hjemmesider må man ikke brugere mere end en Header 1 på samme side. Det skyldes optimering af søgningen (SEO) og dels skærmlæsere. I dokumenter må man gerne bruge Header 1 mere end en gang, så længe man er varsom med brugen af den. Den må kun bruges, hvis den laver voldsomme skel i teksten. Det gælder fx kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
+    * Forklaringen bag: På hjemmesider må man ikke bruge Header 1 mere end en gang på den samme side. Det skyldes optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed. I dokumenter må man gerne bruge Header 1 mere end en gang, så længe det har karakter af nyt indhold. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
+    * Se desuden <https://webaim.org/techniques/word/#headings>
 * Du må aldrig gå mere end et trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
 * Du må gerne gå mere end et trin op hver gang, fx må du gerne gå fra Header 4 til Header 2
 
