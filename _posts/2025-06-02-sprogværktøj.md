@@ -15,6 +15,8 @@ Copilot bygger på [ChatGPT](https://chat.com), men Copilot har flere funktioner
 Perseus kan bruges til at give morfologiske oversigter til både græsk og latin.<br>
 <https://www.perseus.tufts.edu/hopper/>
 
+Se desuden [Accordance Bible Software](/posts/accordance-bible-software), som er et betalt program. Programmet er et super godt studieværktøj, som både kan give græske morfologiske og syntatiske oversigter samt sammenligninger med andre bibeloversættelser og -kommentarer.
+
 ## Kun til Græsk
 Bergs Græsk ordbog<br>
 <https://ordnet.dk/gdo/>
