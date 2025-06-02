@@ -102,6 +102,8 @@ Du kan nu formatere sidetallet, inden du indsætter det.
 Hvis du godt kan lide, at der står "Side X af Y", skal du også rette dette til.
 Som udgangspunkt vil Word tæller alle sider i dokumentet frem for antallet af sider i sektionen.
 
+_Denne del af guiden er hentet fra <https://answers.microsoft.com/en-us/msoffice/forum/all/restart-total-number-of-pages-in-a-new-section/d2c4e032-b603-45a0-a8a9-003f7396f71b>_
+
 1. Du skal stadigvæk gøre det første i [Opret en ny sektion](#opret-en-ny-sektion)
 2. Indsæt nu den "Side X af Y", som du tidligere har gjort.
     1. Jeg plejer at bruge den, som hedder "Fede tal", som findes i bunden af menuen, hvor man indsætter sidetal
