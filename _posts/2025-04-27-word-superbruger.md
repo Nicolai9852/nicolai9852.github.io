@@ -73,6 +73,46 @@ Hvis vi følger eksemplet, vil alle dine Overskrift 2'er bliver opdateret med de
 ## Referencehåndtering
 [Se min vejledning om Zotero](/posts/zotero)
 
+## Sidetal
+Word kan være lidt svært at finde ud af, hvis du skal indsætte det rigtige sideantal.
+Hvis du har en forside og indholdsfortegnelse, så skal sidetalene som regel ikke tæller med her, fordi de ikke er en del af opgaven.
+
+Der er 3 punkter, som er relevant for dette.
+
+### Opret en ny sektion
+Du skal først oprette en ny sektion, før du får det rette sidetal frem
+1. Placer din mus det sted, hvor du vil adskille indholdsfortegnelsen fra brødteksten.
+2. Åben menupunktet "Layout" i toppen af skærmen
+3. Vælg knappen "Skift"
+4. Under "Skift"-menuen skal du under Sektionskift vælge enten "Næste side" eller Fortløbende.
+5. Åben nu sidehoved og sidefod på den nye sektion. Bemærk, at der nu står "Sektion 1" og "Sektion 2"
+6. Under menuen for Sidehoved og sidefod, skal du markeringen i knappen "Sammenkæd med forrige".
+    1. Du skal både trykke i sidehovedet OG i sidefoden for at fjerne knappen, da de ikke er bundet sammen.
+
+### Opret sidetal
+Du kan nu formatere sidetallet, inden du indsætter det.
+
+1. Vælg menuen "Indsæt"
+2. Tryk på "Sidetal"
+3. Tryk på "Formater sidetal" i menuen, som kommer ned.
+4. I bunden af boksen, hvor der står "Begynd med:" skriver du tallet "1".
+5. Du kan nu indsætte et sidetal, som du plejer at gøre.
+
+### Opret korrekt antalside
+Hvis du godt kan lide, at der står "Side X af Y", skal du også rette dette til.
+
+1. Du skal stadigvæk gøre det første i [Opret en ny sektion](#opret-en-ny-sektion)
+2. Indsæt nu den "Side X af Y", som du tidligere har gjort.
+    1. Jeg plejer at bruge den, som hedder "Fede tal", som findes i bunden af menuen, hvor man indsætter sidetal
+3. _Det kommer til at se mærkeligt ud nu, men det er helt normalt._ Tryk på Alt + F9 på samme tid.
+4. På din skærm skulle der gerne i sidefod/sidehovedet nu står `Side {PAGE} af {NUMPAGES}`
+5. Du skal erstatte `{NUMPAGES}` med `{SECTIONPAGES}`
+    1. Funktionen NUMPAGES tæller alle antal sider i hele dokumentet. SECTIONPAGES tæller alle antal sider i sektionen, som vi tidligere har lavet.
+7. Kodestykket bliver dermed `Side {PAGE} af {SECTIONPAGES}`
+8. Tryk igen Alt + F9 og alt ser normalt ud igen, men antallet af sider er nu tilpasset.
+
+Du er nu færdig.
+
 ## Når du er færdig
 Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigtigt.
 
