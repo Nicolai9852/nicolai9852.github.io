@@ -98,8 +98,9 @@ Du kan nu formatere sidetallet, inden du indsætter det.
 4. I bunden af boksen, hvor der står "Begynd med:" skriver du tallet "1".
 5. Du kan nu indsætte et sidetal, som du plejer at gøre.
 
-### Opret korrekt antalside
+### Opret korrekt Side X af Y
 Hvis du godt kan lide, at der står "Side X af Y", skal du også rette dette til.
+Som udgangspunkt vil Word tæller alle sider i dokumentet frem for antallet af sider i sektionen.
 
 1. Du skal stadigvæk gøre det første i [Opret en ny sektion](#opret-en-ny-sektion)
 2. Indsæt nu den "Side X af Y", som du tidligere har gjort.
@@ -112,6 +113,7 @@ Hvis du godt kan lide, at der står "Side X af Y", skal du også rette dette til
 8. Tryk igen Alt + F9 og alt ser normalt ud igen, men antallet af sider er nu tilpasset.
 
 Du er nu færdig.
+
 
 ## Når du er færdig
 Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigtigt.
