@@ -63,5 +63,5 @@ Her er et uddrag af de vigtigste.
 
 Det er relativt nemt at finde ud af, hvis man forestiller sig, hvad det kunne forkoretes til på engelsk.
 
-## Latin-Dansk Ordbog
+### Latin-Dansk Ordbog
 <https://ordnet.dk/ldo/>
