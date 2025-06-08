@@ -30,6 +30,10 @@ BlueLetterBible kan bruges til at sammenligne den græske tekst i NA28 op mod KJ
 <https://www.blueletterbible.org/tools/interlinear/tr/jhn/1/1-51/>
 
 ## Kun til Latin
+### Latin is simple
+Et værktøj til analysering af latinske ord og sammenhæng mellem dem
+<https://www.latin-is-simple.com/en/analysis/>
+
 ### Whitaker's Words
 Whitaker's Words giver en morfologisk oversigt over sætninger samt oversættelse af enkelte ord.<br>
 <https://latin-words.com>
