@@ -1,11 +1,46 @@
 ---
-title: Sprogværktøjer
+title: Studieværktøjer
 date: 2025-06-02 13:20:00 +/-0
 categories: [Browser, Skrivning]
-tags: [browser,universitet,græsk,latin,sprog,bibelen]     # TAG names should always be lowercase
+tags: [browser,referencer,universitet,græsk,latin,sprog,software,bibelen]     # TAG names should always be lowercase
 ---
 
-Her følger nogle (primært gratis) værktøjer til forskellige sprog til teologistudiet.
+_Dette opslag handler om bl.a. om AI. Du skal altid være opmærksom, når det kommer til brugen af AI, da den kan være mangelfuld eller forkert._
+
+Her følger nogle (primært gratis) tekniske værktøjer til teologistudiet.
+
+## Bibelen Online
+Hvis du ikke gider klikke dig igennem Bibelens kapitler, men kan huske bøgernes forkortelser, kan du som regel hurtigt finde noget bestemt.
+
+Eksempel:
+<https://www.bibelselskabet.dk/brugbibelen/bibelenonline/mark/4> henviser til Markusevangeliet, kapitel 4.<br>
+Hvis du hurtigt skal fange et vers, kan du sætte et # i slutningen af linket - fx <https://www.bibelselskabet.dk/brugbibelen/bibelenonline/mark/4#31>.<br>
+På den måde bliver du automatisk taget hen til det vers.<br>
+Det er især brugbart, hvis du skal slå op på et længere kapitel - fx [Salme 119](https://www.bibelselskabet.dk/brugbibelen/bibelenonline/sl/119)
+
+## NotebookLM
+NotebookLM er et gratis værktøj lavet af Google til at holde styr på noter og danne overblik over dine dokumenter.
+
+Læs mere om de gratis funktioner [på Googles hjemmeside](https://support.google.com/notebooklm/answer/16206866?hl=en&ref_topic=16175214&sjid=12310133649509940064-EU)<br>
+Den gratis version indeholder
+* Upload PDFs, hjemmesider, Google Docs and Slides, YouTube URLs, og mere.
+* Skab overblik med et klik, FAQs, tidslinjer, og mindmaps
+* Skab lydoverblik og lyd på farten.
+* Stil spørgsmål for dybere indsigt og får svar med henvisninger.
+
+Det er mest det første og sidste punkt, jeg er interessert i
+
+I NotebookLM får du 100 notesbøger, med mulighed for upload af op til 50 kilder (op til 500.000 ord i hver), og en daglig begrænsning på 50 chat-beskeder and 3 lyd-skabelser.
+
+### Brugerguide
+1. Tilgå først siden <https://notebooklm.google.com/>
+2. Opret en ny notesbog
+3. Upload dine PDF'er. Det kunne være indscannede tekster
+4. Giv den en promt - fx "Lav et overblik over Tekst A, B og C"
+5. Tjek altid kilderne for at være sikker på, at de er rigtig.
+6. Gem evt. svaret som en note, så du kan vende tilbage til de senere
+
+Min anbefaling er derfor kun at bruge værktøjet til at skabe et hurtigt overblik.
 
 ## Sprogværktøj til Græsk og Latin
 ### Microsoft Copilot
@@ -21,7 +56,7 @@ Perseus kan bruges til at give morfologiske oversigter til både græsk og latin
 ### Accordance Bible Software
 Se desuden [Accordance Bible Software](/posts/accordance-bible-software), som er et betalt program. Programmet er et super godt studieværktøj, som både kan give græske morfologiske og syntatiske oversigter samt sammenligninger med andre bibeloversættelser og -kommentarer.
 
-## Kun til Græsk
+## Sprogværktøj kun til Græsk
 ### Bergs Græsk ordbog
 <https://ordnet.dk/gdo/>
 
@@ -29,7 +64,8 @@ Se desuden [Accordance Bible Software](/posts/accordance-bible-software), som er
 BlueLetterBible kan bruges til at sammenligne den græske tekst i NA28 op mod KJV<br>
 <https://www.blueletterbible.org/tools/interlinear/tr/jhn/1/1-51/>
 
-## Kun til Latin
+
+## Sprogværktøj kun til Latin
 ### Latin is simple
 Et værktøj til analysering af latinske ord og sammenhæng mellem dem
 <https://www.latin-is-simple.com/en/analysis/>
@@ -67,5 +103,5 @@ Her er et uddrag af de vigtigste.
 
 Det er relativt nemt at finde ud af, hvis man forestiller sig, hvad det kunne forkoretes til på engelsk.
 
-### Latin-Dansk Ordbog
+#### Latin-Dansk Ordbog
 <https://ordnet.dk/ldo/>

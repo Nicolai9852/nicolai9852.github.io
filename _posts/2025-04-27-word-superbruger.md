@@ -10,33 +10,33 @@ image:
 *Denne guide gælder i princippet også for Google Docs. Der kan dog være afvigelser ift. genvejstaster*
 
 ## Genvejstaster
-Udvalgte genvejstaster på Windows og Mac
+Her følger en liste af udvalgte genvejstaster på Windows og Mac til Word.
 
-[Se den fuilde vejledning til genvejstaster for Windows](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=windows)
-<br>[Se den fulde vejledning til genvejstaster for Mac](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=macos)
+[Se den fulde vejledning til genvejstaster for Windows](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=windows){: .btn}<br>
+[Se den fulde vejledning til genvejstaster for Mac](https://support.microsoft.com/da-dk/office/tastaturgenveje-i-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#picktab=macos){: .btn}
 
-|Windows|Mac|Hvad gør den?|
-|---|---|---|
-|Ctrl + A|Cmd + A|Marker alt|
-|Ctrl + B|Cmd + B|Søge-funktion|
-|Ctrl + C|Cmd + C|Kopier indhold|
-|Ctrl + F|Cmd + F|Fed skrift|
-|Ctrl + K|Cmd + K|Kursiv skrift|
-|Ctrl + S|Cmd + S|Gem dokument|
-|Ctrl + V|Cmd + V|Indsæt indhold|
-|Ctrl + Shift + V|Cmd + Shift + V|Indsæt kun tekst (især brugbar hvis du kopier indhold fra en hjemmeside)|
-|Ctrl + X|Cmd + X|Klip indhold|
-|Ctrl + Z|Cmd + Z|Fortryd|
-|Ctrl + Y|Cmd + Y|Fortryd fortryd|
-|Ctrl + 0|Cmd + 0|Sæt zoom til 100%|
-|Ctrl + Enter|Cmd + Enter|Lav ny side|
-|Ctrl + Tilbage-tasten|Cmd + Tilbage-tasten|Slet hele ord bagud|
-|Ctrl + Del|Mangler på Mac|Slet hele ord foran|
-|Ctrl + Enter|Cmd + Enter|Indsæt sideskift
-|Shift + Enter|Shift + Enter|Indsæt mindre linjeskift|
-|Enter|Enter|Indsæt nyt afsnit (større linjeskift)|
-|Ctrl + piletast|Cmd + piletast|Flyt hop frem og tilbage mellem hele ord|
-|Ctrl + Shift + piletast|Cmd + Shift + piletast|Marker hele ord|
+| Windows                 | Mac                    | Hvad gør den?                                                            |
+| ----------------------- | ---------------------- | ------------------------------------------------------------------------ |
+| Ctrl + A                | Cmd + A                | Marker alt                                                               |
+| Ctrl + B                | Cmd + B                | Søge-funktion                                                            |
+| Ctrl + C                | Cmd + C                | Kopier indhold                                                           |
+| Ctrl + F                | Cmd + F                | Fed skrift                                                               |
+| Ctrl + K                | Cmd + K                | Kursiv skrift                                                            |
+| Ctrl + S                | Cmd + S                | Gem dokument                                                             |
+| Ctrl + V                | Cmd + V                | Indsæt indhold                                                           |
+| Ctrl + Shift + V        | Cmd + Shift + V        | Indsæt kun tekst (især brugbar hvis du kopier indhold fra en hjemmeside) |
+| Ctrl + X                | Cmd + X                | Klip indhold                                                             |
+| Ctrl + Z                | Cmd + Z                | Fortryd                                                                  |
+| Ctrl + Y                | Cmd + Y                | Fortryd fortryd                                                          |
+| Ctrl + 0                | Cmd + 0                | Sæt zoom til 100%                                                        |
+| Ctrl + Enter            | Cmd + Enter            | Lav ny side                                                              |
+| Ctrl + Tilbage-tasten   | Cmd + Tilbage-tasten   | Slet hele ord bagud                                                      |
+| Ctrl + Del              | Mangler på Mac         | Slet hele ord foran                                                      |
+| Ctrl + Enter            | Cmd + Enter            | Indsæt sideskift                                                         |
+| Shift + Enter           | Shift + Enter          | Indsæt mindre linjeskift                                                 |
+| Enter                   | Enter                  | Indsæt nyt afsnit (større linjeskift)                                    |
+| Ctrl + piletast         | Cmd + piletast         | Flyt hop frem og tilbage mellem hele ord                                 |
+| Ctrl + Shift + piletast | Cmd + Shift + piletast | Marker hele ord                                                          |
 
 ## Overskrifter
 Overskrifter kan være svære at finde ud af.<br>
@@ -47,11 +47,11 @@ Denne guide kan være med til at give svar på det. Bemærk, at jeg undervejs br
 Jeg skrev i 2025 en artikel [omkring overskrifter på hjemmesider](https://support.kirkenettet.dk/hc/da/articles/25972341258130-Overskrifter-p%C3%A5-hjemmesider), som også er brugbar for dokumenter i den akademiske skrivning <br>
 Stukturen af overskrifter i et dokument og en hjemmeside er den samme.
 Nogle hovedpunkter er:
-* En tommelfingerregel vedr. overskrifter: Hvis du har flere Header 1 (Overskrift 1) end Header 2 (Overskrift 2), har du for mange Header 1.
-    * Forklaringen bag: På hjemmesider må man ikke bruge Header 1 mere end en gang på den samme side. Det skyldes optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed. I dokumenter må man gerne bruge Header 1 mere end en gang, så længe det har karakter af nyt indhold. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
+* En tommelfingerregel vedr. overskrifter: Undgå at bruger Overskrift 1 for meget. Gå som udgangspunkt efter kun at bruge den en gang.
+    * Forklaringen bag: På hjemmesider må man ikke bruge Header 1 mere end en gang på den samme side. Det skyldes, at Header 1 er overskriften for den enkelte side, optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed. I dokumenter må man gerne bruge Header 1 mere end en gang, så længe det har karakter af nyt indhold. Ligesom når man klikker ind på en ny hjemmeside. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
     * Se desuden <https://webaim.org/techniques/word/#headings>
-* Du må aldrig gå mere end et trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
-* Du må gerne gå mere end et trin op hver gang, fx må du gerne gå fra Header 4 til Header 2
+* Du må aldrig springe i trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
+* Du må altid gå mere end et trin op, fx må du gerne gå fra Header 4 til Header 2
 
 ### Opdatering af alle overskrifter på en gang
 <b>Dette punkt er vigtigt for en flot opstillet opgave og kan spare dig meget tid.</b><br>
@@ -98,7 +98,7 @@ Du kan nu formatere sidetallet, inden du indsætter det.
 4. I bunden af boksen, hvor der står "Begynd med:" skriver du tallet "1".
 5. Du kan nu indsætte et sidetal, som du plejer at gøre.
 
-### Opret korrekt Side X af Y
+### Opret korrekt 'Side X af Y'
 Hvis du godt kan lide, at der står "Side X af Y", skal du også rette dette til.
 Som udgangspunkt vil Word tæller alle sider i dokumentet frem for antallet af sider i sektionen.
 
@@ -117,7 +117,7 @@ _Denne del af guiden er hentet fra <https://answers.microsoft.com/en-us/msoffice
 Du er nu færdig.
 
 
-## Når du er færdig
+## Når du skal aflevere
 Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigtigt.
 
 1. Åben Filer --> Eksporter --> Opret PDF-XPS-dokument. Her trykker du på knappen "Opret PDF/XPS"
