@@ -18,6 +18,10 @@ Hvis du hurtigt skal fange et vers, kan du sætte et # i slutningen af linket - 
 På den måde bliver du automatisk taget hen til det vers.<br>
 Det er især brugbart, hvis du skal slå op på et længere kapitel - fx [Salme 119](https://www.bibelselskabet.dk/brugbibelen/bibelenonline/sl/119)
 
+### Bibelen Old
+Der findes også en ældre version af Bibelen Online, som man kan læse i.<br>
+Den findes på <http://old.bibelselskabet.dk/danbib/web/bibelen.htm>
+
 ## NotebookLM
 NotebookLM er et gratis værktøj lavet af Google til at holde styr på noter og danne overblik over dine dokumenter.
 
