@@ -25,6 +25,10 @@ Jeg kan klart anbefale [Obsidian](/posts/obsidian).
 Jeg startede med at skrive mine noter i OneNote, men jeg følte mig begrænset af funktionerne.<br>
 Det følger jeg derimod ikke med Obsidian.
 
+## Tips
+Jeg har lave en guide over nogle tips til enkelte fag.<br>
+Den findes under [opslaget vedr. eksamen](/posts/eksamen/#tips-til-enkelte-fag)
+
 ## Word
 Du har helt sikkert skrevet en opgave i Word før. Men har du styr på, hvordan du bruger de forskellige funktioner?
 <br>[Læs mere omkring brugen af funktioner i Word](/posts/word-superbruger/)
