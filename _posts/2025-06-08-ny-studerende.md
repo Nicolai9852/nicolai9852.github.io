@@ -25,6 +25,26 @@ Jeg kan klart anbefale [Obsidian](/posts/obsidian).
 Jeg startede med at skrive mine noter i OneNote, men jeg følte mig begrænset af funktionerne.<br>
 Det følger jeg derimod ikke med Obsidian.
 
+## Teologisk begreber
+Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan være gode, når man starter på teologistudiet.
+
+| Begreb         | Betydning                                                     |
+| -------------- | ------------------------------------------------------------- |
+| Apoftegme      | Noget med ørkenfortællinger                                   |
+| Apokalyptik    | Læren om endetiden                                            |
+| Apologetik     | Trosforsvar                                                   |
+| Doxologi       | Læren om lovprisning (i gudstjenesten)                        |
+| Ekklesiologi   | Læren om den kristne kirke og menigheden                      |
+| Eksegese       | Udlæsning af en bibelsk tekst                                 |
+| Eskatologi     | Læren om de sidste tider                                      |
+| Homiletik      | Læren om prædiken                                             |
+| Hymnologi      | Læren om kristne salmer og sange                              |
+| Kristologi     | Læren om hvem Kristus var og er                               |
+| Missiologi     | Læren om kristendommens udspredelse                           |
+| Parusi         | Et begreb om Jeus nærvær eller anden genkomst                 |
+| Soteriologi    | Læren om frelsen                                              |
+| Theodicé       | Læren om Guds retfærdighed i lyset af lidelse                 |
+
 ## Tips
 Jeg har lave en guide over nogle tips til enkelte fag.<br>
 Den findes under [opslaget vedr. eksamen](/posts/eksamen/#tips-til-enkelte-fag)
