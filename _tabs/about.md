@@ -12,12 +12,8 @@ Jeg elsker at arbejde med teologi og tekniske ting. Dette er også tanken med de
 ## Formålet
 Jeg bliver ofte spurgt om hjælp til computerspørgsmål og vil her gemme nogle af svarene på de spørgsmål.
 
-Formålet med denne side er, at jeg bliver klogere på programmering og brugen af GitHub, Markdown, Jekyll og en masse andre ting.<br>
-Men ved samme lejlighed ønsker jeg at gøre dig klogere på nogle af de ting, jeg har lært gennem årene.<br>
+Mit personlige formål med siden er, at jeg bliver klogere på programmering og brugen af GitHub, Markdown, Jekyll og en masse andre ting.<br>
 Side skal også fungere som en [Eksamen-hotline](/posts/eksamen), så det er muligt at få svar på spørgsmål, selvom jeg er optaget.
-
-## Konkurrence
-Hvis nogen kan overbevise mig om et bedre navn end "TeoTechTips" og sender det til mig inden 31. juli 2025, kl 23:59:59, giver jeg en onsdagssnegl i det nye semester...
 
 ## Sociale links
 Find mig på
