@@ -1,6 +1,6 @@
 ---
 title: PowerPoint Superbruger-tips
-date: 2025-07-225 10:16:45 +/-0
+date: 2025-07-25 10:16:45 +/-0
 categories: [Software, Værktøj]
 tags: [superbruger,microsoft,office,powerpoint]     # TAG names should always be lowercase
 ---
