@@ -57,7 +57,7 @@ Vi skal først tilføje en værdi i Windows Registry, som gør det muligt at opg
 Du kan enten gøre det hente en fil ned eller gøre det manuelt.
 
 #### Hentning af fil
-1. Hent filen [Windows11BypassCPUCheck](assets/Windows11BypassCPUCheck.reg)
+1. Hent filen [Windows11BypassCPUCheck](/assets/Windows11BypassCPUCheck.reg)
     1. Jeg har selv lavet filen. Der står kun følgende i den:
     ```reg
     Windows Registry Editor Version 5.00
