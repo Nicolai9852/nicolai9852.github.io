@@ -45,6 +45,68 @@ Du kan desuden aktivere knappen *Print Scrn* på dit tastatur til at aktivere kn
 
 ![](/assets/img/windows-indstillinger-printscrn.png)
 
+## Opgrader til Windows 11 (selv hvis kravene ikke lever op til det)
+*Kom endelig og spørg, inden du går i gang med denne guide.*
+
+I flere tilfælde kan man opgradere sin computer til Windows 11. Et af de "hårdre" krav er, at computeren skal have en bestemt processor, som skal stå på en liste. Men mange processere kan godt køre Windows 11, selvom de ikke er på listen. Microsoft har dog ikke officielt understøttet det, selvom det vil fungere uden det mindste problem. I dette tilfælde vil jeg altid opgradere computeren. Hvis computeren derimod ikke understøtter TPM 2.0, vil jeg som regel ikke gøre det.
+
+Sæt gerne 1-2 timer af til at gøre det, da det kan tage lang tid at hente Windows 11 ned og installere det.
+
+### Registry-tilføjelse
+Vi skal først tilføje en værdi i Windows Registry, som gør det muligt at opgradere til Windows 11.
+Du kan enten gøre det hente en fil ned eller gøre det manuelt.
+
+#### Hentning af fil
+1. Hent filen [Windows11BypassCPUCheck](assets/Windows11BypassCPUCheck.reg)
+    1. Jeg har selv lavet filen. Der står kun følgende i den:
+    ```reg
+    Windows Registry Editor Version 5.00
+
+    [HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup]
+    "AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
+    ```
+    2. Du kan bekræfte det ved at åbne filen i Notesblok eller et andet tekstprogram.
+2. Dobbeltklik på filen og tryk Ja, når du bliver spurgt om at køre den.
+3. Sig Ja til at tilføje den i Windows Registry
+4. Filen er tilføjet og du skal genstarte computeren
+
+#### Manuel tilføjelse
+I den manuelle tilføjelse skal du selv lægge værdien ind.
+
+1. Tryk på Win + R for at åbne Kør
+2. Skriv `regedit` og tryk Enter. Kør som administrator, når du bliver spurgt.
+3. Naviger i mapperne til `HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup`
+    1. Hvis en mappe ikke findes, oftest `MoSetup`, så højreklik på mappen over og vælg Ny -> Nøgle og skriv navnet på mappen.
+4. Højreklik i højre side og vælg Ny -> DWORD (32-bit) værdi
+5. Giv den nye værdi navnet `AllowUpgradesWithUnsupportedTPMOrCPU`
+6. Dobbeltklik på den nye værdi og sæt værdien til `1`
+7. Luk Registry Editor
+8. Genstart computeren
+
+### Lav et installationsmedie
+Nu skal du lave et installationsmedie, som du kan bruge til at installere Windows 11.
+1. Hent [Media Creation Tool](https://www.microsoft.com/da-dk/software-download/windows11) fra Microsofts hjemmeside
+2. Find overskriften `Opret installationsmedie til Windows 11` og tryk på `Download nu`-knappen
+3. Kør programmet, når det er hentet ned
+4. Brug de anbefalede indstillinger for sprog, udgave og arkitektur.
+5. Vælg "ISO-fil" og tryk på "Næste"
+6. Vælg et sted at gemme filen (jeg forslår Overførsler) og tryk på "Gem"
+7. Vent på, at filen bliver hentet ned. Det kan tage et stykke tid.
+8. Når filen er hentet ned, kan du lukke programmet ved at trykke Udfør.
+
+### Installer Windows 11 fra ISO-filen
+1. Find den hentede ISO-fil og højreklik på den.
+2. Vælg "Monter" for at montere den som et drev.
+3. Åben Stifinder og find det nye drev, som er blevet oprettet.
+4. Find filen `setup.exe` og dobbeltklik på den.
+5. Følg installationsguiden.
+6. På et af de første billeder er der en blå tekst man kan trykke for at vælge, om den skal installere opdateringer med det samme. Vælg i stedet "Ikke nu", da opdateringerne kan tage lang tid.
+7. Når du kommer længere frem, læs at `Behold personlige filer og apps` er valgt. Det er gjort som standard.
+8. Du får nu at vide, at din computer ikke lever op til kravene ved en gul advarselstrekant. Det er helt okay. Vi fortsætter alligevel.
+9. Tryk på "Installér" og vent på, at installationen er færdig. Det kan tage et stykke tid.
+
+Tillykke, nu bliver WIndows 11 installeret på din computer og du beholder dine filer og programmer.
+
 ## Quick Share
 Alle kender funktionen AirDrop, som fungerer mellem Apple-enheder. I længere tid har vi ventet på et alternativ mellem Android og Windows. Men nu findes det.
 
