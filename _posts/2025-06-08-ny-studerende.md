@@ -18,6 +18,15 @@ Jeg er ikke super dygtig til retskrivning. Det kommer denne hjemmeside heller ik
 Hvis du er teolog eller teologistuderende, vil jeg anbefale, at du kigger på [akribi.dk](https://akribi.dk/), som er en side af Kasper Berholt.<br>
 Siden indeholder det væsenligste (og mere til) af relevant materiale, når du skal skrive fagteologisk.
 
+## Bogkøb
+Overvej at købe bøger sammen fra fx [Bibelselskabet](https://bibelselskabet.dk) eller [Rahbeks Antikvariat](https://bog-rahbek.dk/). Begge boghandler har tidligere givet fri fragt og 10% rabat, når man bestiller mere end 10 eksemplarer.<br>
+Vi har tidligere bestilt:
+* Novum Testamentum Graece (et Latine) fra Bibelselskabet
+* Themelion fra Rahbeks Antikvariat
+* A Concise Greek-English Dictionary of the New Testamen Revised Edition
+
+Skriv til Bibelselskabet på [netbutik@bibelselskabet.dk](mailto:netbutik@bibelselskabet.dk) og Rahbeks Antikvariat på [birgit@bog-rahbek.dk](mailto:birgit@bog-rahbek.dk) for spørg dem ad.
+
 ## Noter
 Har du overvejet, hvordan du vil holde styr på dine noter?<br>
 Jeg kan klart anbefale [Obsidian](/posts/obsidian).
