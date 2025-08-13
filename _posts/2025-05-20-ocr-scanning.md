@@ -31,7 +31,8 @@ Du kan dog stadig vælge sprog.
 ## Offline værktøjer (mere advanceret)
 ### OCRmyPDF
 OCRmyPDF kræver lidt mere teknisk viden, men jeg har virkelig brugt det meget og nydt det.
-Samtidigt er det offline og kan derfor bruges, selv hvis du ikke har internet.
+Samtidigt er det offline og kan derfor bruges, selv hvis du ikke har internet.<br>
+Du har desuden mere frihed over indstillingerne.
 
 Som udgangspunkt vil du nok komme til at installere det på en Windows-computer.
 Jeg anbefaler at følge denne installationsguide: <https://ocrmypdf.readthedocs.io/en/latest/installation.html#native-windows><br>

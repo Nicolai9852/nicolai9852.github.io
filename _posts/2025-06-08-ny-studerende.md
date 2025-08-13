@@ -75,6 +75,8 @@ Såfremt at "Den etiske fordring" stadigvæk bruges, vil jeg anbefale at anskaff
 ### Græsk 1 & 2 samt Latin 1 & 2
 _Kursus på Aarhus Universitet, hvv. 1.-2. og 2.-3. semester_
 
+<i>Se desuden opslaget om [Studieværktøjer](/posts/studieværktøjer/#sprogværktøj-til-græsk-og-latin), hvor der er en liste over elektroniske hjælpemidler.</i>
+
 Du skal lave en del morfologisk analyse i disse kurser. Lav derfor et system, som gør at du hurtigt kan skrive ting ned og lade det. Det kan samtidigt også hjælpe dig til at skrive hurtigere til den mundtlige eksamen på hhv. 3. og 4. semester. Jeg giver følgende eksempler. 
 
 |Forkortelse|Betydning|

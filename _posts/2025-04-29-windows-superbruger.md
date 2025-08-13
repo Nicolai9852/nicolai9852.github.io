@@ -58,13 +58,8 @@ Du kan enten gøre det hente en fil ned eller gøre det manuelt.
 
 #### Hentning af fil
 1. Hent filen [Windows11BypassCPUCheck](/assets/Windows11BypassCPUCheck.reg)
-    1. Jeg har selv lavet filen. Du kan bekræfte det ved at åbne filen i Notesblok eller et andet tekstprogram. Der står kun følgende i den. <br>
-    ```reg
-    Windows Registry Editor Version 5.00
-
-    [HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup]
-    "AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
-    ```
+    1. Jeg har selv lavet filen. Du kan bekræfte det ved at åbne filen i Notesblok eller et andet tekstprogram. Der står kun følgende i den. <br> ![](/assets/img/RegFileScreenshot.png)
+    
 3. Dobbeltklik på filen og tryk Ja, når du bliver spurgt om at køre den.
 4. Sig Ja til at tilføje den i Windows Registry
 5. Filen er tilføjet og du skal genstarte computeren
@@ -76,7 +71,7 @@ I den manuelle tilføjelse skal du selv lægge værdien ind.
 2. Skriv `regedit` og tryk Enter. Kør som administrator, når du bliver spurgt.
 3. Naviger i mapperne til `HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup`
     1. Hvis en mappe ikke findes, oftest `MoSetup`, så højreklik på mappen over og vælg Ny -> Nøgle og skriv navnet på mappen.
-4. Højreklik i højre side og vælg Ny -> DWORD (32-bit) værdi
+4. Højreklik i højre side og vælg Ny --> DWORD (32-bit) værdi
 5. Giv den nye værdi navnet `AllowUpgradesWithUnsupportedTPMOrCPU`
 6. Dobbeltklik på den nye værdi og sæt værdien til `1`
 7. Luk Registry Editor
