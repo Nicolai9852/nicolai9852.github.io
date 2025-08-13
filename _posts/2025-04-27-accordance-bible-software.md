@@ -12,6 +12,13 @@ image:
 
 [Hent guiden i Word format her](/assets/Accordance%202024%20-%20Dansk%20manual%20online.docx){: .btn}
 
+## Gratis pakker
+Nogle gange kan man få nogle pakker gratis. Jeg har tidligere fået:
+* <https://www.accordancebible.com/product/lsb-registration-collection-accordance-13/>
+* <https://www.accordancebible.com/product/david-lang-memorial-bundle/>
+* <https://www.accordancebible.com/product/seminar-study-bundle/>
+* <https://www.accordancebible.com/product/manual-greek-lexicon-of-the-new-testament-abbott-smith/>
+
 ## Installation og opsætning
 ### Generelt
 * Sidereferencerne nedenfor refererer til den eneste "Seminar Manual" som Accordance har lavet. Stadig god selvom om ikke opdateret til nyeste version. Findes på <https://www.accordancefiles1.com/products/Accordance11Manual-print.pdf>
