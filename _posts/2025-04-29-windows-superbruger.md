@@ -27,12 +27,14 @@ Her er nogle tips til Windows 11.
 |Prnt Scrn eller Prt Sc|Tag skærmbillede|Se overskriften [Klippeværktøj](#klippeværktøj)|
 
 ### Udvalgte genvejstaster i Stifinder
+
 |Genvejstast|Hvad gør den?|Kommentar|
 |---|---|---|
 |F2|Omdøb fil|Marker en fil og tryk på knappen|
 |F5|Opdater vinduet|Kan også bruges i browsere, hvor den især er brugbar som Ctrl + F5|
 |Alt + pil op|Gå en mappeniveau op (tilbage)||
 |Ctrl + Alt + N|Opret ny mappe||
+|Ctrl + F|Søg på siden||
 |Ctrl + T|Åben ny fane i Stifinder|Kun for Windows 11|
 
 ## Klippeværktøj
