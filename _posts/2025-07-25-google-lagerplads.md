@@ -5,8 +5,8 @@ categories: [Browser]
 tags: [google,kode,administration,open source]     # TAG names should always be lowercase
 ---
 
-Google tilbyder 15 GB gratis lagerplads til alle brugere.
-Hvis din plads er ved at være fyldt op, kan du rydde op i din Google-lagerplads.
+Måske bruger du OneDrive til at gemme dine dokumenter i? Måske bruger du Google?<br>
+Google tilbyder 15 GB gratis lagerplads til alle brugere. Hvis din plads er ved at være fyldt op, kan du rydde op i din Google-lagerplads.
 
 ## Google One
 Google One er en kombination af gratis oprydning af lagerplads og betalt lagerplads.

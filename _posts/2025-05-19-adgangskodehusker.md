@@ -25,6 +25,6 @@ Læs mere på [Apples hjemmeside](https://support.apple.com/da-dk/104955)
 
 ## Bitwarden
 Denne løsning fungerer meget godt, uanset om du bruger Windows, Mac, Android eller iPhone.<br>
-Bitwarden er en adgangskodeadministrator, der kan synkronisere dine adgangskoder på tværs af alle dine enheder. Den understøtter autoudfyld og er helt gratis at bruge. Hvis du vil have ekstra funktioner, kan du betale for en premium version. Prisen er her $10 om året.
+Bitwarden er en adgangskodeadministrator, der kan synkronisere dine adgangskoder på tværs af alle dine enheder. Den understøtter autoudfyld og er helt gratis at bruge. Jeg har ikke premium versionen. Men hvis man ønsker den, koster det $10 om året.
 
 Læs mere på <https://bitwarden.com/products/personal/>

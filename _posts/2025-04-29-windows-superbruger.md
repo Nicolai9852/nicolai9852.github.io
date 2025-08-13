@@ -10,7 +10,6 @@ image:
 Her er nogle tips til Windows 11.
 
 ## Genvejstaster
-
 ### Udvalgte genvejstaster i Windows
 
 |Genvejstast|Hvad gør den?|Kommentar|
@@ -28,7 +27,6 @@ Her er nogle tips til Windows 11.
 |Prnt Scrn eller Prt Sc|Tag skærmbillede|Se overskriften [Klippeværktøj](#klippeværktøj)|
 
 ### Udvalgte genvejstaster i Stifinder
-
 |Genvejstast|Hvad gør den?|Kommentar|
 |---|---|---|
 |F2|Omdøb fil|Marker en fil og tryk på knappen|
@@ -108,7 +106,6 @@ Tillykke, nu bliver WIndows 11 installeret på din computer og du beholder dine 
 
 ## Quick Share
 Alle kender funktionen AirDrop, som fungerer mellem Apple-enheder. I længere tid har vi ventet på et alternativ mellem Android og Windows. Men nu findes det.
-
 Funktionen hedder "Quick Share" og er helt gratis.
 
 ### Installation

@@ -7,11 +7,11 @@ pin: true
 ---
 
 Velkommen til teologistudiet!<br>
-Denne guide er til dig, som er ny studerende. Herunder finder du nogle hurtige tips og tricks til at komme godt i gang med studiet. Du skal også være velkommen til blot at surfe rundt.
+Denne guide er til dig, som er ny studerende. Hjemmesiden er en samling over de spørgsmål, jeg selv ønskede svar på, da jeg startede, samt tekniske spørgsmål, som jeg har fået gennem min studietid. Herunder er samlet de væsenligste til at komme i gang. Du skal også være velkommen til blot at surfe rundt.
 
 ## Adblocking
 Er du træt af reklamer?
-Se min opslag om [Adblocking](/posts/browser-superbruger#adblocking), hvor jeg gennemgår, hvordan du kan blokere reklamer på hjemmesider.
+Slip hurtigt af med dem i mit opslag om [Adblocking](/posts/browser-superbruger#adblocking).
 
 ## Akribi
 Jeg er ikke super dygtig til retskrivning. Det kommer denne hjemmeside heller ikke til at handle om. Den vil i stedet fokuseret på tekniske tips og tricks.
@@ -54,9 +54,57 @@ Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan vær
 | Soteriologi    | Læren om frelsen                                              |
 | Theodicé       | Læren om Guds retfærdighed i lyset af lidelse                 |
 
-## Tips
-Jeg har lave en guide over nogle tips til enkelte fag.<br>
-Den findes under [opslaget vedr. eksamen](/posts/eksamen/#tips-til-enkelte-fag)
+## Tips til enkelte fag
+Da jeg selv både går på Menighedsfakultetet (FIUC-Aarhus) og Aarhus Universitet, er mine fag adskilt og semesterplanen for fagene herunder kan derfor også være forskellig.
+
+Altid som hovedregel - forbered dig og følg med til undervisningen.
+
+### Indføring i Bibelen
+_Kursus på FIUC-Aarhus, 1. semester_ <br>
+
+Det fremgår af _Tilladte hjælpemidler til eksamen, side 2, Kriterier for tillatte hjelpemidler punkt 2_ ved Fjellhaug, at:<br>
+"Det tillates understrekninger av ord og tall. Flere farger kan brukes, men det skal ikke forekomme håndskrift i hjelpemidlet. Unntaket for denne regelen gjelder eksamen i språkfagene gresk og hebraisk, hvor ingen form for understrekning eller notater er tillatt (jf. liste E)"
+
+Begynd så tidligt som muligt at lave understregninger i din Bibel. Brug evt. de forskellige farver til at hjælpe dig med at huske bestemte ting.
+
+### Etik og religionsfilosofi 1
+_Kursus på Aarhus Universitet, 1. semester_ <br>
+
+Såfremt at "Den etiske fordring" stadigvæk bruges, vil jeg anbefale at anskaffe [Kompendium til K.E. Løgstrup: Den etiske fordring](https://klim.dk/bog/kompendium-til-k-e-loegstrup-den-etiske-fordring/), hvis man har svært ved at forstå "Den etiske fordring". Den giver nogle  vigtige nedslag over kapitlerne, så det kan være lettere at forstå Løgstrup.
+
+### Græsk 1 & 2 samt Latin 1 & 2
+_Kursus på Aarhus Universitet, hvv. 1.-2. og 2.-3. semester_
+
+Du skal lave en del morfologisk analyse i disse kurser. Lav derfor et system, som gør at du hurtigt kan skrive ting ned og lade det. Det kan samtidigt også hjælpe dig til at skrive hurtigere til den mundtlige eksamen på hhv. 3. og 4. semester. Jeg giver følgende eksempler. 
+
+|Forkortelse|Betydning|
+|---|---|
+|A|Aktiv|
+|Adj|Adjektiv|
+|Akk|Akkusativ|
+|Aor|Aorist|
+|Gen|Genitiv|
+|Imp|Imperfektum|
+|Impera|Imperativ|
+|I eller Ind|Indikativ|
+|Inf|Infinitiv|
+|Konj|Konjuktiv|
+|Nom|Nominativ|
+|P|Præsens|
+|p|Passiv|
+|Part|Participium|
+|Pl|Pluralis|
+|Sg|Singularis|
+
+Jeg har også en bestemt rækkefølge, så jeg ikke blander forskellige ting sammen:<br>
+TID MODUS DIATESE PERSON TAL<br>
+Eksempelvis: `P I A 3 sg` giver `Præsens Indikativ Aktiv 3. person singularis`
+
+### Nytestamentlig eksegese af synoptisk evangelium
+_Kursus på FIUC-Aarhus, 4. semester_
+
+Da prøvenformen er den samme for [Indføringen i Bibelen](#indføring-i-bibelen), henviser jeg dertil igen.<br>
+Brug evt. både din græske og danske Bibel og lav den samme understregning i begge, sådan at du kan lave krydstjek mellem dem.
 
 ## Word
 Du har helt sikkert skrevet en opgave i Word før. Men har du styr på, hvordan du bruger de forskellige funktioner?
