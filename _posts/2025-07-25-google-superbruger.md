@@ -12,7 +12,7 @@ I nogle tilfælde har jeg modtaget mail fra en bestemt adresse, som ryger i Spam
 1. Tilgå Indstillingerne og vælg [Filtre og blokerede adresser](https://mail.google.com/mail/u/0/#settings/filters)
 2. Opret et nyt filter baseret på den parameter, som er vigtig for dig.
 3. Herunder er givet et eksempel
-   ![](assets/img/GmailFilter.jpg)
+    1. ![](assets/img/GmailFilter.jpg)
 
 ## Ryd op i Google Lagerplads
 Måske bruger du OneDrive til at gemme dine dokumenter i? Måske bruger du Google?<br>
