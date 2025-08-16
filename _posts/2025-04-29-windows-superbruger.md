@@ -45,6 +45,35 @@ Du kan desuden aktivere knappen *Print Scrn* på dit tastatur til at aktivere kn
 
 ![](/assets/img/windows-indstillinger-printscrn.png)
 
+## Navngivning i Stifinder
+Har du overvejet, hvordan du navngiver dine filer, så du altid kan finde dem.<br>
+I langt de fleste tilfælder er titelen, som noget har på forhånd, nok.<br>
+Men hvad med noter fra undervisning, referarter eller regninger, som skal sorteres i rækkefølge?
+
+<b>Her anbefaler jeg altid formattet YYMMDD</b> - dvs. år måned dato. 250816 svare til d. 16. august 2025.<br>
+Jeg bruger aldrig DDMMYY, fordi det forvrænger sorteringen. Se herunder
+
+### Eksempel på DDMMYY
+Normalt sortes filer efter navnet på den. Lad os bruge et eksempel i formattet DDMMYY
+* 010124
+* 070505
+* 150411
+* 201125
+* 270615
+
+Sådan vil soteringen se ud i Stifinder.<br>
+Overvej blot lige, at der kunne sagtens være 100 filer i samme mappe, hvor de ikke er sorteret efter kronologi, men efter de første to tal i datoen.
+
+### Sorteret rigtigt i YYMMDD
+Hvis du vil se filerne kronologisk, skal du i stedet opsætte dem YYMMDD
+* 070505
+* 110415
+* 150627
+* 240101
+* 251120
+
+Bemærk at 'filerne' er de samme, men datomarkeringen er flyttet rundt.
+
 ## Opgrader til Windows 11 (selv hvis kravene ikke lever op til det)
 *Kom endelig og spørg, inden du går i gang med denne guide.*
 
