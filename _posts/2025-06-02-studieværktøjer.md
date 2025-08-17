@@ -12,7 +12,7 @@ Her følger nogle (primært gratis) tekniske værktøjer til teologistudiet.
 ## Bibelen Online
 Hvis du ikke gider klikke dig igennem Bibelens kapitler, men kan huske bøgernes forkortelser, kan du som regel hurtigt finde noget bestemt.
 
-Eksempel:
+### Eksempel
 <https://www.bibelselskabet.dk/brugbibelen/bibelenonline/mark/4> henviser til Markusevangeliet, kapitel 4.<br>
 Hvis du hurtigt skal fange et vers, kan du sætte et # i slutningen af linket - fx <https://www.bibelselskabet.dk/brugbibelen/bibelenonline/mark/4#31>.<br>
 På den måde bliver du automatisk taget hen til det vers.<br>
@@ -47,6 +47,9 @@ I NotebookLM får du 100 notesbøger, med mulighed for upload af op til 50 kilde
 Min anbefaling er derfor kun at bruge værktøjet til at skabe et hurtigt overblik.
 
 ## Sprogværktøj til Græsk og Latin
+### Accordance Bible Software
+Se desuden [Accordance Bible Software](/posts/accordance-bible-software), som er et betalt program. Programmet er et super godt studieværktøj, som både kan give græske morfologiske og syntatiske oversigter samt sammenligninger med andre bibeloversættelser og -kommentarer.
+
 ### Microsoft Copilot
 Microsoft Copilot er god til at at analysere både græsk og latinske tekster.<br>
 <https://copilot.cloud.microsoft><br>
@@ -57,9 +60,6 @@ _Brug altid AI-værktøj ansvarligt_
 Perseus kan bruges til at give morfologiske oversigter til både græsk og latin.<br>
 <https://www.perseus.tufts.edu/hopper/>
 
-### Accordance Bible Software
-Se desuden [Accordance Bible Software](/posts/accordance-bible-software), som er et betalt program. Programmet er et super godt studieværktøj, som både kan give græske morfologiske og syntatiske oversigter samt sammenligninger med andre bibeloversættelser og -kommentarer.
-
 ## Sprogværktøj kun til Græsk
 ### Bergs Græsk ordbog
 <https://ordnet.dk/gdo/>
@@ -68,8 +68,10 @@ Se desuden [Accordance Bible Software](/posts/accordance-bible-software), som er
 BlueLetterBible kan bruges til at sammenligne den græske tekst i NA28 op mod KJV<br>
 <https://www.blueletterbible.org/tools/interlinear/tr/jhn/1/1-51/>
 
-
 ## Sprogværktøj kun til Latin
+### Latin-Dansk Ordbog
+<https://ordnet.dk/ldo/>
+
 ### Latin is simple
 Et værktøj til analysering af latinske ord og sammenhæng mellem dem
 <https://www.latin-is-simple.com/en/analysis/>
@@ -106,6 +108,3 @@ Her er et uddrag af de vigtigste.
 |VOC|Vokativ|
 
 Det er relativt nemt at finde ud af, hvis man forestiller sig, hvad det kunne forkoretes til på engelsk.
-
-#### Latin-Dansk Ordbog
-<https://ordnet.dk/ldo/>
