@@ -102,6 +102,25 @@ Jeg har også en bestemt rækkefølge, så jeg ikke blander forskellige ting sam
 TID MODUS DIATESE PERSON TAL<br>
 Eksempelvis: `P I A 3 sg` giver `Præsens Indikativ Aktiv 3. person singularis`
 
+### Græsk 3 & Latin 3
+_Kursus på Aarhus Universitet på 3. og 4. semester_
+
+Eksamen er 60 minutter forberedelse og 20 minutters eksamination.
+
+* Brug læseferien på at genlæse nogle af bøger.
+    * Græsk
+        * Themelion
+        * Nytestamentlig græsk
+    * Latin
+        * Latinsk grammatik på dansk for at 
+* Lave prøveeksamener. Sæt en time af og se hvor meget du kan derefter.
+    * Oplæsning
+    * Oversættelse
+    * Morfologisk analyse
+    * Syntaktisk analyse
+    * Andre termer
+* Brug evt. nogle af [sprogværktøjerne](/posts/studieværktøjer/#sprogværktøj-til-græsk-og-latin) til hjælp i forberedelsen.
+
 ### Nytestamentlig eksegese af synoptisk evangelium
 _Kursus på FIUC-Aarhus, 4. semester_
 
