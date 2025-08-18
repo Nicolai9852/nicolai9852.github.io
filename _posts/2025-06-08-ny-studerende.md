@@ -75,7 +75,7 @@ _Kursus på Aarhus Universitet, 1. semester_ <br>
 Såfremt at "Den etiske fordring" stadigvæk bruges, vil jeg anbefale at anskaffe [Kompendium til K.E. Løgstrup: Den etiske fordring](https://klim.dk/bog/kompendium-til-k-e-loegstrup-den-etiske-fordring/), hvis man har svært ved at forstå "Den etiske fordring". Den giver nogle  vigtige nedslag over kapitlerne, så det kan være lettere at forstå Løgstrup.
 
 ### Græsk 1 & 2 samt Latin 1 & 2
-_Kursus på Aarhus Universitet, hvv. 1.-2. og 2.-3. semester_
+_Kursus på Aarhus Universitet, hhv. 1.-2. og 2.-3. semester_
 
 <i>Se desuden opslaget om [Studieværktøjer](/posts/studieværktøjer/#sprogværktøj-til-græsk-og-latin), hvor der er en liste over elektroniske hjælpemidler.</i>
 
