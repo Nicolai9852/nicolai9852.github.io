@@ -38,6 +38,40 @@ Hvis du er træft af at blive ringet op at telefonsælgere, vil jeg klart anbefa
 
 [Listen er gratis. Tilmeld dig listen på borger.dk](https://www.borger.dk/bolig-og-flytning/beskyttelse-mod-reklamer/Robinsonlisten-markedsfoeringsbeskyttelse)
 
+## Adgangskoder
+At gemme sine adgangskoder i en digital notesbog (såsom Google Keep, Samsung notes, Apple Notes) er ikke sikkert. Hvis man kigger dig over skylderen eller din kode bliver lækket, kan resten af dine adgangskoder være i fare.<br>
+Jeg har her samlet tre forslag til, hvordan du kan gemme dine adgangskoder. Personligt bruger jeg og kan anbefale [Bitwarden](#bitwarden)
+
+### Google Adgangskodeadministrator
+
+|Fungerer godt til|Sammen med|
+|---|---|
+|Chrome som browser (Windows/Mac)|Android som telefon (endnu bedre med [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=da)|
+
+Hvis du bruger disse to løsninger sammen, er dine adgangskoder altid synkroniseret og du kan altid tilgå dem på <https://passwords.google.com>
+
+Læs mere i artiklerne [Gem, administrer og beskyt dine adgangskoder](https://support.google.com/accounts/answer/6208650?hl=da&ref_topic=7188671&sjid=9238301982084630166-EU#zippy=) og [Brug adgangskoder på alle dine enheder](https://support.google.com/accounts/answer/6197437?hl=da&ref_topic=7188671&sjid=9238301982084630166-EU)
+
+### Apple Adgangskoder
+
+|Fungerer godt til|Sammen med|
+|---|---|
+|Mac som computer|iPhone som telefon|
+
+Apple har deres egen app til administration af adgangskoder.
+
+Læs mere på [Apples hjemmeside](https://support.apple.com/da-dk/104955)
+
+### Bitwarden
+
+|Fungerer godt til|Sammen med|
+|---|---|
+|Enhver browser|Enhver telefon|
+
+Bitwarden er en adgangskodeadministrator, der kan synkronisere dine adgangskoder på tværs af alle dine enheder. Den understøtter autoudfyld og er helt gratis at bruge. Jeg har ikke premium versionen. Men hvis man ønsker den, koster det $10 om året.
+
+Læs mere på <https://bitwarden.com/products/personal/>
+
 ## Genvejstaster
 Udvalgte genvejstaster til din browser
 
@@ -75,45 +109,47 @@ Jeg har prøvet både Chrome, Edge og Firefox på forskellige tidspunkter.<br>
 
 ### Chrome
 Google Chrome er nok den mest udbredte og kendte browser. Men Google er kendt for at opsnappe så meget data som muligt, og derfor er det ikke den mest privatlivsvenlige browser.
-
-|Fordele|Ulemper|
-|---|---|
-|Godt integreret med Googles økosystem|Google opsnapper meget data|
-|Mange udvidelser|Kan være svært at navigere i indstillingerne|
-
-<em>Hvis man bruger forskellige Micorsoft konti, kan man med fordel installere udvidelsen [Microsoft Single Sign On](https://chromewebstore.google.com/detail/microsoft-single-sign-on/ppnbnpeolgkicgegkbkbjmhlideopiji). Dog understøtter [Firefox](#firefox) denne funktion som standard.</em>
+* Fordele
+    * Godt integreret med Googles økosystem
+    * Mange udvidelser
+        * <em>Hvis man bruger forskellige Micorsoft konti, kan man med fordel installere udvidelsen [Microsoft Single Sign On](https://chromewebstore.google.com/detail/microsoft-single-sign-on/ppnbnpeolgkicgegkbkbjmhlideopiji). Dog understøtter [Firefox](#firefox) denne funktion som standard.</em>
+* Ulemper
+    * Google opsnapper meget data
+    * Kan være svært at navigere i indstillingerne
 
 ### Edge
 Microsoft Edge er den indbyggede browser i Windows 10 og 11. Den er bygget på Chromium og har derfor mange af de samme funktioner som Google Chrome.
-
-|Fordele|Ulemper|
-|---|---|
-|Godt integreret med Microsofts økosystem|Microsoft opsnapper meget data|
-|Mange udvidelser|Kan være svært at navigere i indstillingerne|
-|God downloads-menu||
+* Fordele
+    * Godt integreret med Microsofts økosystem
+    * Mange udvidelser
+    * God downloads-menu
+* Ulemper
+    * Microsoft opsnapper meget data
+    * Noget sværere end Chrome at finde rundt i Indstillinger
+    * Du kan ikke tilgå dine adgangskoder andre steder end Edge, hvor du gemmer dem direkte heri
 
 *Eftersom Chrome og Edge er bygget på Chromium, er fordele og ulemper meget ens.*
 
 ### Firefox
 Mozilla Firefox er en populær open source-browser, der fokuserer på privatliv og sikkerhed. Den har mange nyttige funktioner og et stort udvalg af udvidelser.
-
-|Fordele|Ulemper|
-|---|---|
-|Privatlivsvenlig, understøtter bl.a. [UBlock Origin](#adblocking)|Ikke integreret med noget økosystem|
-|Mange udvidelser|Kan være svære at navigere i indstillingerne|
-|[Mulighed for at være logget ind med Microsoft konti gennem Windows](https://support.mozilla.org/da/kb/windows-sso)|Nogle hjemmesider kan give fejl|
-|Fantastisk downloads-menu||
-
-<em>Jeg elsker virkelig denne funktion med Microsoft konti gennem Windows. Så slipper man for at taste sin Microsoft-kode ind hver gang man fx skal ind på Aarhus Universitets systemer. Det er bare super hurtigt.</em>
-![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2023-03-15-05-18-46-bb89d8.png)
+* Fordele
+    * Privatlivsvenlig, understøtter bl.a. [UBlock Origin](#adblocking)|Ikke integreret med noget økosystem
+    * Mange udvidelser, dog færre end Chrome og Edge
+    * [Mulighed for at være logget ind med Microsoft konti gennem Windows](https://support.mozilla.org/da/kb/windows-sso)
+        * <em>Jeg elsker virkelig denne funktion med Microsoft konti gennem Windows. Så slipper man for at taste sin Microsoft-kode ind hver gang man fx skal ind på Aarhus Universitets systemer. Det er bare super hurtigt.</em><br>![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2023-03-15-05-18-46-bb89d8.png)
+    * Downloads-menu med rigtig mange gode indstillinger
+* Ulemper
+    * Kræver noget tid at sætte sit ind i Indstillingerne for optimal erfaring
+    * Nogle hjemmesider kan give fejl ved højere brug af beskyttelse sporingstracking
 
 ### Safari
 Apple Safari er standardbrowseren på macOS og iOS. Den er hurtig og energieffektiv, men har færre udvidelser end de andre browsere.
-
-|Fordele|Ulemper|
-|---|---|
-|Virkelig godt integreret med Apples økosystem|Færre udvidelser end de andre browsere|
-|Indbygget filter til privatliv|Kan give fejl på flere hjemmesider|
+* Fordele
+    * Virkelig godt integreret med Apples økosystem
+    * Indbygget filter til privatliv
+* Ulemper
+    * Færre udvidelser end de andre browsere
+    * Kan give fejl på flere hjemmesider
 
 ### Andre browsere
 Der findes også mange andre browsere, som er bygget på Chromium, som fx Brave, DuckDuckGo og Vivaldi. De har deres egne fordele og ulemper, men generelt set tilbyder de et højere niveau af privatliv og sikkerhed sammenlignet med de mere etablerede browsere.
