@@ -12,7 +12,7 @@ Jeg elsker at arbejde med teologi og tekniske ting. Dette er også tanken med de
 ## Formålet
 Jeg bliver ofte spurgt om hjælp til computerspørgsmål og vil her gemme nogle af svarene på de spørgsmål.
 
-Mit personlige formål med siden er, at jeg bliver klogere på programmering og brugen af GitHub, Markdown, Jekyll og en masse andre ting.<br>
+Mit personlige formål med siden er, at jeg bliver klogere på programmering og brugen af GitHub, Markdown, Jekyll og dokumentation til mit eget senere brug.<br>
 Side skal også fungere som en [Eksamen-hotline](/posts/eksamen), så det er muligt at få svar på spørgsmål, selvom jeg er optaget.
 
 ## Sociale links
