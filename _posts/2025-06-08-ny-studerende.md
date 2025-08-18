@@ -46,10 +46,12 @@ Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan vær
 | Ekklesiologi   | Læren om den kristne kirke og menigheden                      |
 | Eksegese       | Udlæsning af en bibelsk tekst                                 |
 | Eskatologi     | Læren om de sidste tider                                      |
+| Hedning        | Bruges ofte i Bibelen om du er jøde eller 'ikke-jøde' (hedning)<br> Kan også bruges i tilfælde af kategoriseringer af jøder, kristne og hedninger |
 | Homiletik      | Læren om prædiken                                             |
 | Hymnologi      | Læren om kristne salmer og sange                              |
 | Kristologi     | Læren om hvem Kristus var og er                               |
 | Missiologi     | Læren om kristendommens udspredelse                           |
+| Partikularisme | Guds udvælgelse af Israel til at være sit folk                |
 | Parusi         | Et begreb om Jeus nærvær eller anden genkomst                 |
 | Soteriologi    | Læren om frelsen                                              |
 | Theodicé       | Læren om Guds retfærdighed i lyset af lidelse                 |
