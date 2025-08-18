@@ -40,23 +40,19 @@ Her følger en liste af udvalgte genvejstaster på Windows og Mac til Word.
 
 ## Overskrifter
 Overskrifter kan være svære at finde ud af.<br>
-Vælger jeg den rigtige? Synes jeg, at den skal se anderledes ud?<br>
-Denne guide kan være med til at give svar på det. Bemærk, at jeg undervejs bruger ordet "Header", som er det englske term for overskrift og bruges ifm. hjemmesider.
+Denne guide kan være med til at give svar på, hvilken du skal vælge.
 
 ### Hvilken overskrift skal jeg vælge?
-Jeg skrev i 2025 en artikel [omkring overskrifter på hjemmesider](https://support.kirkenettet.dk/hc/da/articles/25972341258130-Overskrifter-p%C3%A5-hjemmesider), som også er brugbar for dokumenter i den akademiske skrivning <br>
-Stukturen af overskrifter i et dokument og en hjemmeside er den samme.
-Nogle hovedpunkter er:
-* En tommelfingerregel vedr. overskrifter: Undgå at bruger Overskrift 1 for meget. Gå som udgangspunkt efter kun at bruge den en gang.
-    * Forklaringen bag: På hjemmesider må man ikke bruge Header 1 mere end en gang på den samme side. Det skyldes, at Header 1 er overskriften for den enkelte side, optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed. I dokumenter må man gerne bruge Header 1 mere end en gang, så længe det har karakter af nyt indhold. Ligesom når man klikker ind på en ny hjemmeside. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
-    * Se desuden <https://webaim.org/techniques/word/#headings>
-* Du må aldrig springe i trin ned. Du må gerne gå fra Header 2 til 3 - men aldrig fra Header 2 direkte til Header 4
-* Du må altid gå mere end et trin op, fx må du gerne gå fra Header 4 til Header 2
+En tommelfingerregel vedr. overskrifter: Undgå at bruger Overskrift 1 for meget. Gå som udgangspunkt efter kun at bruge den en gang.
+* Se desuden <https://webaim.org/techniques/word/#headings>
+    * På hjemmesider må man ikke bruge Overskrift 1 mere end en gang på den samme side. Det skyldes, at Overskrift 1 er overskriften for den enkelte side, optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed.
+    * I dokumenter må man gerne bruge Overskrift 1 mere end en gang, så længe det har karakter af nyt indhold. Ligesom når man klikker ind på en ny hjemmeside. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
+* Du må <u>aldrig</u> springe i trin ned. Du må gerne gå fra Overskrift 2 til Overskrift 3 - men aldrig fra Overskrift 2 direkte til Overskrift 4
+* Du må altid gå mere end et trin op, fx må du gerne gå fra Overskrift 4 til Overskrift 2
 
 ### Opdatering af alle overskrifter på en gang
-<b>Dette punkt er vigtigt for en flot opstillet opgave og kan spare dig meget tid.</b><br>
-Du må som udgangspunkt ikke ændre formateringen på en overskrift uden at gøre det på alle andre.
-Det vil sige, at hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, bør du følge denne guide.
+<b>Alle overskrifter af samme type skal have ens formattering. Dette punkt er vigtigt for en flot opstillet opgave og kan spare dig meget tid på sigt.</b><br>
+Hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, bør du følge denne guide.
 
 1. Vælg en af dine typografier i toppen af dit Word-dokument. Det kunne fx være Overskrift 2.
 2. Højreklik og tryk *Rediger*
@@ -116,7 +112,6 @@ _Denne del af guiden er hentet fra <https://answers.microsoft.com/en-us/msoffice
 
 Du er nu færdig.
 
-
 ## Når du skal aflevere
 Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigtigt.
 
@@ -134,8 +129,6 @@ Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigt
     4. PDF-indstillinger:
         1. Sæt flueben i "Bitmaptekst, når skrifttyper ikke er integreret"
 ![](/assets/img/word-pdf-export-settings.png)
-
-
 
 ---
 *Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*
