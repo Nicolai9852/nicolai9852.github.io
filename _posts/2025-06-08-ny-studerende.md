@@ -32,7 +32,7 @@ Har du overvejet, hvordan du vil holde styr på dine noter?<br>
 Jeg kan klart anbefale [Obsidian](/posts/obsidian).
 
 Jeg startede med at skrive mine noter i OneNote, men jeg følte mig begrænset af funktionerne.<br>
-Det følger jeg derimod ikke med Obsidian.
+Det føler jeg derimod ikke med Obsidian.
 
 ## Teologisk begreber
 Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan være gode, når man starter på teologistudiet.
@@ -77,7 +77,8 @@ _Kursus på Aarhus Universitet, hvv. 1.-2. og 2.-3. semester_
 
 <i>Se desuden opslaget om [Studieværktøjer](/posts/studieværktøjer/#sprogværktøj-til-græsk-og-latin), hvor der er en liste over elektroniske hjælpemidler.</i>
 
-Du skal lave en del morfologisk analyse i disse kurser. Lav derfor et system, som gør at du hurtigt kan skrive ting ned og lade det. Det kan samtidigt også hjælpe dig til at skrive hurtigere til den mundtlige eksamen på hhv. 3. og 4. semester. Jeg giver følgende eksempler. 
+Du skal lave en del morfologisk analyse i disse kurser. Det kommer nok oftest til at ske i hånden.<br>
+Lav derfor et system, som gør at du hurtigt kan skrive ting ned. Det kan samtidigt også hjælpe dig til at skrive hurtigere [til den mundtlige eksamen på hhv. 3. og 4. semester](#græsk-3--latin-3). Jeg giver følgende eksempler. 
 
 |Forkortelse|Betydning|
 |---|---|
