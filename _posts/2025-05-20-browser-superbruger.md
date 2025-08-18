@@ -105,7 +105,7 @@ De mest kendte browsere er Chrome, Edge, Firefox og Safari. Der findes også man
 Generelt for browserne gælder det, at det er hurtige og brugervenlige. Derfor vil jeg kun fokusere forskelle herunder.
 
 Jeg har prøvet både Chrome, Edge og Firefox på forskellige tidspunkter.<br>
-<b>Personligt anbefaler jeg Firefox</b>, da den er open source og fokuserer på privatliv og sikkerhed. Den er også hurtig og har mange nyttige funktioner.
+<b>Personligt anbefaler jeg [Firefox](#firefox)</b>, da den er open source og fokuserer på privatliv og sikkerhed. Den er også hurtig og har mange nyttige funktioner.
 
 ### Chrome
 Google Chrome er nok den mest udbredte og kendte browser. Men Google er kendt for at opsnappe så meget data som muligt, og derfor er det ikke den mest privatlivsvenlige browser.
@@ -133,7 +133,7 @@ Microsoft Edge er den indbyggede browser i Windows 10 og 11. Den er bygget på C
 ### Firefox
 Mozilla Firefox er en populær open source-browser, der fokuserer på privatliv og sikkerhed. Den har mange nyttige funktioner og et stort udvalg af udvidelser.
 * Fordele
-    * Privatlivsvenlig, understøtter bl.a. [UBlock Origin](#adblocking)|Ikke integreret med noget økosystem
+    * Privatlivsvenlig, understøtter bl.a. [UBlock Origin](#adblocking)
     * Mange udvidelser, dog færre end Chrome og Edge
     * [Mulighed for at være logget ind med Microsoft konti gennem Windows](https://support.mozilla.org/da/kb/windows-sso)
         * <em>Jeg elsker virkelig denne funktion med Microsoft konti gennem Windows. Så slipper man for at taste sin Microsoft-kode ind hver gang man fx skal ind på Aarhus Universitets systemer. Det er bare super hurtigt.</em><br>![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2023-03-15-05-18-46-bb89d8.png)
