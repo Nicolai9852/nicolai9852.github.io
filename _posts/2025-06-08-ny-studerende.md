@@ -57,6 +57,7 @@ Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan vær
 | Apoftegme      | Noget med ørkenfortællinger                                   |
 | Apokalyptik    | Læren om endetiden                                            |
 | Apologetik     | Trosforsvar                                                   |
+| Diaspora       | En gruppe af religiøse menensker (ofte brugt om jøder), som lever i landflygtighed, men stadigvæk praktiserer deres religion |
 | Doxologi       | Læren om lovprisning (i gudstjenesten)                        |
 | Ekklesiologi   | Læren om den kristne kirke og menigheden                      |
 | Eksegese       | Udlæsning af en bibelsk tekst                                 |
