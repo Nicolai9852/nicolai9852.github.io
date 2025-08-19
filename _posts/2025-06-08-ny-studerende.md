@@ -27,12 +27,27 @@ Vi har tidligere bestilt:
 
 Skriv til Bibelselskabet på [netbutik@bibelselskabet.dk](mailto:netbutik@bibelselskabet.dk) og Rahbeks Antikvariat på [birgit@bog-rahbek.dk](mailto:birgit@bog-rahbek.dk) for spørg dem ad.
 
+## Kalender
+### FIUC-Aarhus (Menighedsfakultetet)
+Der findes ikke nogen fælles kalender for undervisningen på FIUC-Aarhus. Du kan derfor selv lave en.
+
+### Aarhus Universitet
+Du kan synkronisere din AU kalender med din personlige kalender
+
+1. Åben <https://timetable.au.dk>
+2. Tryk på de to pile i den højre side
+3. Vælg din kalender-type i menuen
+   1. Hvis du ikke vil se fx Sprogcafe i din kalender, kan du trykke "Vælg timeplaner" --> Vælg Aktivitetstyper i bunden (du kan få behov for at zoome ud fra skærmen) --> fravælg "Praktisk" --> tryk "Luk"
+4. Tryk nu "Næste"
+5. Kopiér linket og indsæt det i din personlige kalender.
+6. Tillykke, din AU kalender er nu synkroniseret med din private kalender.
+
 ## Noter
 Har du overvejet, hvordan du vil holde styr på dine noter?<br>
 Jeg kan klart anbefale [Obsidian](/posts/obsidian).
 
 Jeg startede med at skrive mine noter i OneNote, men jeg følte mig begrænset af funktionerne.<br>
-Det føler jeg derimod ikke med Obsidian.
+Det føler jeg derimod ikke med Obsidian - det er næsten OneNote på steroider.
 
 ## Teologisk begreber
 Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan være gode, når man starter på teologistudiet.
