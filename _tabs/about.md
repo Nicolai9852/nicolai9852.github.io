@@ -24,8 +24,8 @@ Find mig på
 ---
 
 ## Cookies og privatlivspolitik
-Jeg kommer ikke aktivt til at lægge cookies, tracking, statistik eller lignende ind på denne hjemmeside.
-Men hjemmesiden kan være omfattet af det indirekte, hvis du tilgår en side, hvor jeg har indlejret en video fra YouTube.
+Der er sat en cookie på hjemmesiden, som bruges til at tælle antallet af besøgende på siderne (GoatCounter). Cookies bruges ikke til at tracke dig andre steder.
+Hjemmesiden kan være omfattet af det indirekte cookies, hvis du tilgår en side, hvor jeg har indlejret en video fra YouTube.
 Det gælder fx siden om [Zotero](/posts/zotero)
 
 <!-- >> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
