@@ -49,6 +49,25 @@ Jeg kan klart anbefale [Obsidian](/posts/obsidian).
 Jeg startede med at skrive mine noter i OneNote, men jeg følte mig begrænset af funktionerne.<br>
 Det føler jeg derimod ikke med Obsidian - det er næsten OneNote på steroider.
 
+## Printer på Menighedsfakultetet
+Du kan få behov for at printe på Menighedsfakultetet, hvis du læser på FIUC-Aarhus. Sådan installerer du printeren
+1. Hent driveren <b>PCL 6 Driver</b> på <https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/imc3010/imc3010.htm>
+2. Installer driveren til computeren
+3. Åben Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere --> Tryk "Tilføj enhed"
+4. Jeg forventer ikke printeren kommer automatisk frem. Tryk nu "TIlføj manuelt", som kommer efter 10 sekunder
+5. Vælg "Tilføj en printer ved hjælp af en IP-adresse eller et værtsnavn
+6. Vælg enhedstypen som "Automatisk søgning"
+7. Skriv IP-adressen "10.0.100.26", efterlad portnavn tom og tryk Næste
+8. Du skal installere driveren med printeren. Vælg i menuen producent "Ricoh" og driveren "RICOH IM C3010 PCL 6"
+9. Printeren skulle gerne installere nu. Husk at give den et navn, fx MF Bibliotek
+10. Eftersom print koster penge, skal du tilføje dit Vennenr./Givernr.
+11. Find printeren under Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere og tryk på den
+12. Vælg nu "Udskriftsindstillinger"
+13. Under fanene "Grundlæggende" vælger du knappen "Brugerkodeindstilling..."
+14. Her skriver du dit Vennenr./Givernr. ind
+15. Tryk nu OK begge gange
+16. Du er klar til at printe
+
 ## Teologisk begreber
 Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan være gode, når man starter på teologistudiet.
 
