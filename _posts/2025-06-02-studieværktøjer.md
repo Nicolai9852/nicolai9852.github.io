@@ -22,6 +22,15 @@ Det er især brugbart, hvis du skal slå op på et længere kapitel - fx [Salme 
 Der findes også en ældre version af Bibelen Online, som man kan læse i.<br>
 Den findes på <http://old.bibelselskabet.dk/danbib/web/bibelen.htm>
 
+## MacroDroid
+_Det her er lidt niche, men jeg kan næsten ikke leve uden det_
+
+Jeg har en app, som hedder [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid), som kan udføre forskellige handlinger for mig.<br>
+Den mest nyttige er, at min telefon automatisk slår over på Forstyr Ikke baseret på kalenderbegivenheder, som er sat til optaget.<br>
+Det er muligt at sende skabeloner, så du ikke selv behøves opsætte det.
+
+Der findes også mange andre og der kan køre flere på samme tid. Men denne finder jeg mest nyttig.
+
 ## NotebookLM
 NotebookLM er et gratis værktøj lavet af Google til at holde styr på noter og danne overblik over dine dokumenter.
 
