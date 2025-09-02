@@ -1,8 +1,11 @@
 ---
 title: PowerPoint Superbruger-tips
 date: 2025-07-25 10:16:45 +/-0
+description: Hvem har ikke set en dårlig PowerPoint-præsentation? Her er nogle tips til at forbedre dine slides.
 categories: [Software, Værktøj]
 tags: [superbruger,microsoft,office,powerpoint]     # TAG names should always be lowercase
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg
 ---
 
 ## Eksporter billede
@@ -35,3 +38,6 @@ Hvis du ønsker at lave en ensartet præsentation, kan du bruge Slidemaster-funk
 4. Når du er færdig med at redigere Slidemasteren, kan du klikke på "Luk mastervisning" i menulinjen for at vende tilbage til din præsentation.
 5. Vælg nu et af dine nye layouts og indsæt det i din præsentation.
 6. Du kan nu indsætte indhold i de forskellige pladsholdere, som du har oprettet i Slidemasteren.
+
+---
+*Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*

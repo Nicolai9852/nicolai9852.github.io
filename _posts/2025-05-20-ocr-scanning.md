@@ -4,6 +4,8 @@ date: 2025-05-20 09:16:00 +/-0
 description: Jeg elsker at kunne markere og søge i mine indscannede dokumenter. Hvordan retter man det, hvis det ikke kan lade sig gøre?
 categories: [Software, Værktøj]
 tags: [browser,software,windows]     # TAG names should always be lowercase
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/6/62/Scanner_app_logo.png
 ---
 
 Hvis du scanner en tekst ind, kan mange scannere i dag genkende tekstens sprog og gøre den søgbar.<br>
@@ -64,3 +66,6 @@ Nu er du klar til at bruge OCRmyPDF.
    3. Tilføj evt. --force-ocr for at tvinge OCR på alle sider
    4. Tilføj evt. --deskew for at rette skæve sider
    5. Tilføj evt. --rotate-pages for at rette forkerte indscannede rotationer
+
+---
+*Billedkreditering: Simon Knuth, MPL 2 <https://www.mozilla.org/en-US/MPL/2.0/>, via Wikimedia Commons*

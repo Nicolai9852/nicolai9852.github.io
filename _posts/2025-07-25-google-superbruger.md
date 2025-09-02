@@ -1,8 +1,11 @@
 ---
 title: Google Superbruger-tips
 date: 2025-07-25 10:26:00 +/-0
+description: Dette opslag handler primært om oprydning i din Google Lagerplads, da den er begrænset til 15 GB.
 categories: [Browser]
 tags: [google,kode,administration,superbruger]     # TAG names should always be lowercase
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/0/02/Google_One_logo.png
 ---
 
 ## Gmail
@@ -53,3 +56,6 @@ Gmail sorteres som regel ned i fem kategorier: Primær, Sociale, Promovering, Op
 
 
 Som udgangspunkt kan du slette alle mails på nær Primære, da de andre kun indeholder information, som oftest har mindre langtidsvarende værdi.
+
+---
+*Billedkreditering: Google, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons*
