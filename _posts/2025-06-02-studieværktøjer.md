@@ -1,13 +1,12 @@
 ---
 title: Studieværktøjer
 date: 2025-06-02 13:20:00 +/-0
+description: Her følger nogle (primært gratis) tekniske værktøjer til teologistudiet.
 categories: [Browser, Skrivning]
 tags: [browser,referencer,universitet,græsk,latin,sprog,software,bibelen]     # TAG names should always be lowercase
 ---
 
 _Dette opslag handler bl.a. om AI. Du skal altid være opmærksom, når det kommer til brugen af AI, da den kan være mangelfuld eller forkert._
-
-Her følger nogle (primært gratis) tekniske værktøjer til teologistudiet.
 
 ## Bibelen Online
 Hvis du ikke gider klikke dig igennem Bibelens kapitler, men kan huske bøgernes forkortelser, kan du som regel hurtigt finde noget bestemt.
