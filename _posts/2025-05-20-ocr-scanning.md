@@ -68,4 +68,4 @@ Nu er du klar til at bruge OCRmyPDF.
    5. Tilføj evt. --rotate-pages for at rette forkerte indscannede rotationer
 
 ---
-*Billedkreditering: Wuhan Deepin Technology Co., Ltd., GPLv3 <http://www.gnu.org/licenses/gpl-3.0.html>, via Wikimedia Commons*
+*Billedkreditering: Wuhan Deepin Technology Co., Ltd., GPLv3 <www.gnu.org/licenses/gpl-3.0.html>, via Wikimedia Commons*
