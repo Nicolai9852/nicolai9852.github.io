@@ -2,6 +2,7 @@
 title: Word Superbruger-tips
 date: 2025-04-27 18:16:45 +/-0
 categories: [Software, Skrivning]
+description: Du har sikkert skrevet mange opgaver i Word. Men jeg tvivler på, at du har udnyttet det til fulde.
 tags: [word,microsoft,office,zotero,superbruger]     # TAG names should always be lowercase
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg
@@ -38,7 +39,7 @@ Her følger en liste af udvalgte genvejstaster på Windows og Mac til Word.
 | Ctrl + piletast         | Cmd + piletast         | Flyt hop frem og tilbage mellem hele ord                                 |
 | Ctrl + Shift + piletast | Cmd + Shift + piletast | Marker hele ord                                                          |
 
-### Gør tekstformatering ens
+## Gør tekstformatering ens
 <b>Al brødtekst og overskrifter af samme type skal have ens formattering.<br>
 Dette punkt er vigtigt for en flot opstillet opgave og kan spare dig meget tid på sigt.</b><br>
 Hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, bør du følge denne guide.
@@ -54,6 +55,14 @@ Hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, 
 6. Tryk OK
 
 Hvis vi følger eksemplet, vil alle dine Overskrift 2'er bliver opdateret med den nye formattering
+
+## Opsætning i bestemte spalter
+Oftest i sidehovedet eller sidefoden kan du få behov for en bestemt opsætning.
+Desuden er funktionen "Spalter" ikke altid den bedste løsning i brødteksten, hvis du kun vil have en mindre del skal være opdelt. Overvej om du i stedet kan bruge tabeller til at opnå det ønskede layout.
+
+1. Opret en tabel med det ønskede antal kolonner.
+2. Indsæt dit indhold i de relevante celler.
+3. Under "Tabeldesign" kan du finde indstillinger for at skjule kanterne.
 
 ## Overskrifter
 Overskrifter kan være svære at finde ud af.<br>
