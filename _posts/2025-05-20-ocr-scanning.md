@@ -5,7 +5,7 @@ description: Jeg elsker at kunne markere og søge i mine indscannede dokumenter.
 categories: [Software, Værktøj]
 tags: [browser,software,windows]     # TAG names should always be lowercase
 image:
-  path: https://upload.wikimedia.org/wikipedia/commons/6/62/Scanner_app_logo.png
+  path: https://upload.wikimedia.org/wikipedia/commons/0/0a/Deepin_Icon_Theme_%E2%80%93_scanner_%286%29.svg
 ---
 
 Hvis du scanner en tekst ind, kan mange scannere i dag genkende tekstens sprog og gøre den søgbar.<br>
@@ -68,4 +68,4 @@ Nu er du klar til at bruge OCRmyPDF.
    5. Tilføj evt. --rotate-pages for at rette forkerte indscannede rotationer
 
 ---
-*Billedkreditering: Simon Knuth, MPL 2 <https://www.mozilla.org/en-US/MPL/2.0/>, via Wikimedia Commons*
+*Billedkreditering: Wuhan Deepin Technology Co., Ltd., GPLv3 <http://www.gnu.org/licenses/gpl-3.0.html>, via Wikimedia Commons*

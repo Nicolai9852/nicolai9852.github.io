@@ -4,6 +4,8 @@ date: 2025-05-20 20:16:45 +/-0
 description: Størstedelen af dette opslag er skrevet af min indre fanatiker. Langt størstedelen på internettet er frit tilgængeligt. "Hvis noget er gratis, er du produktet" har jeg tidligere hørt. Det sker ofte i form af salg af dine data til reklameformål. Sådan var intentionen ikke med internettet. Derfor kæmper jeg imod det ved begrænsning af den data, virksomheder kan sælge om mig.
 categories: [Browser]
 tags: [browser,chrome,firefox,udvidelser,edge,safari,superbruger]     # TAG names should always be lowercase
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg
 ---
 
 ## Adblocking
@@ -154,3 +156,6 @@ Apple Safari er standardbrowseren på macOS og iOS. Den er hurtig og energieffek
 
 ### Andre browsere
 Der findes også mange andre browsere, som er bygget på Chromium, som fx Brave, DuckDuckGo og Vivaldi. De har deres egne fordele og ulemper, men generelt set tilbyder de et højere niveau af privatliv og sikkerhed sammenlignet med de mere etablerede browsere.
+
+---
+*Billedkreditering: Mozilla Corporation, MPL 2 <https://www.mozilla.org/en-US/MPL/2.0/>, via Wikimedia Commons*

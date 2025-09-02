@@ -4,6 +4,8 @@ date: 2025-06-02 13:20:00 +/-0
 description: Her følger nogle (primært gratis) tekniske værktøjer til teologistudiet.
 categories: [Browser, Skrivning]
 tags: [browser,referencer,universitet,græsk,latin,sprog,software,bibelen]     # TAG names should always be lowercase
+image:
+  path: https://cdn-icons-png.flaticon.com/512/3341/3341546.png
 ---
 
 _Dette opslag handler bl.a. om AI. Du skal altid være opmærksom, når det kommer til brugen af AI, da den kan være mangelfuld eller forkert._
@@ -116,3 +118,6 @@ Her er et uddrag af de vigtigste.
 |VOC|Vokativ|
 
 Det er relativt nemt at finde ud af, hvis man forestiller sig, hvad det kunne forkoretes til på engelsk.
+
+---
+*Billedkreditering: <a href="https://www.flaticon.com/free-icons/study-tools" title="study tools icons">Study tools icons created by Talha Dogar - Flaticon</a>*
