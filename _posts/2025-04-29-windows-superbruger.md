@@ -1,13 +1,14 @@
 ---
 title: Windows Superbruger-tips
 date: 2025-04-29 12:56:00 +/-0
+description: Her er nogle tips til Windows 11.
 categories: [Software, Værktøj]
 tags: [windows,microsoft,superbruger]     # TAG names should always be lowercase
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/e/e5/Windows11abstract.webp
 ---
 
-Her er nogle tips til Windows 11.
+
 
 ## Genvejstaster
 ### Udvalgte genvejstaster i Windows
