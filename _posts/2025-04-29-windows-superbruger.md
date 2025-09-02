@@ -50,7 +50,7 @@ Har du overvejet, hvordan du navngiver dine filer, så du altid kan finde dem.<b
 I langt de fleste tilfælder er titelen, som noget har på forhånd, nok.<br>
 Men hvad med noter fra undervisning, referarter eller regninger, som skal sorteres i rækkefølge?
 
-<b>Her anbefaler jeg altid formattet YYMMDD</b> - dvs. år måned dato. 250816 svare til d. 16. august 2025.<br>
+<b>Her anbefaler jeg altid formattet YYMMDD som det første i filens navn</b> - dvs. år måned dato. 250816 svare til d. 16. august 2025.<br>
 Jeg bruger aldrig DDMMYY, fordi det forvrænger sorteringen. Se herunder
 
 ### Eksempel på DDMMYY
@@ -72,7 +72,7 @@ Hvis du vil se filerne kronologisk, skal du i stedet opsætte dem YYMMDD
 * 240101
 * 251120
 
-Bemærk at 'filerne' er de samme, men datomarkeringen er flyttet rundt.
+Bemærk at navnet på filerne er den samme, men de er nu sorteret i en kronologisk rækkefølge.
 
 ## Opgrader til Windows 11 (selv hvis kravene ikke lever op til det)
 *Kom endelig og spørg, inden du går i gang med denne guide.*
@@ -81,11 +81,11 @@ I flere tilfælde kan man opgradere sin computer til Windows 11. Et af de "hård
 
 Sæt gerne 1-2 timer af til at gøre det, da det kan tage lang tid at hente Windows 11 ned og installere det.
 
-### Registry-tilføjelse
+### Trin 1: Registry-tilføjelse
 Vi skal først tilføje en værdi i Windows Registry, som gør det muligt at opgradere til Windows 11.
 Du kan enten gøre det hente en fil ned eller gøre det manuelt.
 
-#### Hentning af fil
+#### Trin 1a: Hentning af fil
 1. Hent filen [Windows11BypassCPUCheck](/assets/Windows11BypassCPUCheck.reg)
     1. Jeg har selv lavet filen. Du kan bekræfte det ved at åbne filen i Notesblok eller et andet tekstprogram. Der står kun følgende i den. <br> ![](/assets/img/RegFileScreenshot.png)
     
@@ -93,7 +93,7 @@ Du kan enten gøre det hente en fil ned eller gøre det manuelt.
 4. Sig Ja til at tilføje den i Windows Registry
 5. Filen er tilføjet og du skal genstarte computeren
 
-#### Manuel tilføjelse
+#### Trin 1b: Manuel tilføjelse
 I den manuelle tilføjelse skal du selv lægge værdien ind.
 
 1. Tryk på Win + R for at åbne Kør
@@ -106,7 +106,7 @@ I den manuelle tilføjelse skal du selv lægge værdien ind.
 7. Luk Registry Editor
 8. Genstart computeren
 
-### Lav et installationsmedie
+### Trin 2: Lav et installationsmedie
 Nu skal du lave et installationsmedie, som du kan bruge til at installere Windows 11.
 1. Hent [Media Creation Tool](https://www.microsoft.com/da-dk/software-download/windows11) fra Microsofts hjemmeside
 2. Find overskriften `Opret installationsmedie til Windows 11` og tryk på `Download nu`-knappen
@@ -117,7 +117,7 @@ Nu skal du lave et installationsmedie, som du kan bruge til at installere Window
 7. Vent på, at filen bliver hentet ned. Det kan tage et stykke tid.
 8. Når filen er hentet ned, kan du lukke programmet ved at trykke Udfør.
 
-### Installer Windows 11 fra ISO-filen
+### Trin 3: Installer Windows 11 fra ISO-filen
 1. Find den hentede ISO-fil og højreklik på den.
 2. Vælg "Monter" for at montere den som et drev.
 3. Åben Stifinder og find det nye drev, som er blevet oprettet.
