@@ -1,13 +1,11 @@
 ---
 title: Ny studerende
 date: 2025-06-08 18:02:00 +/-0
+description: Velkommen til teologistudiet! Denne guide er til dig, som er ny studerende. Hjemmesiden er en samling over de spørgsmål, jeg selv ønskede svar på, da jeg startede, samt tekniske spørgsmål, som jeg har fået gennem min studietid. Herunder er samlet de væsenligste til at komme i gang. Du skal også være velkommen til blot at surfe rundt.
 categories: [Universitet]
 tags: [word,microsoft,office,universitet,zotero,eksamen]     # TAG names should always be lowercase
 pin: true
 ---
-
-Velkommen til teologistudiet!<br>
-Denne guide er til dig, som er ny studerende. Hjemmesiden er en samling over de spørgsmål, jeg selv ønskede svar på, da jeg startede, samt tekniske spørgsmål, som jeg har fået gennem min studietid. Herunder er samlet de væsenligste til at komme i gang. Du skal også være velkommen til blot at surfe rundt.
 
 ## Adblocking
 Er du træt af reklamer?
