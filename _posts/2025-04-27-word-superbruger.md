@@ -112,7 +112,7 @@ _Denne del af guiden er hentet fra <https://answers.microsoft.com/en-us/msoffice
 
 Du er nu færdig.
 
-## Når du skal aflevere
+## Ved aflevering
 Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigtigt.
 
 1. Åben Filer --> Eksporter --> Opret PDF-XPS-dokument. Her trykker du på knappen "Opret PDF/XPS"
