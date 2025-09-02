@@ -1,6 +1,7 @@
 ---
 title: Browser Superbruger-tips
 date: 2025-05-20 20:16:45 +/-0
+description: Størstedelen af dette opslag er skrevet af min indre fanatiker. Langt størstedelen på internettet er frit tilgængeligt. "Hvis noget er gratis, er du produktet" har jeg tidligere hørt. Det sker ofte i form af salg af dine data til reklameformål. Sådan var intentionen ikke med internettet. Derfor kæmper jeg imod det ved begrænsning af den data, virksomheder kan sælge om mig.
 categories: [Browser]
 tags: [browser,chrome,firefox,udvidelser,edge,safari,superbruger]     # TAG names should always be lowercase
 ---
@@ -46,7 +47,7 @@ Jeg har her samlet tre forslag til, hvordan du kan gemme dine adgangskoder. Pers
 
 |Fungerer godt til|Sammen med|
 |---|---|
-|Chrome som browser (Windows/Mac)|Android som telefon (endnu bedre med [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=da)|
+|Chrome som browser (Windows/Mac)|Android som telefon (endnu bedre med [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=da))|
 
 Hvis du bruger disse to løsninger sammen, er dine adgangskoder altid synkroniseret og du kan altid tilgå dem på <https://passwords.google.com>
 
