@@ -38,20 +38,9 @@ Her følger en liste af udvalgte genvejstaster på Windows og Mac til Word.
 | Ctrl + piletast         | Cmd + piletast         | Flyt hop frem og tilbage mellem hele ord                                 |
 | Ctrl + Shift + piletast | Cmd + Shift + piletast | Marker hele ord                                                          |
 
-## Overskrifter
-Overskrifter kan være svære at finde ud af.<br>
-Denne guide kan være med til at give svar på, hvilken du skal vælge.
-
-### Hvilken overskrift skal jeg vælge?
-En tommelfingerregel vedr. overskrifter: Undgå at bruger Overskrift 1 for meget. Gå som udgangspunkt efter kun at bruge den en gang.
-* Se desuden <https://webaim.org/techniques/word/#headings>
-    * På hjemmesider må man ikke bruge Overskrift 1 mere end en gang på den samme side. Det skyldes, at Overskrift 1 er overskriften for den enkelte side, optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed.
-    * I dokumenter må man gerne bruge Overskrift 1 mere end en gang, så længe det har karakter af nyt indhold. Ligesom når man klikker ind på en ny hjemmeside. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
-* Du må <u>aldrig</u> springe i trin ned. Du må gerne gå fra Overskrift 2 til Overskrift 3 - men aldrig fra Overskrift 2 direkte til Overskrift 4
-* Du må altid gå mere end et trin op, fx må du gerne gå fra Overskrift 4 til Overskrift 2
-
-### Opdatering af alle overskrifter på en gang
-<b>Alle overskrifter af samme type skal have ens formattering. Dette punkt er vigtigt for en flot opstillet opgave og kan spare dig meget tid på sigt.</b><br>
+### Gør tekstformatering ens
+<b>Al brødtekst og overskrifter af samme type skal have ens formattering.<br>
+Dette punkt er vigtigt for en flot opstillet opgave og kan spare dig meget tid på sigt.</b><br>
 Hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, bør du følge denne guide.
 
 1. Vælg en af dine typografier i toppen af dit Word-dokument. Det kunne fx være Overskrift 2.
@@ -65,6 +54,18 @@ Hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, 
 6. Tryk OK
 
 Hvis vi følger eksemplet, vil alle dine Overskrift 2'er bliver opdateret med den nye formattering
+
+## Overskrifter
+Overskrifter kan være svære at finde ud af.<br>
+Denne guide kan være med til at give svar på, hvilken du skal vælge.
+
+### Hvilken overskrift skal jeg vælge?
+En tommelfingerregel vedr. overskrifter: Undgå at bruger Overskrift 1 for meget. Gå som udgangspunkt efter kun at bruge den en gang.
+* Se desuden <https://webaim.org/techniques/word/#headings>
+    * På hjemmesider må man ikke bruge Overskrift 1 mere end en gang på den samme side. Det skyldes, at Overskrift 1 er overskriften for den enkelte side, optimering af søgningen (SEO) og skærmlæsere/webtilgængelighed.
+    * I dokumenter må man gerne bruge Overskrift 1 mere end en gang, så længe det har karakter af nyt indhold. Ligesom når man klikker ind på en ny hjemmeside. Det gælder bl.a. dagbogsindlæg eller kapitelinddeling. Hvis man bruger overskrifter inde i et kapitel, skal det være Overskrift 2 eller en af lavere grad.
+* Du må <u>aldrig</u> springe i trin ned. Du må gerne gå fra Overskrift 2 til Overskrift 3 - men aldrig fra Overskrift 2 direkte til Overskrift 4
+* Du må altid gå mere end et trin op, fx må du gerne gå fra Overskrift 4 til Overskrift 2
 
 ## Referencehåndtering
 [Se min vejledning om Zotero](/posts/zotero)
