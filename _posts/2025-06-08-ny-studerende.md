@@ -42,9 +42,11 @@ Du kan synkronisere din AU kalender med din personlige kalender
 5. Kopiér linket og indsæt det i din personlige kalender.
 6. Tillykke, din AU kalender er nu synkroniseret med din private kalender.
 
+<!--
 ## Noter
 Har du overvejet, hvordan du vil holde styr på dine noter?<br>
 Jeg kan klart anbefale [Obsidian](/posts/obsidian).
+-->
 
 Jeg startede med at skrive mine noter i OneNote, men jeg følte mig begrænset af funktionerne.<br>
 Det føler jeg derimod ikke med Obsidian - det er næsten OneNote på steroider.
