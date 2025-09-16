@@ -51,22 +51,53 @@ Det føler jeg derimod ikke med Obsidian - det er næsten OneNote på steroider.
 
 ## Printer på Menighedsfakultetet
 Du kan få behov for at printe på Menighedsfakultetet, hvis du læser på FIUC-Aarhus. Sådan installerer du printeren
+
+### Windows
 1. Hent driveren <b>PCL 6 Driver</b> på <https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/imc3010/imc3010.htm>
 2. Installer driveren til computeren
 3. Åben Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere --> Tryk "Tilføj enhed"
-4. Jeg forventer ikke printeren kommer automatisk frem. Tryk nu "TIlføj manuelt", som kommer efter 10 sekunder
-5. Vælg "Tilføj en printer ved hjælp af en IP-adresse eller et værtsnavn
+4. Jeg forventer ikke printeren kommer automatisk frem. Tryk nu "Tilføj manuelt", som kommer efter 10 sekunder
+5. Vælg "Tilføj en printer ved hjælp af en IP-adresse eller et værtsnavn"
 6. Vælg enhedstypen som "Automatisk søgning"
-7. Skriv IP-adressen "10.0.100.26", efterlad portnavn tom og tryk Næste
-8. Du skal installere driveren med printeren. Vælg i menuen producent "Ricoh" og driveren "RICOH IM C3010 PCL 6"
-9. Printeren skulle gerne installere nu. Husk at give den et navn, fx MF Bibliotek
-10. Eftersom print koster penge, skal du tilføje dit Vennenr./Givernr.
-11. Find printeren under Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere og tryk på den
-12. Vælg nu "Udskriftsindstillinger"
-13. Under fanene "Grundlæggende" vælger du knappen "Brugerkodeindstilling..."
-14. Her skriver du dit Vennenr./Givernr. ind
-15. Tryk nu OK begge gange
-16. Du er klar til at printe
+7. Skriv IP-adressen `10.0.100.26`, efterlad portnavn tom og tryk Næste
+8. Hvis der står `10.0.100.26_1` i portnavnet, er printeren allerede installeret.
+9. Du skal installere driveren med printeren. Vælg i menuen producent "Ricoh" og driveren "RICOH IM C3010 PCL 6"
+10. Printeren skulle gerne installere nu. Husk at give den et navn, fx MF Bibliotek
+11. Eftersom print koster penge, skal du tilføje dit Vennenr./Givernr.
+12. Find printeren under Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere og tryk på den
+13. Vælg nu "Udskriftsindstillinger"
+14. Under fanene "Grundlæggende" vælger du knappen "Brugerkodeindstilling..."
+15. Her skriver du dit Vennenr./Givernr. ind
+16. Tryk nu OK begge gange
+17. Tjek også at efterbehandleren er slået til. Den kan hæfte sider sammen, hvis du får brug for det.
+18. Gå tilbage til menuen for "Printere og scannere" i Windows Indstillinger og vælger printeren.
+19. Tryk nu "Printeregenskaber"
+20. Vælg menupunktet "Tilbehør"
+21. Sørg for at flueben er sat i "Efterbehandler SR3310". Hvis det ikke er sat, skal du sætte det.
+22. Tryk OK
+23. Du er klar til at printe
+
+### Mac
+1. Hent driveren ned til din Mac. Sørg for at vælge den rigtige version af din Mac: <https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mpc3004/mpc3004.htm>
+2. Installer driveren ved at dobbeltklikke på den og gå hele installtionsprocessen igennem.
+3. Åben Systemindstillinger og find menupunktet for "Printere og scannere"
+4. Tryk "Tilføj printer, scanner eller fax"
+5. Vælg det miderste ikon (globussen) i den nye boks, som er kommet frem
+6. Under "Adresse" skriver du `10.0.100.26`
+7. Under "Navn" skriver du fx `MF Bibliotek` - det blot din egen navngivning af printeren
+8. Under menuen "Brug" skal du trykke "Vælg Software" og søg efter "RICOH MP 3504 PS"
+9. Tryk "OK" og derefter "Tilføj"
+10. Efter printeren er blevet slået til, skal du vælge den i Systemindstillinger og trykke "Indstillinger og forsyninger"
+11. Vælg "Indstillinger" (den i midten)
+12. Vælg under "Efterbehandler" SR3130.
+13. Tryk nu OK begge gang.
+14. Vælg nu et dokument, som du vil printe
+15. Tryk Cmd + P som genvejstasten til print.
+16. Under punktet "Joblog", skal du sætte flueben i "Aktiver brugerkode" og skrive dit MF Vennenr./Givernr. - Dog kun i feltet for Brugerkode.
+17. Tryk OK
+18. Vent med at printe - i stedet skal du under "Forudindstillinger" i toppen af printboksen trykke "Gen amtuelle indstillinger som forudindstillinger"
+19. Kald den fx "Min printkonto på MF" og gem den kun på denne printer.
+20. Du er nu klar til at printe.
 
 ## Teologisk begreber
 Jeg har forsøgt at lave en mindre liste over teologiske buzzwords, som kan være gode, når man starter på teologistudiet.
