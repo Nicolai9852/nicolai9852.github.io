@@ -17,6 +17,9 @@ I nogle tilfælde har jeg modtaget mail fra en bestemt adresse, som ryger i Spam
 3. Herunder er givet et eksempel
     1. ![](assets/img/GmailFilter.jpg)
 
+## NotebookLM
+Se opslaget i [Studieværktøjer](/posts/studieværktøjer/#notebooklm)
+
 ## Ryd op i Google Lagerplads
 Måske bruger du OneDrive til at gemme dine dokumenter i? Måske bruger du Google?<br>
 Google tilbyder 15 GB gratis lagerplads til alle brugere. Hvis din plads er ved at være fyldt op, kan du rydde op i din Google-lagerplads.
