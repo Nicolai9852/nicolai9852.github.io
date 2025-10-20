@@ -5,7 +5,7 @@ description: Hvem har ikke set en dårlig PowerPoint-præsentation? Her er nogle
 categories: [Software, Værktøj]
 tags: [superbruger,microsoft,office,powerpoint]     # TAG names should always be lowercase
 image:
-  path: https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg
+  path: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/2118px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png
 ---
 
 ## Eksporter billede
