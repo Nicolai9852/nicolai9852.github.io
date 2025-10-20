@@ -15,7 +15,7 @@ I nogle tilfælde har jeg modtaget mail fra en bestemt adresse, som ryger i Spam
 1. Tilgå Indstillingerne og vælg [Filtre og blokerede adresser](https://mail.google.com/mail/u/0/#settings/filters)
 2. Opret et nyt filter baseret på den parameter, som er vigtig for dig.
 3. Herunder er givet et eksempel
-    1. ![](assets/img/GmailFilter.jpg)
+    1. ![](/assets/img/GmailFilter.jpg)
 
 ## NotebookLM
 Se opslaget i [Studieværktøjer](/posts/studieværktøjer/#notebooklm)
@@ -30,7 +30,7 @@ Her fokuserer jeg på den gratis oprydning, som du kan gøre uden at betale for 
 
 1. Gå til [Google One](https://one.google.com/storage/management)
 2. Vælg en af knapperne til at rydde op i din lagerplads
-   ![](assets/img/google-one-cleanup.png)
+   ![](/assets/img/google-one-cleanup.png)
 3. Klik igennem og ryd op i de forskellige kategorier.
 
 ### Gmail-relateret
@@ -41,7 +41,7 @@ Google har gjort det nemt at afmelde nyhedsbreve, hvis du modtager dem i Gmail.
 
 1. Åben et nyhedsbrev i Gmail
 2. Tryk på "Afmeld" i toppen af nyhedsbrevet
-   ![](assets/img/gmail-newsletter-unsubscribe.png)
+   ![](/assets/img/gmail-newsletter-unsubscribe.png)
 3. Bekræft afmeldingen
 
 Du er nu afmeldt fremtidige nyhedsbreve fra afsenderen.
