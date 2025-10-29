@@ -146,7 +146,7 @@ _Kursus på Aarhus Universitet, hhv. 1.-2. og 2.-3. semester_
 <i>Se desuden opslaget om [Studieværktøjer](/posts/studieværktøjer/#sprogværktøj-til-græsk-og-latin), hvor der er en liste over elektroniske hjælpemidler.</i>
 
 Du skal lave en del morfologisk analyse i disse kurser. Det kommer nok oftest til at ske i hånden.<br>
-Lav derfor et system, som gør at du hurtigt kan skrive ting ned. Det kan samtidigt også hjælpe dig til at skrive hurtigere [til den mundtlige eksamen på hhv. 3. og 4. semester](#græsk-3--latin-3). Jeg giver følgende eksempler. 
+Lav derfor et system, som gør at du hurtigt kan skrive ting ned. Det kan samtidigt også hjælpe dig til at skrive hurtigere [til den mundtlige eksamen på hhv. 3. og 4. semester](#græsk-3-samt-latin-3). Jeg giver følgende eksempler. 
 
 |Forkortelse|Betydning|
 |---|---|
