@@ -171,7 +171,7 @@ Jeg har også en bestemt rækkefølge, så jeg ikke blander forskellige ting sam
 TID MODUS DIATESE PERSON TAL<br>
 Eksempelvis: `P I A 3 sg` giver `Præsens Indikativ Aktiv 3. person singularis`
 
-### Græsk 3 & Latin 3
+### Græsk 3 samt Latin 3
 _Kursus på Aarhus Universitet på 3. og 4. semester_
 
 Eksamen er 60 minutter forberedelse og 20 minutters eksamination.
