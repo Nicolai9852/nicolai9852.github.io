@@ -21,7 +21,7 @@ Det er især brugbart, hvis du skal slå op på et længere kapitel - fx [Salme 
 
 ### Bibelen Old
 Der findes også en ældre version af Bibelen Online, som man kan læse i.<br>
-Den findes på <http://old.bibelselskabet.dk/danbib/web/bibelen.htm>
+Den findes på <https://old.bibelselskabet.dk/danbib/web/bibelen.htm>
 
 ## MacroDroid
 _Det her er lidt niche, men jeg kan næsten ikke leve uden det_
