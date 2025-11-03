@@ -11,7 +11,7 @@ image:
 
 *Denne vejledning er oprindeligt udarbejdet af [Morten Hørning Jensen](https://teologi.dk/kontakt/akademiske-medarbejdere/morten-hoerning-jensen/) i 2024 med mine egne tilføjelser. Morten har givet tilladelse til at udgive hans vejlening på denne hjemmeside.*
 
-[Hent guiden i Word format her](/assets/Accordance%202024%20-%20Dansk%20manual%20online.docx){: .btn}
+[Hent guiden i Word format her](/assets//Accordance%202024%20-%20Dansk%20manual%20online.docx){: .btn}
 
 ## Gratis pakker
 Nogle gange kan man få nogle pakker gratis. Jeg har tidligere fået:
@@ -66,7 +66,7 @@ Se introduktionsmanual s3 (version 11 <https://www.accordancefiles1.com/products
 7. Instant Details (s11): Morfologi (genvej: cmd/ctrl viser udvidet information). 
 8. Info panel: klikkes til under Add Parallel i Zone med bibeltekst. 
 
-![](/assets/img/accordance-infographic-overview.png)
+![](/assets/img/accordance/accordance-infographic-overview.png)
 
 ### Overblik
 Worspaces er gemte opsætninger af bestemte tekster mv., der gør det nemt at finde et layout frem, man gerne vil bruge. Til eksegese vil det typisk være:
@@ -97,7 +97,7 @@ Laves ved at vælge File/New Workspace + lukke hvad der er + vælge Library og s
 5. Synopsis: Vælg New Tab og Parallels.
 6. Atlas: Atlas module + Satellite Atlas. 
 
-![](/assets/img/accordance-mh-nt-eksegese-ny.png)
+![](/assets/img/accordance/accordance-mh-nt-eksegese-ny.png)
 
 ## Hverdagsmusebrug - vejen til hvilens vande
 ### Overblik

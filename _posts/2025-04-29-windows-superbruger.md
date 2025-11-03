@@ -44,7 +44,7 @@ Brug Klippeværktøj på Windows til at tage skærmbilleder/screenshots.
 Du kan desuden aktivere knappen *Print Scrn* på dit tastatur til at aktivere knappen.
 <br>Åben [Windows Indstillinger --> Tilgængelighed --> Tastatur](ms-settings:easeofaccess-keyboard) --> *Brug tasten PrintScrn til at åbne skærmbillede*
 
-![](/assets/img/windows-indstillinger-printscrn.png)
+![](/assets/img/windows/windows-indstillinger-printscrn.png)
 
 ## Navngivning i Stifinder
 Har du overvejet, hvordan du navngiver dine filer, så du altid kan finde dem.<br>
@@ -87,7 +87,7 @@ Vi skal først tilføje en værdi i Windows Registry, som gør det muligt at opg
 Du kan enten gøre det hente en fil ned eller gøre det manuelt.
 
 #### Trin 1a: Hentning af fil
-1. Hent filen [Windows11BypassCPUCheck](/assets/Windows11BypassCPUCheck.reg)
+1. Hent filen [Windows11BypassCPUCheck](/assets/windows/Windows11BypassCPUCheck.reg)
     1. Jeg har selv lavet filen. Du kan bekræfte det ved at åbne filen i Notesblok eller et andet tekstprogram. Der står kun følgende i den. <br> ![](/assets/img/RegFileScreenshot.png)
     
 3. Dobbeltklik på filen og tryk Ja, når du bliver spurgt om at køre den.

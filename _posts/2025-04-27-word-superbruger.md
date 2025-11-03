@@ -46,11 +46,11 @@ Hvis du synes, at en overskrift skal have en anden størelse, farve eller lign, 
 
 1. Vælg en af dine typografier i toppen af dit Word-dokument. Det kunne fx være Overskrift 2.
 2. Højreklik og tryk *Rediger*
-   ![](/assets/img/word-overskrift2-rediger.png)
+   ![](/assets/img/word/word-overskrift2-rediger.png)
 3. Lav nu om i overskriften som du har lyst til
    1. Du kan ændre ting som font, skriftstørrelse, farve m.m.
 4. Sæt som regel altid flueben i *Opdater automatisk*
-   ![](/assets/img/word-overskrift2-opdater.png)
+   ![](/assets/img/word/word-overskrift2-opdater.png)
 5. Overvej om dette skal være generelt for dine dokumenter eller kun dette. Du kan enten vælge *Kun i dette dokument* eller *Nye dokumenter baseret på skabelonen*
 6. Tryk OK
 
@@ -128,7 +128,7 @@ Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigt
 1. Åben Filer --> Eksporter --> Opret PDF-XPS-dokument. Her trykker du på knappen "Opret PDF/XPS"
 2. Som standard er indstillingerne for "Åben fil efter publicering" og "Standard (online publicering og udskrivning)" valgt. Det er fint.
 3. Tryk nu på knappen til højre i dialogboksen, hvor der står "Indstillinger"
-![](/assets/img/word-pdf-export-diagbox.png)
+![](/assets/img/word/word-pdf-export-diagbox.png)
 4. Her skal du være opmærksom på følgende indstillinger
     1. Sideområde: Som udgangspunkt skal den være sat til "Alle"
     2. Hvad skal udgives: "Dokument"
@@ -138,7 +138,7 @@ Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigt
         3. Sæt flueben i "Koder til dokumentstruktur for tilgængelighed"
     4. PDF-indstillinger:
         1. Sæt flueben i "Bitmaptekst, når skrifttyper ikke er integreret"
-![](/assets/img/word-pdf-export-settings.png)
+![](/assets/img/word/word-pdf-export-settings.png)
 
 ---
 *Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*
