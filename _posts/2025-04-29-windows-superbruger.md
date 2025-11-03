@@ -87,12 +87,12 @@ Vi skal først tilføje en værdi i Windows Registry, som gør det muligt at opg
 Du kan enten gøre det hente en fil ned eller gøre det manuelt.
 
 #### Trin 1a: Hentning af fil
-1. Hent filen [Windows11BypassCPUCheck](/assets/windows/Windows11BypassCPUCheck.reg)
+1. Hent filen [Windows11BypassCPUCheck](/assets/Windows11BypassCPUCheck.reg)
     1. Jeg har selv lavet filen. Du kan bekræfte det ved at åbne filen i Notesblok eller et andet tekstprogram. Der står kun følgende i den. <br> ![](/assets/img/windows/RegFileScreenshot.png)
     
-3. Dobbeltklik på filen og tryk Ja, når du bliver spurgt om at køre den.
-4. Sig Ja til at tilføje den i Windows Registry
-5. Filen er tilføjet og du skal genstarte computeren
+2. Dobbeltklik på filen og tryk Ja, når du bliver spurgt om at køre den.
+3. Sig Ja til at tilføje den i Windows Registry
+4. Filen er tilføjet og du skal genstarte computeren
 
 #### Trin 1b: Manuel tilføjelse
 I den manuelle tilføjelse skal du selv lægge værdien ind.

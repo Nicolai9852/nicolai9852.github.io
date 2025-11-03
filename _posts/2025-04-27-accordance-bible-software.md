@@ -11,7 +11,7 @@ image:
 
 *Denne vejledning er oprindeligt udarbejdet af [Morten Hørning Jensen](https://teologi.dk/kontakt/akademiske-medarbejdere/morten-hoerning-jensen/) i 2024 med mine egne tilføjelser. Morten har givet tilladelse til at udgive hans vejlening på denne hjemmeside.*
 
-[Hent guiden i Word format her](/assets/accordance/Accordance%202024%20-%20Dansk%20manual%20online.docx){: .btn}
+[Hent guiden i Word format her](/assets/Accordance%202024%20-%20Dansk%20manual%20online.docx){: .btn}
 
 ## Gratis pakker
 Nogle gange kan man få nogle pakker gratis. Jeg har tidligere fået:
