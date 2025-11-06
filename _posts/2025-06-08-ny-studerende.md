@@ -55,27 +55,30 @@ Du kan få behov for at printe på Menighedsfakultetet, hvis du læser på FIUC-
 ### Windows
 1. Hent driveren <b>PCL 6 Driver</b> på <https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/imc3010/imc3010.htm>
 2. Installer driveren til computeren
-3. Åben Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere --> Tryk "Tilføj enhed"
-4. Jeg forventer ikke printeren kommer automatisk frem. Tryk nu "Tilføj manuelt", som kommer efter 10 sekunder
-5. Vælg "Tilføj en printer ved hjælp af en IP-adresse eller et værtsnavn"
-6. Vælg enhedstypen som "Automatisk søgning"
-7. Skriv IP-adressen `10.0.100.26`, efterlad portnavn tom og tryk Næste
-8. Hvis der står `10.0.100.26_1` i portnavnet, er printeren allerede installeret.
-9. Du skal installere driveren med printeren. Vælg i menuen producent "Ricoh" og driveren "RICOH IM C3010 PCL 6"
-10. Printeren skulle gerne installere nu. Husk at give den et navn, fx MF Bibliotek
-11. Eftersom print koster penge, skal du tilføje dit Vennenr./Givernr.
-12. Find printeren under Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere og tryk på den
-13. Vælg nu "Udskriftsindstillinger"
-14. Under fanene "Grundlæggende" vælger du knappen "Brugerkodeindstilling..."
-15. Her skriver du dit Vennenr./Givernr. ind
-16. Tryk nu OK begge gange
-17. Tjek også at efterbehandleren er slået til. Den kan hæfte sider sammen, hvis du får brug for det.
-18. Gå tilbage til menuen for "Printere og scannere" i Windows Indstillinger og vælger printeren.
-19. Tryk nu "Printeregenskaber"
-20. Vælg menupunktet "Tilbehør"
-21. Sørg for at flueben er sat i "Efterbehandler SR3310". Hvis det ikke er sat, skal du sætte det.
-22. Tryk OK
-23. Du er klar til at printe
+3. Undervejs i installationen af driveren skal du trykke "Min printer er ikke på listen"
+4. Her skal du indskrive at finde printeren ved hjælp af IP-adressen som er `10.0.100.26`
+5. Når du er færdig, kan du finde den i Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere
+6. Hvis printeren ikke fremgår af listen, skal du
+    1. Vælg "Tilføj en printer ved hjælp af en IP-adresse eller et værtsnavn"
+    2. Vælg enhedstypen som "Automatisk søgning"
+    3. Skriv IP-adressen `10.0.100.26`, efterlad portnavn tom og tryk Næste
+    4. Hvis der står `10.0.100.26_1` i portnavnet, er printeren allerede installeret.
+    5. Du skal installere driveren med printeren. Vælg i menuen producent "Ricoh" og driveren "RICOH IM C3010 PCL 6"
+    6. Printeren skulle gerne installere nu.
+7. Husk at give den et navn, fx MF Bibliotek. Du kan omdøbe en printers navn under Ydereligere printerindstillinger --> Omdøb
+8. Eftersom print koster penge, skal du tilføje dit Vennenr./Givernr.
+9. Find printeren under Windows Indstillinger --> Bluetooth og enheder --> Printere og scannere og tryk på den
+10. Vælg nu "Udskriftsindstillinger"
+11. Under fanene "Grundlæggende" vælger du knappen "Brugerkodeindstilling..."
+12. Her skriver du dit Vennenr./Givernr. ind
+13. Tryk nu OK begge gange
+14. Tjek også at efterbehandleren er slået til. Den kan hæfte sider sammen, hvis du får brug for det.
+15. Gå tilbage til menuen for "Printere og scannere" i Windows Indstillinger og vælger printeren.
+16. Tryk nu "Printeregenskaber"
+17. Vælg menupunktet "Tilbehør"
+18. Sørg for at flueben er sat i "Efterbehandler SR3310". Hvis det ikke er sat, skal du sætte det.
+19. Tryk OK
+20. Du er klar til at printe
 
 ### Mac
 1. Hent driveren ned til din Mac. Sørg for at vælge den rigtige version af din Mac: <https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mpc3004/mpc3004.htm>
