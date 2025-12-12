@@ -17,6 +17,13 @@ I nogle tilfælde har jeg modtaget mail fra en bestemt adresse, som ryger i Spam
 3. Herunder er givet et eksempel
     1. ![](/assets/img/google/GmailFilter.jpg)
 
+### Opret nye mailadresser let
+Hvis du gerne vil gøre filtreringen lettere, kan du tilføje et + tegn til slutningen af din mailadresse, når du indskriver den på en hjemmeside eller nyhedsbrev. På den måde får du ubegrænsede mailadresser, som havner i den samme indbakke.
+1. Eksempel `nicolai+nyhedsbrev@gmail.com` vil havne i den samme indbakke som `nicolai@gmail.com`
+2. Og `nicolai+facebook@gmail.com` vil også havne i indbakken for `nicolai@gmail.com`
+
+Sådan får du ubegrænsede mailadresser.
+
 ## NotebookLM
 Se opslaget i [Studieværktøjer](/posts/studieværktøjer/#notebooklm)
 
