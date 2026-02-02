@@ -98,7 +98,7 @@ Du kan få behov for at printe på Menighedsfakultetet, hvis du læser på FIUC-
 15. Tryk Cmd + P som genvejstasten til print.
 16. Under punktet "Joblog", skal du sætte flueben i "Aktiver brugerkode" og skrive dit MF Vennenr./Givernr. - Dog kun i feltet for Brugerkode.
 17. Tryk OK
-18. Vent med at printe - i stedet skal du under "Forudindstillinger" i toppen af printboksen trykke "Gen amtuelle indstillinger som forudindstillinger"
+18. Vent med at printe - i stedet skal du under "Forudindstillinger" i toppen af printboksen trykke "Gem aktuelle indstillinger som forudindstillinger"
 19. Kald den fx "Min printkonto på MF" og gem den kun på denne printer.
 20. Du er nu klar til at printe.
 
