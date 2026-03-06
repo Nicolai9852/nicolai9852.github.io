@@ -5,7 +5,7 @@ description: Hvem har ikke set en dårlig PowerPoint-præsentation? Her er nogle
 categories: [Software, Værktøj]
 tags: [superbruger,microsoft,office,powerpoint]     # TAG names should always be lowercase
 image:
-  path: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/2118px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png
+  path: https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg
 ---
 
 ## Eksporter billede
@@ -40,4 +40,4 @@ Hvis du ønsker at lave en ensartet præsentation, kan du bruge Slidemaster-funk
 6. Du kan nu indsætte indhold i de forskellige pladsholdere, som du har oprettet i Slidemasteren.
 
 ---
-*Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*
+*Billedkreditering: Microsoft, Public domain, via Wikimedia Commons*
