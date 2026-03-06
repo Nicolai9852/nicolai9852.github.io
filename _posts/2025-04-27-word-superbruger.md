@@ -5,7 +5,7 @@ categories: [Software, Skrivning]
 description: Du har sikkert skrevet mange opgaver i Word. Men jeg tvivler på, at du har udnyttet det til fulde.
 tags: [word,microsoft,office,zotero,superbruger]     # TAG names should always be lowercase
 image:
-  path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/1991px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png
+  path: https://upload.wikimedia.org/wikipedia/commons/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg
 ---
 
 *Denne guide gælder i princippet også for Google Docs. Der kan dog være afvigelser ift. genvejstaster*
@@ -141,4 +141,4 @@ Når du er færdig med at skrive en opgave, skal du eksportere dit dokument rigt
 ![](/assets/img/word/word-pdf-export-settings.png)
 
 ---
-*Billedkreditering: Microsoft Corporation, Public domain, via Wikimedia Commons*
+*Billedkreditering: Microsoft, Public domain, via Wikimedia Commons*
